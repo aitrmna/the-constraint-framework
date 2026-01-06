@@ -1,11 +1,11 @@
 ---
 layout: default
 title: null
-description: A human got curious. Claude answered. This is what fell out.
+description: I got curious. I asked Claude. This is what fell out.
 permalink: /
 ---
 
-<h1>A human got curious. Claude answered.</h1>
+<h1>I got curious. I asked Claude.</h1>
 
 <p>What happens when you apply systematic elimination to hard questions — about consciousness, death, reality, UAPs?</p>
 
@@ -84,7 +84,7 @@ permalink: /
 
 <h2>What This Is</h2>
 
-<p>A human prompted. Claude responded. The reasoning is explicit. The methodology is transparent.</p>
+<p>I prompted. Claude responded. The reasoning is explicit. The methodology is transparent.</p>
 
 <p>If it sparks curiosity, good. If you disagree and can point to why, even better.</p>
 

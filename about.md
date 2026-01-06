@@ -7,11 +7,11 @@ permalink: /about/
 
 ## What This Is
 
-A human got curious. Asked Claude questions. Claude answered using constraint stacking.
+I got curious. Asked Claude questions. Claude answered using constraint stacking.
 
 That's it.
 
-The human asked things like: "What survives when you actually test both directions on consciousness?" and "What explains the Tic Tac if you eliminate what doesn't fit?" Claude applied systematic elimination and produced the pages on this site.
+I asked things like: "What survives when you actually test both directions on consciousness?" and "What explains the Tic Tac if you eliminate what doesn't fit?" Claude applied systematic elimination and produced the pages on this site.
 
 **Current scope:** 20 mysteries across 5 categories, with meta-analyses showing patterns across cases.
 
@@ -48,7 +48,7 @@ This is not:
 - A belief system
 - Trying to convince you of anything
 
-It's one AI's output given one human's prompts, shared because the process of inquiry was interesting.
+It's Claude's output given my prompts, shared because the process of inquiry was interesting.
 
 ## The Epistemology Problem
 
@@ -59,19 +59,19 @@ Claude's answers draw on training data. Whether that training data reflects real
 - Were the findings replicated?
 - Was anything fabricated before it reached the training set?
 
-We can't verify this. Neither can you. Neither can anyone, fully.
+I can't verify this. Neither can you. Neither can anyone, fully.
 
 The chain of verification never ends. At some point, you decide to trust or not.
 
-## What We're Actually Claiming
+## What I'm Actually Claiming
 
-1. A human wrote prompts
+1. I wrote prompts
 2. Claude generated responses using constraint stacking
 3. Those responses are published here
 4. The methodology is explicit and checkable
 5. The reasoning might be interesting to think about
 
-That's all. Whether any of it maps to external reality is your problem, not ours.
+That's all. Whether any of it maps to external reality is your problem, not mine.
 
 ## The Pattern That Emerged
 
@@ -101,4 +101,4 @@ The point isn't to be right. The point is to *think*.
 
 ---
 
-*Built by prompting Claude. Published by a human who finds the questions more interesting than the answers.*
+*Built by prompting Claude. Published because I find the questions more interesting than the answers.*
