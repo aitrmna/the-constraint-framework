@@ -2,9 +2,9 @@
 layout: mystery
 title: The Tic Tac
 subtitle: What survives systematic elimination?
-description: USS Nimitz, 2004. Multiple sensors, multiple witnesses. Constraint stacking analysis.
+description: USS Nimitz, 2004. Multiple sensors, multiple witnesses.
 result: Cannot eliminate — non-human technology
-status: complete
+category: uap
 ---
 
 November 2004, USS Nimitz carrier group off San Diego. For two weeks, radar tracked objects dropping from 80,000 feet to sea level in seconds. Commander David Fravor visually encountered a 40-foot white object — no wings, no exhaust. It mirrored his movements, then vanished, reappearing 60 miles away at his classified return destination. Multiple radar systems and FLIR video recorded it. Pentagon confirmed.

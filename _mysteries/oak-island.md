@@ -2,9 +2,9 @@
 layout: mystery
 title: Oak Island
 subtitle: 230 years of digging. Is anything there?
-description: The Money Pit. Constraint stacking analysis.
+description: The Money Pit. The world's longest treasure hunt.
 result: Cannot eliminate — no significant treasure
-status: complete
+category: historical
 ---
 
 Since 1795, people have been digging on Oak Island, Nova Scotia. Six people have died. Millions of dollars spent. Multiple TV series.

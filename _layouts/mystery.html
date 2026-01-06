@@ -9,4 +9,4 @@ layout: default
 
 <hr>
 
-<p><a href="{{ '/mysteries/' | relative_url }}">← Back to Mysteries</a></p>
+<p><a href="{{ '/mysteries/' | append: page.category | append: '/' | relative_url }}">← Back to {{ page.category | capitalize }} Mysteries</a></p>

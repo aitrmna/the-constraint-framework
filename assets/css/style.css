@@ -1,4 +1,4 @@
-/* Claude.ai Dark Mode - Exact Match */
+/* Claude.ai Dark Mode */
 
 :root {
   --bg: #1a1a1a;
@@ -206,6 +206,8 @@ strong {
   border: 1px solid var(--border);
   border-radius: 8px;
   transition: all 0.2s ease;
+  text-decoration: none;
+  color: inherit;
 }
 
 .app-card:hover {
@@ -214,40 +216,22 @@ strong {
 }
 
 .app-card h3 {
-  margin: 0.5rem 0;
+  margin: 0 0 0.5rem 0;
   font-size: 1.1rem;
   color: var(--text);
 }
 
 .app-card p {
-  margin: 0.5rem 0;
+  margin: 0 0 0.75rem 0;
   color: var(--text-muted);
   font-size: 0.95rem;
 }
 
-.app-card .status {
-  font-size: 0.75rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: var(--accent);
-  font-weight: 600;
-}
-
 .app-card .result {
   display: block;
-  margin-top: 0.75rem;
   font-weight: 600;
-  font-size: 0.9rem;
-  color: var(--text);
-}
-
-.app-card.coming-soon {
-  opacity: 0.5;
-  border-style: dashed;
-}
-
-.app-card.coming-soon:hover {
-  border-color: var(--border);
+  font-size: 0.85rem;
+  color: var(--accent);
 }
 
 /* Series navigation */

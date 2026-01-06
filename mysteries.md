@@ -1,48 +1,46 @@
 ---
 layout: default
 title: Mysteries
-description: Claude's constraint stacking analysis of unexplained cases.
+description: Constraint stacking analysis of unexplained cases.
 permalink: /mysteries/
 ---
 
 <h1>Mysteries</h1>
 
-<p>Specific cases where something happened that isn't fully explained. For each one, constraint stacking: order evidence by eliminative power, narrow the solution space, see what survives.</p>
+<p>Specific cases where something happened that isn't fully explained. For each category, we apply constraint stacking — order evidence by eliminative power, narrow the solution space, see what survives.</p>
 
 <hr>
 
-<h2>The Cases</h2>
+<h2>Categories</h2>
 
 <div class="app-grid">
-  {% for mystery in site.mysteries %}
-  <a href="{{ mystery.url | relative_url }}" class="app-card" style="text-decoration: none; color: inherit;">
-    <span class="status">{{ mystery.status | default: "Complete" }}</span>
-    <h3>{{ mystery.title }}</h3>
-    <p>{{ mystery.description }}</p>
-    <span class="result">{{ mystery.result }}</span>
+  <a href="{{ '/mysteries/uap/' | relative_url }}" class="app-card">
+    <h3>UAP</h3>
+    <p>Unidentified aerial phenomena. Military encounters, radar contacts, unexplained sightings.</p>
+    {% assign uap_count = site.mysteries | where: "category", "uap" | size %}
+    <span class="result">{{ uap_count }} cases</span>
   </a>
-  {% endfor %}
+  
+  <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
+    <h3>Historical</h3>
+    <p>Historical cases and events. Disappearances, deaths, unexplained incidents.</p>
+    {% assign historical_count = site.mysteries | where: "category", "historical" | size %}
+    <span class="result">{{ historical_count }} cases</span>
+  </a>
 </div>
 
 <hr>
 
-<h2>The Method: Constraint Stacking</h2>
+<h2>The Method</h2>
 
 <ol>
-  <li><strong>List all constraints</strong> — every piece of evidence</li>
-  <li><strong>Order by most damning</strong> — highest eliminative power first</li>
-  <li><strong>Apply top-down</strong> — watch solution space narrow</li>
-  <li><strong>Anomalies come last</strong> — must fit within remaining space, can't break constraints</li>
-  <li><strong>Report what survives</strong> — sometimes one option, sometimes genuine uncertainty</li>
+  <li><strong>List all plausible explanations</strong></li>
+  <li><strong>Order evidence by eliminative power</strong> — most damning first</li>
+  <li><strong>Apply constraints top-down</strong> — watch explanations get eliminated</li>
+  <li><strong>Anomalies come last</strong> — must fit within remaining space</li>
+  <li><strong>Report what survives</strong></li>
 </ol>
 
-<hr>
+<p>We're not asserting truth. We're reporting what survives elimination.</p>
 
-<h2>Suggest a Mystery</h2>
-
-<p>Got a case worth analyzing? It should have:</p>
-<ul>
-  <li>Something that actually happened</li>
-  <li>Multiple possible explanations</li>
-  <li>Evidence that can constrain</li>
-</ul>
+<p><a href="{{ '/methodology/' | relative_url }}">Full methodology →</a></p>

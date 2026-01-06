@@ -35,22 +35,19 @@ permalink: /
 <h2>Big Questions</h2>
 
 <div class="app-grid">
-  <a href="{{ '/applications/death/' | relative_url }}" class="app-card" style="text-decoration: none; color: inherit;">
-    <span class="status">Complete</span>
+  <a href="{{ '/applications/death/' | relative_url }}" class="app-card">
     <h3>Does consciousness survive death?</h3>
     <p>Testing whether permanent annihilation survives the evidence.</p>
     <span class="result">Cannot eliminate: survival</span>
   </a>
   
-  <a href="{{ '/applications/materialism/' | relative_url }}" class="app-card" style="text-decoration: none; color: inherit;">
-    <span class="status">Complete</span>
+  <a href="{{ '/applications/materialism/' | relative_url }}" class="app-card">
     <h3>Is materialism true?</h3>
     <p>Testing whether "matter produces consciousness" survives.</p>
     <span class="result">Cannot eliminate: non-materialism</span>
   </a>
   
-  <a href="{{ '/applications/mathematics/' | relative_url }}" class="app-card" style="text-decoration: none; color: inherit;">
-    <span class="status">Complete</span>
+  <a href="{{ '/applications/mathematics/' | relative_url }}" class="app-card">
     <h3>Why does mathematics work?</h3>
     <p>The unreasonable effectiveness of abstract structures.</p>
     <span class="result">Cannot eliminate: math is discovered</span>
@@ -64,17 +61,22 @@ permalink: /
 <p>Specific cases where Claude tested explanations against evidence.</p>
 
 <div class="app-grid">
-  {% for mystery in site.mysteries limit:4 %}
-  <a href="{{ mystery.url | relative_url }}" class="app-card" style="text-decoration: none; color: inherit;">
-    <span class="status">{{ mystery.status | default: "Complete" }}</span>
-    <h3>{{ mystery.title }}</h3>
-    <p>{{ mystery.description }}</p>
-    <span class="result">{{ mystery.result }}</span>
+  <a href="{{ '/mysteries/uap/' | relative_url }}" class="app-card">
+    <h3>UAP</h3>
+    <p>Military encounters, radar contacts, unexplained sightings.</p>
+    {% assign uap_count = site.mysteries | where: "category", "uap" | size %}
+    <span class="result">{{ uap_count }} cases</span>
   </a>
-  {% endfor %}
+  
+  <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
+    <h3>Historical</h3>
+    <p>Disappearances, deaths, unexplained incidents.</p>
+    {% assign historical_count = site.mysteries | where: "category", "historical" | size %}
+    <span class="result">{{ historical_count }} cases</span>
+  </a>
 </div>
 
-<p><a href="{{ '/mysteries/' | relative_url }}">All mysteries →</a></p>
+<p><a href="{{ '/mysteries/' | relative_url }}">All mystery categories →</a></p>
 
 <hr>
 

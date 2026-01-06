@@ -2,9 +2,9 @@
 layout: mystery
 title: The Dyatlov Pass
 subtitle: Nine hikers dead. What actually happened?
-description: Ural Mountains, 1959. Constraint stacking analysis.
+description: Ural Mountains, 1959. The most debated wilderness death.
 result: Cannot eliminate — natural causes (wind + avalanche)
-status: complete
+category: historical
 ---
 
 February 1959. Nine experienced hikers died on Kholat Syakhl in the Ural Mountains. They cut their way out of their tent in the middle of the night, fled into -30°C temperatures without proper clothing, and scattered. Some had strange injuries. Soviet investigators concluded "compelling natural force."
