@@ -41,14 +41,14 @@ permalink: /
   
   <a href="{{ '/mysteries/consciousness/' | relative_url }}" class="app-card">
     <h3>Consciousness</h3>
-    <p>Does it survive death? Does matter produce it? Testing the assumptions.</p>
+    <p>Does it survive death? Does matter produce it? Testing both directions.</p>
     <span class="result">2 cases + meta → consciousness is fundamental</span>
   </a>
   
   <a href="{{ '/mysteries/foundations/' | relative_url }}" class="app-card">
     <h3>Foundations</h3>
-    <p>Why does mathematics describe reality? Is math invented or discovered?</p>
-    <span class="result">1 case → math is discovered</span>
+    <p>Why does mathematics work? Why are constants tuned for life?</p>
+    <span class="result">2 cases → reality is structured</span>
   </a>
   
   <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
@@ -70,7 +70,7 @@ permalink: /
 
 <h2>The Meta-Meta</h2>
 
-<p>19 mysteries. 5 categories. What emerges when we zoom all the way out?</p>
+<p>20 mysteries. 5 categories. What emerges when we zoom all the way out?</p>
 
 <div class="app-grid">
   <a href="{{ '/meta/' | relative_url }}" class="app-card">

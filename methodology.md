@@ -64,19 +64,42 @@ That's the finding. We're not claiming F is true. We're reporting that we couldn
 
 ---
 
-## Key Principles
+## Two-Sided Testing
 
-**1. Constraints are primary.** Hard constraints define the solution space. Everything else fits within.
+For questions where both sides have real evidence, we test BOTH directions:
 
-**2. Most damning first.** Order by eliminative power, not certainty.
+**Part 1:** Test Hypothesis A → list constraints it fails
 
-**3. Each constraint must fit within the space above.** No contradicting established constraints.
+**Part 2:** Test Hypothesis B → list constraints it fails
 
-**4. Anomalies come last.** They must fit within the solution, not break it.
+**Part 3:** Weigh the failures
 
-**5. Solution space narrows monotonically.** If it expands, you've made an error.
+Not all failures are equal. We categorize by type:
 
-**6. Stop when space is narrow.** Once you reach 1-3 viable options, report the result.
+| Evidence Type | Weight |
+|---------------|--------|
+| Unexplained anomalies (things exist that shouldn't) | HEAVY |
+| Methodological limits (can't prove in lab) | MODERATE |
+| Absence of evidence (haven't found X) | LIGHT |
+| Prior improbability (seems unlikely) | LIGHTEST |
+
+**The resolution:** The side with only priors/absence/methodological limits beats the side with unexplained anomalies.
+
+**Why?** The side that can't explain what exists is in worse shape than the side that can't prove what it claims.
+
+**Example:** In the consciousness analyses, materialism faces unexplained anomalies (terminal lucidity, the hard problem). Non-materialism faces only methodological limits (hard to prove in lab). Unexplained anomalies outweigh methodological limits. Non-materialism survives better.
+
+---
+
+## When Two-Sided Testing Applies
+
+**Use it when:** Both hypotheses have real evidence against them from within the case.
+
+**Don't use it when:** The "other side" only has priors or speculation.
+
+**Example — Tic Tac:** The case for "mundane explanation" relies on "aliens are unlikely" (prior) and "no artifact recovered" (absence). These aren't case-specific evidence. The case for "non-human technology" addresses the actual recorded data. No two-sided testing needed — one side engages the evidence, one side doesn't.
+
+**Example — Death:** The case for annihilation has real evidence (brain-consciousness correlation, no lab proof of survival). The case for survival has real evidence (terminal lucidity, verified NDEs). Both sides engage the evidence. Two-sided testing needed.
 
 ---
 
@@ -100,18 +123,30 @@ Probability estimates require precision we don't have. "85% confidence" sounds s
 
 ---
 
+## Key Principles
+
+1. **Constraints are primary.** Hard constraints define the solution space.
+2. **Most damning first.** Order by eliminative power, not certainty.
+3. **Test both directions** when both sides have real evidence.
+4. **Weigh by evidence type.** Unexplained anomalies > methodological limits > absence > priors.
+5. **Anomalies come last.** They must fit within the solution, not break it.
+6. **Convergence compounds.** Independent cases pointing same direction strengthen the conclusion.
+
+---
+
 ## What This Method Does
 
 - **Eliminates explanations** that can't survive the evidence
-- **Reveals what survives** when elimination is done systematically
-- **Shows the work** — every step visible, every elimination justified
+- **Tests both directions** when warranted
+- **Weighs failures** by evidence type
+- **Shows the work** — every step visible
 - **Handles uncertainty honestly** — sometimes multiple options survive
 
 ## What This Method Doesn't Do
 
 - **Assert truth** — it reports what survives elimination
-- **Produce certainty** — the method narrows possibilities; it doesn't prove
-- **Access external reality** — Claude only has training data; if that's wrong, outputs are wrong
+- **Produce certainty** — the method narrows; it doesn't prove
+- **Access external reality** — Claude only has training data
 
 ---
 

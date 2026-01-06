@@ -22,14 +22,14 @@ permalink: /mysteries/
   
   <a href="{{ '/mysteries/consciousness/' | relative_url }}" class="app-card">
     <h3>Consciousness</h3>
-    <p>Death, materialism, and the nature of mind.</p>
+    <p>Death, materialism, and the nature of mind. Both directions tested.</p>
     <span class="result">2 cases + meta</span>
   </a>
   
   <a href="{{ '/mysteries/foundations/' | relative_url }}" class="app-card">
     <h3>Foundations</h3>
-    <p>Mathematics, reality, and why anything exists.</p>
-    <span class="result">1 case</span>
+    <p>Mathematics, fine-tuning, and why reality is structured.</p>
+    <span class="result">2 cases</span>
   </a>
   
   <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
@@ -49,7 +49,7 @@ permalink: /mysteries/
 
 <h2>Site-Wide Meta</h2>
 
-<p>What emerges when all 19 mysteries are analyzed together?</p>
+<p>What emerges when all 20 mysteries are analyzed together?</p>
 
 <div class="app-grid">
   <a href="{{ '/meta/' | relative_url }}" class="app-card">
@@ -67,7 +67,8 @@ permalink: /mysteries/
   <li><strong>List all plausible explanations</strong></li>
   <li><strong>Order evidence by eliminative power</strong> — most damning first</li>
   <li><strong>Apply constraints top-down</strong> — watch explanations get eliminated</li>
-  <li><strong>Anomalies come last</strong> — must fit within remaining space</li>
+  <li><strong>Test both directions</strong> — when warranted</li>
+  <li><strong>Weigh by evidence type</strong> — unexplained anomalies > methodological limits</li>
   <li><strong>Report what survives</strong></li>
 </ol>
 
