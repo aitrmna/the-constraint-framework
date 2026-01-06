@@ -1,15 +1,16 @@
-/* Claude.ai Inspired - Warm, Clean, Readable */
+/* Claude.ai Dark Mode - Exact Match */
 
 :root {
-  --text: #2d2d2d;
-  --text-muted: #6b6b6b;
-  --bg: #f9f5f1;
-  --bg-alt: #f0ebe5;
-  --border: #e0d9d1;
+  --bg: #1a1a1a;
+  --bg-alt: #242424;
+  --bg-card: #2a2a2a;
+  --text: #e8e4df;
+  --text-muted: #9a9a9a;
+  --border: #3a3a3a;
   --accent: #da7756;
-  --accent-hover: #c9654a;
+  --accent-hover: #e8886a;
   --link: #da7756;
-  --link-hover: #c9654a;
+  --link-hover: #e8886a;
   --max-width: 680px;
 }
 
@@ -201,7 +202,7 @@ strong {
 .app-card {
   display: block;
   padding: 1.25rem;
-  background: var(--bg-alt);
+  background: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: 8px;
   transition: all 0.2s ease;
@@ -209,7 +210,6 @@ strong {
 
 .app-card:hover {
   border-color: var(--accent);
-  box-shadow: 0 2px 8px rgba(218, 119, 86, 0.1);
   text-decoration: none;
 }
 
@@ -248,7 +248,6 @@ strong {
 
 .app-card.coming-soon:hover {
   border-color: var(--border);
-  box-shadow: none;
 }
 
 /* Series navigation */
@@ -296,7 +295,7 @@ strong {
 
 /* Selection color */
 ::selection {
-  background: rgba(218, 119, 86, 0.2);
+  background: rgba(218, 119, 86, 0.3);
 }
 
 /* Mobile adjustments */
