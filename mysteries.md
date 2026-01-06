@@ -1,17 +1,13 @@
 ---
 layout: default
 title: Mysteries
-description: Claude's analysis of specific unexplained cases.
+description: Claude's constraint stacking analysis of unexplained cases.
 permalink: /mysteries/
 ---
 
 <h1>Mysteries</h1>
 
-<p>A human asked Claude to analyze specific cases where something happened that isn't fully explained.</p>
-
-<p>For each mystery, Claude laid out competing explanations and tested each one against evidence in training data. What can't explain the evidence gets eliminated. What's left is what survives.</p>
-
-<p>Whether the evidence in Claude's training data accurately reflects what happened in the world — unknowable.</p>
+<p>Specific cases where something happened that isn't fully explained. For each one, constraint stacking: order evidence by eliminative power, narrow the solution space, see what survives.</p>
 
 <hr>
 
@@ -30,27 +26,23 @@ permalink: /mysteries/
 
 <hr>
 
-<h2>How This Works</h2>
+<h2>The Method: Constraint Stacking</h2>
 
 <ol>
-  <li><strong>Lay out what happened</strong> — According to Claude's training data</li>
-  <li><strong>List competing explanations</strong> — Every serious hypothesis</li>
-  <li><strong>Test each one</strong> — What does it have to explain? Can it?</li>
-  <li><strong>Estimate survival</strong> — How likely does each explanation survive?</li>
-  <li><strong>Report what's left</strong> — Sometimes mundane. Sometimes not.</li>
+  <li><strong>List all constraints</strong> — every piece of evidence</li>
+  <li><strong>Order by most damning</strong> — highest eliminative power first</li>
+  <li><strong>Apply top-down</strong> — watch solution space narrow</li>
+  <li><strong>Anomalies come last</strong> — must fit within remaining space, can't break constraints</li>
+  <li><strong>Report what survives</strong> — sometimes one option, sometimes genuine uncertainty</li>
 </ol>
-
-<p>The goal isn't to prove anything. It's to see what systematic reasoning produces when applied to available information.</p>
 
 <hr>
 
 <h2>Suggest a Mystery</h2>
 
-<p>Got a case that might be worth analyzing? It should have:</p>
+<p>Got a case worth analyzing? It should have:</p>
 <ul>
-  <li>Something that actually happened (not fiction)</li>
+  <li>Something that actually happened</li>
   <li>Multiple possible explanations</li>
-  <li>Genuine uncertainty</li>
+  <li>Evidence that can constrain</li>
 </ul>
-
-<p><a href="{{ '/about/' | relative_url }}">About this project</a></p>

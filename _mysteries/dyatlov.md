@@ -1,238 +1,198 @@
 ---
 layout: mystery
-title: Dyatlov Pass
-subtitle: Nine hikers. One night. No survivors.
-description: Nine experienced hikers dead in the Soviet mountains. What happened?
-result: P(natural) ≈ 80%
+title: The Dyatlov Pass
+subtitle: Nine hikers dead. What actually happened?
+description: Ural Mountains, 1959. Constraint stacking analysis of the most debated wilderness death.
+result: Natural causes — katabatic wind + slab avalanche (90% conviction)
 status: complete
 ---
 
-February 1959. The Ural Mountains, Soviet Union.
+February 1959. Nine experienced hikers died on Kholat Syakhl in the Ural Mountains. They cut their way out of their tent in the middle of the night, fled into -30°C temperatures without proper clothing, and scattered. Some had strange injuries. Soviet investigators concluded "compelling natural force."
 
-Nine experienced hikers set up camp on a slope called Kholat Syakhl. By morning, all nine were dead. Their bodies were scattered across the mountain, some nearly naked, some with catastrophic injuries but no external wounds.
+For 65 years, people have proposed: secret military tests, Yeti, UFOs, infrasound-induced panic, murder.
 
-The Soviet investigation concluded: "A compelling natural force." Then they classified the case for 30 years.
-
-What happened?
+What survives constraint stacking?
 
 ---
 
-## What We Know
+## CONSTRAINT STACKING ANALYSIS
 
-**The group:** Seven men and two women, mostly university students. Led by Igor Dyatlov, 23. All experienced winter hikers. This was a Grade III expedition — the hardest rating.
+**CLAIM:** What killed the Dyatlov group?
 
-**The tent:** Found on February 26, torn open from the inside. Cuts made with a knife, from within. Still staked down. Belongings inside, including shoes.
-
-**The tracks:** Eight or nine sets of footprints leading downhill toward the tree line. Some barefoot, some in socks. Walking, not running. About 1.5 km down the slope.
-
-**The first two bodies:** Found under a cedar tree by the remains of a small fire. Yuri Doroshenko and Yuri Krivonischenko. Barefoot, in underwear. Branches broken high on the tree — someone had climbed it. Hands burned from trying to grab burning branches.
-
-**The next three:** Igor Dyatlov, Zinaida Kolmogorova, and Rustem Slobodin. Found between the tent and the cedar, at intervals. They died trying to return to the tent. Slobodin had a small skull fracture.
-
-**The last four:** Found in May, after the snow melted. In a ravine, 75 meters from the cedar. Buried under 4 meters of snow. Two had major chest fractures. One had her tongue missing. They wore more clothing — some taken from the first bodies.
-
-**The injuries:**
-
-- Ludmila Dubinina: Chest fractures, missing tongue, eyes, and lips
-- Semyon Zolotaryov: Chest fractures, missing eyes
-- Nikolai Thibeaux-Brignolle: Major skull fracture
-- No external wounds on any of them
-
-**The oddities:**
-
-- Some clothing tested positive for radioactive contamination
-- Reports of "orange skin" and "grey hair" (disputed — may be normal decomposition)
-- No signs of struggle
-- No evidence of other people
+**STARTING SOLUTION SPACE:**
+- Avalanche
+- Katabatic wind event
+- Hypothermia (simple exposure)
+- Murder (by humans)
+- Military weapons test
+- Animal attack
+- Infrasound panic
+- Unknown phenomenon
 
 ---
 
-## The Hypotheses
+### CONSTRAINT 1 (MOST DAMNING): They Cut Out From Inside
 
-1. **Avalanche** — Snow collapsed on tent, they fled, died of cold
-2. **Slab avalanche / wind event** — Delayed collapse or extreme wind caused panic
-3. **Hypothermia alone** — Cold killed them, explains all the weirdness
-4. **Infrasound** — Wind created panic-inducing sound waves
-5. **Military test** — Soviet weapons test killed or scared them
-6. **Attack by other humans** — Mansi people, escaped prisoners, or military
-7. **Animal attack** — Bear or other animal caused the panic
-8. **Something stranger** — Unexplained phenomenon
+**Evidence:**
+- Tent was cut from inside (knife cuts slope inward)
+- Multiple cuts made hastily
+- Footprints show orderly departure (not chaotic scramble)
 
----
+**What this means:** Whatever happened, they chose to leave. Quickly. Through the tent wall rather than the entrance.
 
-## Testing the Explanations
+**ELIMINATES:**
+- ❌ Murder by outsiders (attackers don't wait inside while victims cut their way out)
+- ❌ Animal inside tent (would have torn tent, not knife cuts)
+- ❌ Simple hypothermia (doesn't explain urgent exit)
 
-### 1. Classic Avalanche
+**Solution space remaining:** Avalanche, katabatic wind, military test, infrasound, unknown phenomenon
 
-**The claim:** An avalanche hit the tent. They cut their way out and fled.
-
-**Problems:**
-
-- The tent was still mostly standing when found
-- No avalanche debris documented
-- The slope angle (around 23°) is below typical avalanche range
-- Footprints were intact — an avalanche would have destroyed them
-- Doesn't explain why they didn't return for shoes and coats
-
-**Verdict:** A classic avalanche doesn't fit. Something made them leave, but probably not a full avalanche.
-
-**Survival probability:** ~10%
-
-### 2. Slab Avalanche or Wind Event (2020 Theory)
-
-**The claim:** A small slab of snow collapsed onto the tent hours after they set it up. Not a big avalanche — just enough to injure some and convince all to flee. The injuries came from the snow slab, not later.
-
-**What it explains:**
-
-- Why they cut the tent from inside (pinned by snow)
-- The chest fractures (pressure from snow slab — similar to car crash injuries)
-- Why they didn't return (injured members couldn't walk back, others stayed to help)
-- Why footprints survived (small local event, not major avalanche)
-- The skull fracture (impact during collapse)
-
-**Problems:**
-
-- Why no avalanche debris documented by searchers?
-- The four in the ravine had worst injuries — but they got furthest from the tent?
-- Missing tongue (though: probably decomposition and scavengers after death)
-
-**Verdict:** This is currently the best explanation. A 2020 study by Swiss researchers modeled the exact conditions and showed it was plausible. Not certain, but it fits most facts.
-
-**Survival probability:** ~55%
-
-### 3. Hypothermia Alone
-
-**The claim:** Something made them leave (wind, noise, minor scare), and cold did the rest. The weird behavior is explained by how hypothermia kills.
-
-**What hypothermia does:**
-
-- **Paradoxical undressing:** As you freeze, blood vessels near the skin suddenly dilate. You feel burning hot. You strip off clothes. This is documented in many hypothermia deaths.
-- **Terminal burrowing:** Dying people crawl into small spaces. The four in the ravine may have done this.
-- **Confusion:** You make bad decisions. You don't go back for your shoes even when you should.
-
-**Problems:**
-
-- Doesn't explain the chest fractures (too severe for a fall)
-- Doesn't explain why they left in the first place
-
-**Verdict:** Hypothermia definitely killed most of them. But it's not the whole story — something made them leave, and something caused those injuries.
-
-**Survival probability (as complete explanation):** ~15%
-
-### 4. Infrasound
-
-**The claim:** Wind passing over the mountain created infrasound — low-frequency sound waves humans can't hear but can feel. Infrasound can cause panic, dread, and irrational behavior.
-
-**Problems:**
-
-- Infrasound effects are real but subtle. Enough to cause mild unease, not enough to make experienced hikers abandon shelter in -30°C.
-- Doesn't explain the injuries
-- No one else has reported this effect in that area
-
-**Verdict:** Creative, but too weak. Infrasound might contribute to unease, but it doesn't make you cut open your tent and walk into the snow.
-
-**Survival probability:** ~5%
-
-### 5. Military Test
-
-**The claim:** The Soviet military was testing weapons in the area. A rocket, bomb, or parachute mine landed near the tent. The hikers fled. The case was classified to cover it up.
-
-**What it might explain:**
-
-- Radioactive clothing (contamination from weapons material)
-- The classification of the case
-- Reports of "orange spheres" in the sky that night from other witnesses
-- The strange injuries (blast pressure)
-
-**Problems:**
-
-- No blast debris found
-- The tent was intact enough that an explosion nearby seems unlikely
-- The radioactivity was low-level (could be from camping lanterns with thorium mantles)
-- Why would they walk downhill instead of away from the blast?
-
-**Verdict:** Possible, and would explain the cover-up. But the physical evidence doesn't strongly support it.
-
-**Survival probability:** ~10%
-
-### 6. Attack by Humans
-
-**The claim:** Someone attacked them — Mansi indigenous people, escaped prisoners, or military personnel.
-
-**Problems:**
-
-- No tracks from anyone else
-- No defensive wounds on the hikers
-- Nothing was stolen — money, alcohol, and food left in tent
-- Mansi had no history of violence against hikers
-- The injuries don't look like beating (internal, no external wounds)
-
-**Verdict:** The evidence against this is strong. No sign of anyone else being there.
-
-**Survival probability:** ~3%
-
-### 7. Animal Attack
-
-**The claim:** A bear or other animal approached the tent. They panicked and fled.
-
-**Problems:**
-
-- No animal tracks
-- No bite marks or claw marks
-- Bears in that region typically hibernate in February
-- The injuries don't match animal attack
-
-**Verdict:** No physical evidence supports this.
-
-**Survival probability:** ~2%
-
-### 8. Something Stranger
-
-**The claim:** Something unexplained — connected to the lights in the sky, unknown phenomenon, etc.
-
-**Honestly:** There's no positive evidence for anything paranormal here. The "orange spheres" reported by other witnesses that night could be many things — including military activity.
-
-Unlike the Tic Tac case, there's no sensor data, no physical evidence that demands an exotic explanation. The deaths are strange, but "strange" doesn't mean "supernatural."
-
-**Verdict:** When a mundane explanation (slab avalanche + hypothermia) fits most of the facts, you don't need to invoke the unknown.
-
-**Survival probability:** ~5%
+**DAMNING POWER: HIGH**
 
 ---
 
-## The Math
+### CONSTRAINT 2: No External Attackers
 
-| Hypothesis | Survival Probability |
-|------------|---------------------|
-| Slab avalanche + hypothermia | ~55% |
-| Hypothermia alone | ~15% |
-| Classic avalanche | ~10% |
-| Military test | ~10% |
-| Infrasound | ~5% |
-| Something stranger | ~5% |
-| Human attack | ~3% |
-| Animal attack | ~2% |
+**Evidence:**
+- Only group's footprints in snow
+- No other tracks for miles
+- No signs of struggle with outsiders
+- Nothing stolen from camp
 
-Unlike the Tic Tac, the mundane explanations win here. The 2020 slab avalanche theory, combined with known hypothermia effects, explains most of what happened.
+**ELIMINATES:**
+- ❌ Murder by other humans
+- ❌ Military personnel on scene
+- ❌ Any external agent requiring physical presence
 
----
+**Solution space remaining:** Avalanche, katabatic wind, military test (remote), infrasound, unknown phenomenon
 
-## What This Shows
-
-Not every mystery requires an exotic answer.
-
-Dyatlov Pass is famous because it *feels* creepy. The Soviet cover-up added mystique. The missing tongue sounds horrifying (but soft tissue is the first thing scavengers eat). The internal injuries seem impossible (but snow pressure can crush ribs like a car crash).
-
-When you actually test the explanations against evidence, a natural disaster + hypothermia covers most of it. There are still questions — we'll probably never know exactly what made them leave the tent. But "we don't know the exact trigger" is different from "something paranormal happened."
+**DAMNING POWER: MASSIVE**
 
 ---
 
-## The Honest Answer
+### CONSTRAINT 3: The Injuries Pattern
 
-**Most likely:** A small snow slab collapsed on the tent. Some were injured. They cut their way out and fled downhill to the trees. The injured couldn't return. The others stayed to help, tried to make fire, and froze. Those who lasted longest took clothes from the dead. Eventually everyone died of cold.
+**Evidence:**
+- Two had major chest fractures (force comparable to car crash)
+- One missing tongue (post-mortem, in stream)
+- Others died of hypothermia with minor injuries
+- Fractures showed no external wounds (crushing force, not blunt impact)
 
-**What we don't know:** The exact trigger. Whether there was a military component. Why they chose that specific campsite.
+**What this means:** Massive internal pressure without surface damage = compression force, not beating. Consistent with:
+- Snow mass compression (avalanche/snow shelter collapse)
+- Falling into ravine
 
-**What we can say:** There's no strong evidence for anything beyond a natural disaster and bad luck. Nine experienced people made one bad decision (or had one forced on them), and the mountain killed them.
+**ELIMINATES:**
+- ❌ Beating/attack (would show external wounds)
+- ❌ Weapons (would show penetration or surface damage)
+- ❌ Simple exposure (doesn't explain compression fractures)
 
-Sometimes that's the answer.
+**Solution space remaining:** Avalanche, katabatic wind + secondary injury, unknown phenomenon
+
+**DAMNING POWER: HIGH**
+
+---
+
+### CONSTRAINT 4: The Timeline and Behavior
+
+**Evidence:**
+- Fled tent urgently (cut through wall)
+- Walked 1.5km downhill in orderly fashion
+- Split into groups
+- Some built fire, some built snow shelter
+- Those in ravine had worst injuries
+- Injuries consistent with snow shelter collapse
+
+**What this means:** They weren't panicked mindlessly — they executed survival procedures. Something forced them from tent, but didn't chase them. They died from exposure and secondary accidents (ravine, collapsed shelter).
+
+**ELIMINATES:**
+- ❌ Infrasound panic (they behaved rationally after leaving)
+- ❌ Continuous threat (would have killed them at tent)
+
+**Solution space remaining:** Avalanche/wind event that threatened tent but didn't pursue
+
+**DAMNING POWER: HIGH**
+
+---
+
+### CONSTRAINT 5: 2020 Research — Slab Avalanche Model
+
+**Evidence:**
+- Puzrin & Gaume (Nature, 2020) demonstrated:
+  - Delayed slab avalanche possible at low slope angle
+  - Triggered by cut made for tent + subsequent wind loading
+  - Would produce impact forces matching observed fractures
+  - Explains delay between setting camp and event
+- Katabatic winds documented in area
+- Wind could explain tent damage patterns
+
+**What this means:** Known physics can produce exactly what was observed — sudden threat to tent, injuries consistent with snow impact, no external attacker.
+
+**ELIMINATES:**
+- ❌ Unknown phenomenon (known physics explains it)
+- ❌ Need for exotic explanation
+
+**Solution space remaining:** Slab avalanche + katabatic wind
+
+**DAMNING POWER: HIGH**
+
+---
+
+### CONSTRAINT 6: Soviet Investigation Limitations
+
+**Evidence:**
+- Investigation closed quickly with vague conclusion
+- Some files classified (normal for any death near military areas in USSR)
+- Radiation found on some clothing (consistent with thorium camping lanterns of era)
+- "Orange skin" on bodies (normal decomposition)
+
+**What this means:** Soviet secrecy was procedural, not cover-up. "Mysterious" details have mundane explanations.
+
+**ELIMINATES:**
+- ❌ Military cover-up (no evidence of actual military involvement)
+- ❌ Secret weapons (no weapons effects found)
+
+**Solution space remaining:** Natural causes (avalanche + wind + exposure)
+
+**DAMNING POWER: MODERATE**
+
+---
+
+## ANOMALIES
+
+**"Why were some better dressed than others?"**
+→ Those who died first gave clothing to others (documented survival behavior). Not mysterious.
+
+**"Why didn't they return to tent?"**
+→ In whiteout conditions at night, they likely couldn't find it. 1.5km in darkness and snow = effectively lost.
+
+**"Why the missing tongue?"**
+→ Body was face-down in running water for months. Soft tissue decomposition. Documented phenomenon.
+
+**"Why the radiation?"**
+→ Thorium mantles in camping lanterns. Common at the time. Measured levels were minimal.
+
+All anomalies fit within natural explanation.
+
+---
+
+## FINAL SOLUTION SPACE
+
+| Hypothesis | Status |
+|------------|--------|
+| Murder | ❌ Eliminated (Constraints 1, 2) |
+| Military test | ❌ Eliminated (Constraints 2, 6) |
+| Animal attack | ❌ Eliminated (Constraint 1) |
+| Infrasound panic | ❌ Eliminated (Constraint 4) |
+| UFO/Yeti/Unknown | ❌ Eliminated (Constraint 5) |
+| **Katabatic wind + slab avalanche** | ✓ **Survives all constraints** |
+
+---
+
+## CONVICTION: 90%
+
+One coherent natural explanation survives. 2020 research provides physical model matching all evidence.
+
+The 10% covers: Possible undiscovered evidence that would change the picture. But 65 years of investigation hasn't produced any.
+
+**Conclusion:** The Dyatlov group was killed by a combination of katabatic wind event and/or delayed slab avalanche, forcing evacuation from tent, followed by hypothermia and secondary injuries from terrain/shelter collapse. Tragic, but natural.
