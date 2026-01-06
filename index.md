@@ -7,9 +7,9 @@ permalink: /
 
 <h1>A human asked. Claude answered.</h1>
 
-<p>This site contains Claude's responses to hard questions — about death, consciousness, unexplained phenomena, and more.</p>
+<p>This site contains Claude's responses to hard questions — about death, consciousness, reality, and more.</p>
 
-<p>The human asked things like: <em>"What's the probability that death is the end?"</em> and <em>"What actually explains the Tic Tac UFO?"</em></p>
+<p>The human asked things like: <em>"What's the probability that death is the end?"</em> and <em>"Why does mathematics describe reality so well?"</em></p>
 
 <p>Claude applied systematic reasoning and produced the pages below. Whether any of it reflects external reality depends on whether Claude's training data is accurate — which neither we nor you can fully verify.</p>
 
@@ -40,23 +40,23 @@ permalink: /
   <a href="{{ '/applications/death/' | relative_url }}" class="app-card" style="text-decoration: none; color: inherit;">
     <span class="status">Complete</span>
     <h3>Does consciousness survive death?</h3>
-    <p>Claude's estimate: permanent annihilation is unlikely.</p>
+    <p>Testing whether permanent annihilation is likely.</p>
     <span class="result">P(annihilation) < 1%</span>
   </a>
   
-  <div class="app-card coming-soon">
-    <span class="status">Coming Soon</span>
+  <a href="{{ '/applications/materialism/' | relative_url }}" class="app-card" style="text-decoration: none; color: inherit;">
+    <span class="status">Complete</span>
     <h3>Is materialism true?</h3>
-    <p>Does matter produce consciousness?</p>
-    <span class="result">Pending</span>
-  </div>
+    <p>Testing whether matter produces consciousness.</p>
+    <span class="result">P(materialism) ≈ 1-2%</span>
+  </a>
   
-  <div class="app-card coming-soon">
-    <span class="status">Coming Soon</span>
-    <h3>Is free will real?</h3>
-    <p>Or is agency an illusion?</p>
-    <span class="result">Pending</span>
-  </div>
+  <a href="{{ '/applications/mathematics/' | relative_url }}" class="app-card" style="text-decoration: none; color: inherit;">
+    <span class="status">Complete</span>
+    <h3>Why does mathematics work?</h3>
+    <p>The unreasonable effectiveness of abstract structures.</p>
+    <span class="result">P(coincidence) < 40%</span>
+  </a>
 </div>
 
 <hr>
