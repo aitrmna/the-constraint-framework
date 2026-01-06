@@ -1,17 +1,17 @@
 ---
 layout: default
 title: null
-description: A human asked Claude hard questions. This is what Claude said.
+description: A human got curious. Claude answered. This is what fell out.
 permalink: /
 ---
 
-<h1>A human asked. Claude answered.</h1>
+<h1>A human got curious. Claude answered.</h1>
 
-<p>This site contains Claude's responses to hard questions — about consciousness, death, reality, UAPs, and more.</p>
+<p>What happens when you apply systematic elimination to hard questions — about consciousness, death, reality, UAPs?</p>
 
-<p>Claude applied systematic reasoning and produced the pages below. Whether any of it reflects external reality depends on whether Claude's training data is accurate — which neither we nor you can fully verify.</p>
+<p>This site is the result. Not claims. Not beliefs. Just: here's the method, here's the evidence, here's what survives.</p>
 
-<p>This is what fell out. Take it or leave it.</p>
+<p>Some mysteries dissolve into boring explanations. Some resist everything you throw at them. Both are interesting.</p>
 
 <hr>
 
@@ -35,32 +35,32 @@ permalink: /
 <div class="app-grid">
   <a href="{{ '/mysteries/uap/' | relative_url }}" class="app-card">
     <h3>UAP</h3>
-    <p>Six military encounters. Four decades. Four countries. Same surviving conclusion.</p>
-    <span class="result">6 cases + meta → non-human technology</span>
+    <p>Six military encounters. Four decades. Four countries. What survives elimination?</p>
+    <span class="result">6 cases + meta</span>
   </a>
   
   <a href="{{ '/mysteries/consciousness/' | relative_url }}" class="app-card">
     <h3>Consciousness</h3>
     <p>Does it survive death? Does matter produce it? Testing both directions.</p>
-    <span class="result">2 cases + meta → consciousness is fundamental</span>
+    <span class="result">2 cases + meta</span>
   </a>
   
   <a href="{{ '/mysteries/foundations/' | relative_url }}" class="app-card">
     <h3>Foundations</h3>
     <p>Why does mathematics work? Why are constants tuned for life?</p>
-    <span class="result">2 cases → reality is structured</span>
+    <span class="result">2 cases</span>
   </a>
   
   <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
     <h3>Historical</h3>
     <p>Dyatlov, Oak Island, D.B. Cooper, Mary Celeste, Bermuda Triangle, Voynich, Zodiac.</p>
-    <span class="result">7 cases + meta → mostly mundane</span>
+    <span class="result">7 cases + meta</span>
   </a>
   
   <a href="{{ '/mysteries/signals/' | relative_url }}" class="app-card">
     <h3>Signals</h3>
     <p>Wow! Signal, Fast Radio Bursts, Numbers Stations.</p>
-    <span class="result">3 cases + meta → mostly explained</span>
+    <span class="result">3 cases + meta</span>
   </a>
 </div>
 
@@ -68,15 +68,15 @@ permalink: /
 
 <hr>
 
-<h2>The Meta-Meta</h2>
+<h2>The Patterns</h2>
 
-<p>20 mysteries. 5 categories. What emerges when we zoom all the way out?</p>
+<p>20 mysteries. 5 categories. What emerges when you zoom out?</p>
 
 <div class="app-grid">
   <a href="{{ '/meta/' | relative_url }}" class="app-card">
-    <h3>Site-Wide Meta-Constraint</h3>
-    <p>Most historical mysteries → mundane. All UAP cases → non-human. All consciousness analyses → non-materialist. The pattern is the finding.</p>
-    <span class="result">Convergence across all categories</span>
+    <h3>Site-Wide Meta</h3>
+    <p>Most historical mysteries → mundane. UAP and consciousness → resist mundane. Same method, different results. The pattern raises questions.</p>
+    <span class="result">What does the pattern mean?</span>
   </a>
 </div>
 
@@ -84,8 +84,8 @@ permalink: /
 
 <h2>What This Is</h2>
 
-<p>A human prompted. Claude responded. That's the entire claim.</p>
+<p>A human prompted. Claude responded. The reasoning is explicit. The methodology is transparent.</p>
 
-<p>The reasoning is explicit. The methodology is transparent. Whether it maps to reality is unknowable and therefore not claimed.</p>
+<p>If it sparks curiosity, good. If you disagree and can point to why, even better.</p>
 
 <p><a href="{{ '/about/' | relative_url }}">More about this project →</a></p>
