@@ -22,14 +22,14 @@ permalink: /mysteries/
   
   <a href="{{ '/mysteries/consciousness/' | relative_url }}" class="app-card">
     <h3>Consciousness</h3>
-    <p>Death, materialism, and the nature of mind. Both directions tested.</p>
-    <span class="result">2 cases + meta</span>
+    <p>Death, materialism, the self, free will, and the Fermi question.</p>
+    <span class="result">5 cases + meta</span>
   </a>
   
   <a href="{{ '/mysteries/foundations/' | relative_url }}" class="app-card">
     <h3>Foundations</h3>
-    <p>Mathematics, fine-tuning, and why reality is structured.</p>
-    <span class="result">2 cases</span>
+    <p>Mathematics, fine-tuning, and why anything exists at all.</p>
+    <span class="result">3 cases</span>
   </a>
   
   <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
@@ -49,12 +49,12 @@ permalink: /mysteries/
 
 <h2>Site-Wide Meta</h2>
 
-<p>What emerges when all 20 mysteries are analyzed together?</p>
+<p>What emerges when all 24 mysteries are analyzed together?</p>
 
 <div class="app-grid">
   <a href="{{ '/meta/' | relative_url }}" class="app-card">
     <h3>The Meta-Meta</h3>
-    <p>Patterns across all categories. Most historical → mundane. All UAP → non-human. All consciousness → non-materialist.</p>
+    <p>A coherent pattern: awareness is fundamental, reality is structured, we're not alone. Same method finds mundane where mundane fits.</p>
     <span class="result">The pattern is the finding</span>
   </a>
 </div>

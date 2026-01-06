@@ -1,15 +1,15 @@
 ---
 layout: default
 title: Consciousness Mysteries
-description: Constraint stacking analysis of consciousness, death, and the nature of mind.
+description: Constraint stacking analysis of consciousness, death, the self, and the nature of mind.
 permalink: /mysteries/consciousness/
 ---
 
 <h1>Consciousness Mysteries</h1>
 
-<p>What is consciousness? Is it produced by matter? Does it survive death? These questions have assumed answers that are rarely tested.</p>
+<p>What is consciousness? Is it produced by matter? Does it survive death? What is the "self"? Do we have free will? If we're not alone, what does that mean?</p>
 
-<p>We test them.</p>
+<p>These questions have assumed answers that are rarely tested. We test them.</p>
 
 <hr>
 
@@ -35,8 +35,8 @@ permalink: /mysteries/consciousness/
 <div class="app-grid">
   <a href="{{ '/mysteries/consciousness/meta/' | relative_url }}" class="app-card">
     <h3>Consciousness Meta-Constraint</h3>
-    <p>Convergence across death and materialism analyses.</p>
-    <span class="result">Convergence → consciousness is fundamental</span>
+    <p>Convergence across death, materialism, the self, and free will.</p>
+    <span class="result">Awareness is fundamental</span>
   </a>
 </div>
 
