@@ -9,4 +9,16 @@ layout: default
 
 <hr>
 
-<p><a href="{{ '/mysteries/' | append: page.category | append: '/' | relative_url }}">← Back to {{ page.category | capitalize }} Mysteries</a></p>
+{% if page.category == "uap" %}
+<p><a href="{{ '/mysteries/uap/' | relative_url }}">← Back to UAP Mysteries</a></p>
+{% elsif page.category == "consciousness" %}
+<p><a href="{{ '/mysteries/consciousness/' | relative_url }}">← Back to Consciousness Mysteries</a></p>
+{% elsif page.category == "foundations" %}
+<p><a href="{{ '/mysteries/foundations/' | relative_url }}">← Back to Foundations Mysteries</a></p>
+{% elsif page.category == "historical" %}
+<p><a href="{{ '/mysteries/historical/' | relative_url }}">← Back to Historical Mysteries</a></p>
+{% elsif page.category == "signals" %}
+<p><a href="{{ '/mysteries/signals/' | relative_url }}">← Back to Signal Mysteries</a></p>
+{% else %}
+<p><a href="{{ '/mysteries/' | relative_url }}">← Back to Mysteries</a></p>
+{% endif %}

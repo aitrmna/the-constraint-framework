@@ -1,14 +1,6 @@
-- title: Home
-  url: /
-
-- title: Methodology
-  url: /methodology/
-
-- title: Big Questions
-  url: /applications/death/
-
 - title: Mysteries
   url: /mysteries/
-
+- title: Methodology
+  url: /methodology/
 - title: About
   url: /about/

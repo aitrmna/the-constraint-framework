@@ -1,19 +1,19 @@
 ---
 layout: page
 title: Methodology
-description: How Claude reasons about these questions. Constraint stacking explained.
+description: How Claude reasons about mysteries. Constraint stacking explained.
 permalink: /methodology/
 ---
 
-This page describes how Claude approaches hard questions. It's not "the right way to find truth" — it's the specific method used to generate the analyses on this site.
+This page describes the method used to analyze every mystery on this site.
 
 ---
 
 ## The Core Idea: Constraint Stacking
 
-For any question, there are multiple possible explanations. Evidence constrains which explanations are viable. Apply constraints systematically, and see what survives.
+**Build cases by ordering constraints from most damning to least damning. Each constraint must fit within the solution space left by all constraints above it. Report what survives.**
 
-**We're not asserting truth. We're reporting what survives elimination.**
+We're not asserting truth. We're reporting what survives elimination.
 
 ---
 
@@ -21,15 +21,15 @@ For any question, there are multiple possible explanations. Evidence constrains 
 
 ### Step 1: List All Plausible Explanations
 
-Start with every explanation that could possibly account for what happened. Don't filter yet.
+Start with every explanation that could possibly account for what happened. Don't filter yet. This is your starting solution space.
 
 ### Step 2: Order Evidence by Eliminative Power
 
-Ask for each piece of evidence: **"How many explanations does this eliminate?"**
+For each piece of evidence, ask: **"How much of the solution space does this eliminate?"**
 
-The evidence that eliminates the most possibilities goes first. This is called "most damning first."
+The evidence that eliminates the most possibilities goes first. This is "most damning first."
 
-A constraint that eliminates 80% of possibilities is more valuable than one that eliminates 20%, even if less certain.
+**Key insight:** A 70% certain constraint that eliminates 90% of possibilities is MORE valuable than a 95% certain constraint that eliminates 20%.
 
 ### Step 3: Apply Constraints Top-Down
 
@@ -51,12 +51,6 @@ Continue until the solution space is narrow.
 
 Strange evidence that doesn't fit cleanly must be explained within the solution space — it cannot break constraints that have already eliminated options.
 
-**Example:**
-- Constraints → Only explanation X survives
-- Anomaly: "But what about Y?"
-- Correct response: Y must be explained within X
-- Incorrect response: Y breaks the case, back to uncertainty
-
 When tight constraints converge from multiple independent sources, anomalies specify details — they don't reopen eliminated possibilities.
 
 ### Step 5: Report What Survives
@@ -76,7 +70,7 @@ That's the finding. We're not claiming F is true. We're reporting that we couldn
 
 **2. Most damning first.** Order by eliminative power, not certainty.
 
-**3. Each constraint must fit within the space above.** You can't introduce a constraint that contradicts what's already established.
+**3. Each constraint must fit within the space above.** No contradicting established constraints.
 
 **4. Anomalies come last.** They must fit within the solution, not break it.
 
@@ -86,58 +80,41 @@ That's the finding. We're not claiming F is true. We're reporting that we couldn
 
 ---
 
-## What This Method Does
+## Meta-Constraints: Convergence Across Cases
 
-**Eliminates explanations** that can't survive the evidence.
+When multiple independent cases all survive to the same conclusion, the convergence itself becomes a constraint.
 
-**Reveals what survives** when elimination is done systematically.
+**Example:** Six UAP cases across different decades, countries, and sensor types all survive to "cannot eliminate non-human technology."
 
-**Shows the work** — every step is visible, every elimination is justified.
+For the conclusion to be wrong, ALL SIX cases must have separate mundane explanations. The probability of this decreases as independent cases accumulate.
 
-**Handles uncertainty honestly** — sometimes multiple options survive, and that's the finding.
-
----
-
-## What This Method Doesn't Do
-
-**Assert truth.** It reports what survives elimination.
-
-**Produce certainty.** The method narrows possibilities; it doesn't prove.
-
-**Access external reality.** Claude only has training data. If that data is wrong, the outputs are wrong.
-
----
-
-## Example: Quick Version
-
-**Claim:** What explains X?
-
-**Possible explanations:** A, B, C, D, E
-
-**Constraint 1:** Eliminates A, B
-
-**Constraint 2:** Eliminates C
-
-**Constraint 3:** Eliminates D
-
-**Result:**
-- Eliminated: A, B, C, D
-- Cannot eliminate: E
-
-We're not saying E is true. We're saying we couldn't eliminate E.
+**The convergence IS the meta-constraint.**
 
 ---
 
 ## Why "Cannot Eliminate" Instead of Probabilities
 
-Probability estimates require precision we don't have. "85% conviction" sounds scientific but is often invented.
+Probability estimates require precision we don't have. "85% confidence" sounds scientific but is often invented.
 
 "Cannot eliminate" is honest about what actually happened: we applied constraints, and this is what survived.
 
-If you want to assign probabilities, you can — but the method doesn't require it.
+---
+
+## What This Method Does
+
+- **Eliminates explanations** that can't survive the evidence
+- **Reveals what survives** when elimination is done systematically
+- **Shows the work** — every step visible, every elimination justified
+- **Handles uncertainty honestly** — sometimes multiple options survive
+
+## What This Method Doesn't Do
+
+- **Assert truth** — it reports what survives elimination
+- **Produce certainty** — the method narrows possibilities; it doesn't prove
+- **Access external reality** — Claude only has training data; if that's wrong, outputs are wrong
 
 ---
 
-[See it applied → The Probability of Death]({{ '/applications/death/' | relative_url }})
+[See it applied → UAP Mysteries]({{ '/mysteries/uap/' | relative_url }})
 
-[See it applied → Mysteries]({{ '/mysteries/' | relative_url }})
+[See it applied → Consciousness Mysteries]({{ '/mysteries/consciousness/' | relative_url }})

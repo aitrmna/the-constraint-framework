@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Mysteries
-description: Constraint stacking analysis of unexplained cases.
+description: Constraint stacking analysis of unsolved questions.
 permalink: /mysteries/
 ---
 
 <h1>Mysteries</h1>
 
-<p>Specific cases where something happened that isn't fully explained. For each category, we apply constraint stacking — order evidence by eliminative power, narrow the solution space, see what survives.</p>
+<p>Questions where the assumed answer might be wrong. For each one, we apply constraint stacking: list plausible explanations, order evidence by eliminative power, see what survives.</p>
 
 <hr>
 
@@ -16,21 +16,35 @@ permalink: /mysteries/
 <div class="app-grid">
   <a href="{{ '/mysteries/uap/' | relative_url }}" class="app-card">
     <h3>UAP</h3>
-    <p>Unidentified aerial phenomena. Military encounters, radar contacts, physical evidence.</p>
+    <p>Military encounters with unidentified objects. Radar, video, multiple witnesses.</p>
     {% assign uap_count = site.mysteries | where: "category", "uap" | size %}
-    <span class="result">{{ uap_count }} cases</span>
+    <span class="result">{{ uap_count }} cases + meta</span>
+  </a>
+  
+  <a href="{{ '/mysteries/consciousness/' | relative_url }}" class="app-card">
+    <h3>Consciousness</h3>
+    <p>Death, materialism, and the nature of mind.</p>
+    {% assign consciousness_count = site.mysteries | where: "category", "consciousness" | size %}
+    <span class="result">{{ consciousness_count }} cases + meta</span>
+  </a>
+  
+  <a href="{{ '/mysteries/foundations/' | relative_url }}" class="app-card">
+    <h3>Foundations</h3>
+    <p>Mathematics, reality, and why anything exists.</p>
+    {% assign foundations_count = site.mysteries | where: "category", "foundations" | size %}
+    <span class="result">{{ foundations_count }} cases</span>
   </a>
   
   <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
     <h3>Historical</h3>
-    <p>Historical cases and events. Disappearances, deaths, unexplained incidents.</p>
+    <p>Disappearances, deaths, unexplained incidents from the past.</p>
     {% assign historical_count = site.mysteries | where: "category", "historical" | size %}
     <span class="result">{{ historical_count }} cases</span>
   </a>
   
   <a href="{{ '/mysteries/signals/' | relative_url }}" class="app-card">
     <h3>Signals</h3>
-    <p>Unexplained transmissions. Radio signals, electromagnetic anomalies.</p>
+    <p>Unexplained transmissions and detections.</p>
     {% assign signals_count = site.mysteries | where: "category", "signals" | size %}
     <span class="result">{{ signals_count }} cases</span>
   </a>

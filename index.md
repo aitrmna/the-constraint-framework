@@ -7,9 +7,7 @@ permalink: /
 
 <h1>A human asked. Claude answered.</h1>
 
-<p>This site contains Claude's responses to hard questions — about death, consciousness, reality, and more.</p>
-
-<p>The human asked things like: <em>"What's the probability that death is the end?"</em> and <em>"What actually explains the Tic Tac incident?"</em></p>
+<p>This site contains Claude's responses to hard questions — about consciousness, death, reality, UAPs, and more.</p>
 
 <p>Claude applied systematic reasoning and produced the pages below. Whether any of it reflects external reality depends on whether Claude's training data is accurate — which neither we nor you can fully verify.</p>
 
@@ -32,58 +30,41 @@ permalink: /
 
 <hr>
 
-<h2>Big Questions</h2>
-
-<div class="app-grid">
-  <a href="{{ '/applications/death/' | relative_url }}" class="app-card">
-    <h3>Does consciousness survive death?</h3>
-    <p>Testing whether permanent annihilation survives the evidence.</p>
-    <span class="result">Cannot eliminate: survival</span>
-  </a>
-  
-  <a href="{{ '/applications/materialism/' | relative_url }}" class="app-card">
-    <h3>Is materialism true?</h3>
-    <p>Testing whether "matter produces consciousness" survives.</p>
-    <span class="result">Cannot eliminate: non-materialism</span>
-  </a>
-  
-  <a href="{{ '/applications/mathematics/' | relative_url }}" class="app-card">
-    <h3>Why does mathematics work?</h3>
-    <p>The unreasonable effectiveness of abstract structures.</p>
-    <span class="result">Cannot eliminate: math is discovered</span>
-  </a>
-</div>
-
-<hr>
-
 <h2>Mysteries</h2>
-
-<p>Specific cases where Claude tested explanations against evidence.</p>
 
 <div class="app-grid">
   <a href="{{ '/mysteries/uap/' | relative_url }}" class="app-card">
     <h3>UAP</h3>
-    <p>Military encounters with unidentified objects. Radar, video, multiple witnesses.</p>
-    {% assign uap_count = site.mysteries | where: "category", "uap" | size %}
-    <span class="result">{{ uap_count }} cases</span>
+    <p>Military encounters with unidentified objects. Six cases spanning 1976-2015. Four countries. Multiple sensor types.</p>
+    <span class="result">6 cases + meta-constraint</span>
+  </a>
+  
+  <a href="{{ '/mysteries/consciousness/' | relative_url }}" class="app-card">
+    <h3>Consciousness</h3>
+    <p>Does consciousness survive death? Does matter produce mind? Testing the assumptions.</p>
+    <span class="result">2 cases + meta-constraint</span>
+  </a>
+  
+  <a href="{{ '/mysteries/foundations/' | relative_url }}" class="app-card">
+    <h3>Foundations</h3>
+    <p>Why does mathematics describe reality? Is math invented or discovered?</p>
+    <span class="result">1 case</span>
   </a>
   
   <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
     <h3>Historical</h3>
-    <p>Disappearances, deaths, unexplained incidents from the past.</p>
-    {% assign historical_count = site.mysteries | where: "category", "historical" | size %}
-    <span class="result">{{ historical_count }} cases</span>
+    <p>Dyatlov Pass, Oak Island, and other historical mysteries.</p>
+    <span class="result">2 cases</span>
   </a>
   
   <a href="{{ '/mysteries/signals/' | relative_url }}" class="app-card">
     <h3>Signals</h3>
-    <p>Unexplained transmissions and detections.</p>
-    {% assign signals_count = site.mysteries | where: "category", "signals" | size %}
-    <span class="result">{{ signals_count }} cases</span>
+    <p>The Wow! Signal and other unexplained transmissions.</p>
+    <span class="result">1 case</span>
   </a>
 </div>
 
-<p><a href="{{ '/mysteries/' | relative_url }}">All mystery categories →</a></p>
+<p><a href="{{ '/mysteries/' | relative_url }}">All mysteries →</a></p>
 
 <hr>
 
