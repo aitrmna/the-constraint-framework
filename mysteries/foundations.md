@@ -28,17 +28,17 @@ permalink: /mysteries/foundations/
 
 <hr>
 
-<h2>The Pattern</h2>
+<h2>Meta-Constraint Analysis</h2>
 
-<p>Three analyses, one direction: reality appears structured, not accidental.</p>
+<p>What emerges when math, fine-tuning, and existence itself all point the same direction?</p>
 
-<ul>
-  <li><strong>Mathematics:</strong> Abstract structures invented for aesthetic reasons perfectly describe physics decades later. "Invented" fails. "Discovered" survives.</li>
-  <li><strong>Fine-tuning:</strong> Physical constants are calibrated to extraordinary precision for life. "Coincidence" is implausible. "Tuned" survives (reason unknown).</li>
-  <li><strong>Why Something:</strong> "Nothing" may be incoherent. Existence might be necessary, not contingent.</li>
-</ul>
-
-<p>If reality is fundamentally mathematical, precisely tuned, and possibly necessary... the "meaningless accident" view becomes very hard to maintain.</p>
+<div class="app-grid">
+  <a href="{{ '/mysteries/foundations/meta/' | relative_url }}" class="app-card">
+    <h3>Foundations Meta-Constraint</h3>
+    <p>Three analyses, one pattern: reality is structured, tuned, possibly necessary.</p>
+    <span class="result">Reality isn't accidental</span>
+  </a>
+</div>
 
 <hr>
 
