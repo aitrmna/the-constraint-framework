@@ -17,36 +17,45 @@ permalink: /mysteries/
   <a href="{{ '/mysteries/uap/' | relative_url }}" class="app-card">
     <h3>UAP</h3>
     <p>Military encounters with unidentified objects. Radar, video, multiple witnesses.</p>
-    {% assign uap_count = site.mysteries | where: "category", "uap" | size %}
-    <span class="result">{{ uap_count }} cases + meta</span>
+    <span class="result">6 cases + meta</span>
   </a>
   
   <a href="{{ '/mysteries/consciousness/' | relative_url }}" class="app-card">
     <h3>Consciousness</h3>
     <p>Death, materialism, and the nature of mind.</p>
-    {% assign consciousness_count = site.mysteries | where: "category", "consciousness" | size %}
-    <span class="result">{{ consciousness_count }} cases + meta</span>
+    <span class="result">2 cases + meta</span>
   </a>
   
   <a href="{{ '/mysteries/foundations/' | relative_url }}" class="app-card">
     <h3>Foundations</h3>
     <p>Mathematics, reality, and why anything exists.</p>
-    {% assign foundations_count = site.mysteries | where: "category", "foundations" | size %}
-    <span class="result">{{ foundations_count }} cases</span>
+    <span class="result">1 case</span>
   </a>
   
   <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
     <h3>Historical</h3>
     <p>Disappearances, deaths, unexplained incidents from the past.</p>
-    {% assign historical_count = site.mysteries | where: "category", "historical" | size %}
-    <span class="result">{{ historical_count }} cases</span>
+    <span class="result">7 cases + meta</span>
   </a>
   
   <a href="{{ '/mysteries/signals/' | relative_url }}" class="app-card">
     <h3>Signals</h3>
     <p>Unexplained transmissions and detections.</p>
-    {% assign signals_count = site.mysteries | where: "category", "signals" | size %}
-    <span class="result">{{ signals_count }} cases</span>
+    <span class="result">3 cases + meta</span>
+  </a>
+</div>
+
+<hr>
+
+<h2>Site-Wide Meta</h2>
+
+<p>What emerges when all 19 mysteries are analyzed together?</p>
+
+<div class="app-grid">
+  <a href="{{ '/meta/' | relative_url }}" class="app-card">
+    <h3>The Meta-Meta</h3>
+    <p>Patterns across all categories. Most historical → mundane. All UAP → non-human. All consciousness → non-materialist.</p>
+    <span class="result">The pattern is the finding</span>
   </a>
 </div>
 

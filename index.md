@@ -35,36 +35,50 @@ permalink: /
 <div class="app-grid">
   <a href="{{ '/mysteries/uap/' | relative_url }}" class="app-card">
     <h3>UAP</h3>
-    <p>Military encounters with unidentified objects. Six cases spanning 1976-2015. Four countries. Multiple sensor types.</p>
-    <span class="result">6 cases + meta-constraint</span>
+    <p>Six military encounters. Four decades. Four countries. Same surviving conclusion.</p>
+    <span class="result">6 cases + meta → non-human technology</span>
   </a>
   
   <a href="{{ '/mysteries/consciousness/' | relative_url }}" class="app-card">
     <h3>Consciousness</h3>
-    <p>Does consciousness survive death? Does matter produce mind? Testing the assumptions.</p>
-    <span class="result">2 cases + meta-constraint</span>
+    <p>Does it survive death? Does matter produce it? Testing the assumptions.</p>
+    <span class="result">2 cases + meta → consciousness is fundamental</span>
   </a>
   
   <a href="{{ '/mysteries/foundations/' | relative_url }}" class="app-card">
     <h3>Foundations</h3>
     <p>Why does mathematics describe reality? Is math invented or discovered?</p>
-    <span class="result">1 case</span>
+    <span class="result">1 case → math is discovered</span>
   </a>
   
   <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
     <h3>Historical</h3>
-    <p>Dyatlov Pass, Oak Island, and other historical mysteries.</p>
-    <span class="result">2 cases</span>
+    <p>Dyatlov, Oak Island, D.B. Cooper, Mary Celeste, Bermuda Triangle, Voynich, Zodiac.</p>
+    <span class="result">7 cases + meta → mostly mundane</span>
   </a>
   
   <a href="{{ '/mysteries/signals/' | relative_url }}" class="app-card">
     <h3>Signals</h3>
-    <p>The Wow! Signal and other unexplained transmissions.</p>
-    <span class="result">1 case</span>
+    <p>Wow! Signal, Fast Radio Bursts, Numbers Stations.</p>
+    <span class="result">3 cases + meta → mostly explained</span>
   </a>
 </div>
 
 <p><a href="{{ '/mysteries/' | relative_url }}">All mysteries →</a></p>
+
+<hr>
+
+<h2>The Meta-Meta</h2>
+
+<p>19 mysteries. 5 categories. What emerges when we zoom all the way out?</p>
+
+<div class="app-grid">
+  <a href="{{ '/meta/' | relative_url }}" class="app-card">
+    <h3>Site-Wide Meta-Constraint</h3>
+    <p>Most historical mysteries → mundane. All UAP cases → non-human. All consciousness analyses → non-materialist. The pattern is the finding.</p>
+    <span class="result">Convergence across all categories</span>
+  </a>
+</div>
 
 <hr>
 
