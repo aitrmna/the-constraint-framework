@@ -1,8 +1,8 @@
 # Site settings
 title: The Constraint Framework
 description: Testing beliefs against evidence
-url: ""
-baseurl: ""
+url: "https://aitrmna.github.io"
+baseurl: "/the-constraint-framework"
 
 # Build settings
 markdown: kramdown
