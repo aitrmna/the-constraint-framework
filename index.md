@@ -63,16 +63,23 @@ permalink: /
 <div class="app-grid">
   <a href="{{ '/mysteries/uap/' | relative_url }}" class="app-card">
     <h3>UAP</h3>
-    <p>Military encounters, radar contacts, unexplained sightings.</p>
+    <p>Military encounters with unidentified objects. Radar, video, multiple witnesses.</p>
     {% assign uap_count = site.mysteries | where: "category", "uap" | size %}
     <span class="result">{{ uap_count }} cases</span>
   </a>
   
   <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
     <h3>Historical</h3>
-    <p>Disappearances, deaths, unexplained incidents.</p>
+    <p>Disappearances, deaths, unexplained incidents from the past.</p>
     {% assign historical_count = site.mysteries | where: "category", "historical" | size %}
     <span class="result">{{ historical_count }} cases</span>
+  </a>
+  
+  <a href="{{ '/mysteries/signals/' | relative_url }}" class="app-card">
+    <h3>Signals</h3>
+    <p>Unexplained transmissions and detections.</p>
+    {% assign signals_count = site.mysteries | where: "category", "signals" | size %}
+    <span class="result">{{ signals_count }} cases</span>
   </a>
 </div>
 

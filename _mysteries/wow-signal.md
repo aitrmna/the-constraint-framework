@@ -4,7 +4,7 @@ title: The Wow! Signal
 subtitle: 72 seconds that might have been contact
 description: Big Ear telescope, 1977. The most famous SETI detection.
 result: Cannot eliminate — ET signal OR unknown natural source
-category: uap
+category: signals
 ---
 
 August 15, 1977. Big Ear radio telescope, Ohio. Astronomer Jerry Ehman saw a data printout showing an anomalous signal. He circled it and wrote "Wow!"
