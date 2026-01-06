@@ -1,0 +1,42 @@
+# Site settings
+title: The Constraint Framework
+description: Testing beliefs against evidence
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Collections
+collections:
+  mysteries:
+    output: true
+    permalink: /mysteries/:name/
+  applications:
+    output: true
+    permalink: /applications/:path/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "mysteries"
+    values:
+      layout: "mystery"
+  - scope:
+      path: ""
+      type: "applications"
+    values:
+      layout: "application"
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules

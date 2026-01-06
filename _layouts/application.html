@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+{% if page.series %}
+<div class="series-nav">
+  <h4>{{ page.series.name }}</h4>
+  <ul>
+    {% for part in page.series.parts %}
+      {% if part.url == page.url %}
+        <li><strong>{{ part.title }}</strong> (You are here)</li>
+      {% else %}
+        <li><a href="{{ part.url | relative_url }}">{{ part.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+<h1>{{ page.title }}</h1>
+{% if page.subtitle %}<h2>{{ page.subtitle }}</h2>{% endif %}
+
+<hr>
+
+{{ content }}
+
+{% if page.series %}
+<hr>
+<div class="series-nav">
+  <h4>Continue Reading</h4>
+  <ul>
+    {% for part in page.series.parts %}
+      {% if part.url != page.url %}
+        <li><a href="{{ part.url | relative_url }}">{{ part.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+<hr>
+
+<p><a href="{{ '/' | relative_url }}">← Back to {{ site.title }}</a></p>

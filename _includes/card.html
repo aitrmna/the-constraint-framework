@@ -1,0 +1,14 @@
+{% if include.url %}
+<a href="{{ include.url | relative_url }}" class="app-card" style="text-decoration: none; color: inherit;">
+{% else %}
+<div class="app-card{% if include.coming_soon %} coming-soon{% endif %}">
+{% endif %}
+  <span class="status">{{ include.status | default: "Complete" }}</span>
+  <h3>{{ include.title }}</h3>
+  <p>{{ include.description }}</p>
+  <span class="result">{{ include.result }}</span>
+{% if include.url %}
+</a>
+{% else %}
+</div>
+{% endif %}
