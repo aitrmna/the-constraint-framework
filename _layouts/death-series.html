@@ -16,7 +16,7 @@ layout: default
 </div>
 
 <h1>{{ page.title }}</h1>
-{% if page.subtitle %}<h2>{{ page.subtitle }}</h2>{% endif %}
+{% if page.subtitle %}<p class="subtitle"><em>{{ page.subtitle }}</em></p>{% endif %}
 
 <hr>
 
@@ -35,8 +35,6 @@ layout: default
   </ul>
 </div>
 
-<p><em>If this reframed something for you, share it with someone who's afraid.</em></p>
-
 <hr>
 
-<p><a href="{{ '/' | relative_url }}">← Back to {{ site.title }}</a></p>
+<p><a href="{{ '/' | relative_url }}">← Back to Home</a></p>

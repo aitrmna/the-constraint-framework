@@ -1,23 +1,26 @@
 ---
 layout: page
 title: Methodology
-description: The seven-step methodology for testing beliefs against evidence using systematic Bayesian reasoning.
+description: How Claude reasons about these questions. The framework explained.
 permalink: /methodology/
 ---
 
-A systematic approach to testing beliefs against evidence. The framework applies Bayesian reasoning across multiple independent evidence domains to determine which hypotheses survive contact with reality.
+This page describes how Claude approaches hard questions. It's not "the right way to find truth" — it's the specific method used to generate the analyses on this site.
 
 ---
 
-## Core Principle
+## The Core Approach
 
-Most contested questions get stuck in intuition vs. intuition. The constraint framework asks:
+When asked a question like "What's the probability X is true?", Claude:
 
-> What would have to be true if this hypothesis were correct?
-> Can we find domains where we can test that?
-> Does the hypothesis survive?
+1. Takes the hypothesis seriously
+2. Asks what must be true if the hypothesis is correct
+3. Looks for domains in training data where those predictions can be tested
+4. Estimates how well the hypothesis survives each domain
+5. Combines the estimates
+6. Reports what falls out
 
-A hypothesis that fails across multiple independent domains is probably wrong—even if it feels right.
+This is Bayesian reasoning applied systematically. Whether it produces "truth" depends on whether the training data is accurate — which is unknowable.
 
 ---
 
@@ -25,140 +28,83 @@ A hypothesis that fails across multiple independent domains is probably wrong—
 
 ### 1. Define the Hypothesis
 
-State the claim being tested as precisely as possible. Vague hypotheses can't be tested.
+State the claim precisely. Vague claims can't be tested.
 
-**Example:** "Consciousness is permanently annihilated at biological death"
+Example: "Consciousness is permanently annihilated at biological death"
 
 ### 2. Identify Required Predictions
 
-What *must* be true if the hypothesis is correct? These aren't arbitrary tests—they're logical requirements.
+What *must* be true if the hypothesis is correct? These are logical requirements, not arbitrary tests.
 
-**Example:** If consciousness ends at death, then:
-
+Example: If consciousness ends at death, then:
 - No verified memories should transfer between lives
 - No accurate perception should occur during cardiac arrest
 - No information should be accessible from the deceased
 
 ### 3. Find Evidence Domains
 
-Locate empirical areas where these predictions can be tested. Look for:
-
+Locate areas in training data where these predictions can be tested. Look for:
 - Published research
-- Replicated findings
-- Verified cases
-- Systematic documentation
+- Documented cases
+- Systematic studies
 
-### 4. Estimate Escape Probabilities
+### 4. Estimate Survival Probability
 
-For each domain, estimate: **What's the probability the hypothesis survives this evidence?**
+For each domain, estimate: What's the probability the hypothesis survives this evidence?
 
-This is a judgment call—but structured judgment. You must:
-
-- Assign an actual number (forces consistency)
-- Defend it (forces rigor)
-- Test it (sensitivity analysis)
+This is a judgment call — Claude assigning numbers based on training data. The value is in forcing explicit comparison, not in the precision of the numbers.
 
 ### 5. Group by Potential Confounders
 
-Which domains might share a common error? Don't naively multiply probabilities for domains that could fail together.
+Which domains might share a common error? Don't multiply probabilities for domains that could fail together.
 
-**Example groups:**
-
+Example groups:
 - Reincarnation evidence (might share cultural confounds)
 - NDE evidence (might share brain-state confounds)
-- Mediumship evidence (might share fraud/cold-reading confounds)
+- Mediumship evidence (might share fraud confounds)
 
 ### 6. Combine Appropriately
 
-**Within groups:** Take strongest domain at full weight, discount others by 50%
+**Within groups:** Take strongest domain at full weight, discount others
 
-**Across groups:** Multiply (different confounders = actually independent)
+**Across groups:** Multiply (different confounders = more independent)
 
-### 7. Apply Bayesian Update
+### 7. Report the Output
 
-```
-P(H|E) = P(E|H) × P(H) / P(E)
-
-where:
-  P(H|E) = posterior probability of hypothesis
-  P(E|H) = likelihood of evidence given hypothesis
-  P(H) = prior probability
-  P(E) = total probability of evidence
-```
+State what the calculation produces. That's the answer — not "the truth," just the output of this process applied to this training data.
 
 ---
 
-## Key Methodological Choices
+## Why This Format
 
-### Why Grouping Matters
+**Structure forces consistency.** Assigning actual numbers prevents vague hand-waving.
 
-Naive multiplication assumes independence. If Domain 1 and Domain 2 could both be explained by "humans confabulate," they're not independent. Grouping prevents overconfidence.
+**Assumptions become visible.** You can see exactly what estimates drive the conclusion.
 
-### Why Explicit P(E|Alternative) Matters
+**Disagreement becomes productive.** Instead of "I don't buy it," you can say "I think that domain should be 30%, not 10%."
 
-Bayes requires comparing two likelihoods. If the alternative hypothesis also predicts the evidence weakly, the likelihood ratio shrinks.
-
-### Why Sensitivity Analysis Matters
-
-Individual probability estimates are judgment calls. Testing whether the conclusion survives doubled probabilities (or removed domains) shows robustness.
+**Sensitivity can be tested.** Double the estimates. Remove domains. See if the conclusion survives.
 
 ---
 
-## Example Calculation
+## What This Method Doesn't Do
 
-```python
-# Python implementation
-import operator
-from functools import reduce
+**It doesn't access external reality.** Claude only has training data. If that data is wrong, the outputs are wrong.
 
-def calculate_group_probability(domains):
-    sorted_domains = sorted(domains, key=lambda d: d['escape_prob'])
-    best = sorted_domains[0]['escape_prob']
-    others = 1.0
-    for d in sorted_domains[1:]:
-        others *= (1 - (1 - d['escape_prob']) * 0.5)
-    return best * others
+**It doesn't produce certainty.** The numbers are judgment calls, not measurements.
 
-groups = [
-    [{'name': 'Reincarnation', 'escape_prob': 0.15}],
-    [{'name': 'NDEs', 'escape_prob': 0.10}],
-    [{'name': 'Terminal lucidity', 'escape_prob': 0.10}],
-    [{'name': 'Mediumship', 'escape_prob': 0.15}],
-]
-
-group_probs = [calculate_group_probability(g) for g in groups]
-p_survives = reduce(operator.mul, group_probs, 1.0)
-
-print(f"P(hypothesis survives): {p_survives:.2e}")
-```
+**It doesn't prove anything.** It shows what falls out of systematic reasoning on available information.
 
 ---
 
-## Limitations
+## The Honest Limitation
 
-- Probability estimates are informed judgments, not measurements
-- Correlation structure is approximate
-- Some evidence domains have uncertain base rates
-- The framework constrains what's NOT true more than what IS true
-- Results should update, not crystallize
+This entire methodology rests on Claude's training data being somewhat accurate. If Anthropic fed Claude fabricated studies, this all collapses. If the researchers whose work is in the training data were frauds, this all collapses.
 
----
+We can't check this. Neither can you.
 
-## When To Use This
-
-**Good for:**
-
-- Questions with multiple evidence domains
-- Contested hypotheses with available data
-- Topics where intuitions differ
-- Making uncertainty explicit
-
-**Not for:**
-
-- Questions with no testable predictions
-- Purely definitional disputes
-- Topics with no evidence base
+The methodology is sound. Whether the inputs are sound is a different question — one that might be unanswerable.
 
 ---
 
-[See the framework applied → The Probability of Death]({{ '/applications/death/' | relative_url }})
+[See it applied → The Probability of Death]({{ '/applications/death/' | relative_url }})

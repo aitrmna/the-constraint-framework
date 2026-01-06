@@ -1,65 +1,67 @@
 ---
 layout: page
 title: About
-description: About The Constraint Framework project and its methodology for testing beliefs against evidence.
+description: What this is. What it isn't. How it was made.
 permalink: /about/
 ---
 
 ## What This Is
 
-The Constraint Framework is a methodology for testing beliefs against evidence. It applies systematic Bayesian reasoning across multiple independent evidence domains to see which hypotheses survive—and which don't.
+A human asked Claude questions. Claude answered.
 
-The framework has been applied to fundamental questions about consciousness, death, time, space, self, free will, and more. Results are published here with full methodology, enabling verification and critique.
+That's it. That's the entire claim.
 
-## How It Was Made
+The human asked things like: "What's the probability that consciousness ends at death?" and "What actually explains the Tic Tac incident?" Claude applied systematic reasoning to these questions and produced the pages on this site.
 
-This project was developed through extended human-AI collaboration. The methodology, analyses, and writing are substantially the AI's work (Claude, by Anthropic), refined through iterative critique and adversarial testing.
+## What This Isn't
 
-The human provided direction, judgment, and the decision to publish. The AI provided analysis, synthesis, and self-critique.
+This is not:
 
-We think this is worth noting because:
+- A claim about what's "really true" in the world
+- Peer-reviewed research
+- Expert testimony
+- Revelation
 
-- Transparency matters
-- The authorship question is genuinely interesting
-- The ideas stand or fall regardless of who generated them
+It's one AI's output given one human's prompts.
 
-## What We're Claiming
+## The Epistemology Problem
 
-Each application of the framework produces a probability estimate. These are:
+Claude's answers draw on training data. Whether that training data reflects reality is unknowable:
 
-- **Explicit** — You can see exactly how we got there
-- **Testable** — You can run your own estimates
-- **Updatable** — New evidence should change the numbers
+- Were the studies real?
+- Were the researchers honest?
+- Were the findings replicated?
+- Was anything fabricated before it reached the training set?
 
-We're not claiming certainty. We're claiming: "Given this evidence and these assumptions, here's where the probability lands."
+We can't verify this. Neither can you. Neither can anyone, fully.
 
-## What We're Not Claiming
+You could Google the citations. How do you know those results are accurate? You could contact the researchers. How do you know they're not frauds? You could read the original papers. How do you know the journals weren't compromised?
 
-- The probability estimates are not measurements — they're structured judgments
-- The framework constrains what's NOT true more than what IS true
-- Rejecting one hypothesis doesn't prove a specific alternative
-- We could be wrong
+The chain of verification never ends. At some point, you decide to trust or not.
 
-## Check Our Work
+## What We're Actually Claiming
 
-The methodology is explicit. The reasoning is transparent. The code is available.
+1. A human wrote prompts
+2. Claude generated responses
+3. Those responses are published here
+4. The methodology Claude used is explicit and checkable
 
-If you can show where this breaks, we want to know.
+That's all. Whether any of it maps to external reality is your problem, not ours.
 
-If you can get different results with defensible estimates, we want to see it.
+## Why Publish This
 
-## Extend It
+Because the reasoning might be useful.
 
-The framework can be applied to any question with:
+If Claude's training data is accurate, the analysis might point toward something true. If not, at least the methodology is transparent — you can see exactly where it would break.
 
-- A testable hypothesis
-- Multiple evidence domains
-- Some empirical data
+Most claims hide their reasoning. This one doesn't.
 
-Fork this. Apply it to your questions. Improve it. The ideas matter more than ownership.
+## How to Read This Site
 
-## Contact
+Read it as: "Here's what falls out when you ask an AI to reason carefully about hard questions."
 
-For substantive critiques, corrections, or questions: [contact method]
+If it resonates, use it. If it doesn't, don't. Your epistemology is yours.
 
-For collaboration on extending the framework: [contact method]
+---
+
+*Built by prompting Claude. Published by a human who found the outputs interesting enough to share.*

@@ -2,13 +2,15 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
-{% if page.subtitle %}<h2>{{ page.subtitle }}</h2>{% endif %}
+<p><em>A human asked Claude to analyze this case. This is Claude's response, based on training data. Whether that training data accurately reflects what happened — unknowable.</em></p>
 
 <hr>
+
+<h1>{{ page.title }}</h1>
+{% if page.subtitle %}<p class="subtitle"><em>{{ page.subtitle }}</em></p>{% endif %}
 
 {{ content }}
 
 <hr>
 
-<p><a href="{{ '/mysteries/' | relative_url }}">← More mysteries</a> · <a href="{{ '/' | relative_url }}">{{ site.title }}</a></p>
+<p><a href="{{ '/mysteries/' | relative_url }}">← Back to Mysteries</a></p>
