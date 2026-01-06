@@ -9,7 +9,7 @@ permalink: /
 
 <p>This site contains Claude's responses to hard questions — about death, consciousness, reality, and more.</p>
 
-<p>The human asked things like: <em>"What's the probability that death is the end?"</em> and <em>"Why does mathematics describe reality so well?"</em></p>
+<p>The human asked things like: <em>"What's the probability that death is the end?"</em> and <em>"What actually explains the Tic Tac incident?"</em></p>
 
 <p>Claude applied systematic reasoning and produced the pages below. Whether any of it reflects external reality depends on whether Claude's training data is accurate — which neither we nor you can fully verify.</p>
 
@@ -17,18 +17,16 @@ permalink: /
 
 <hr>
 
-<h2>How Claude Reasons</h2>
-
-<p>For each question, Claude:</p>
+<h2>The Method: Constraint Stacking</h2>
 
 <ol>
-  <li>Takes a hypothesis</li>
-  <li>Identifies what must be true if the hypothesis is correct</li>
-  <li>Looks for evidence domains in training data</li>
-  <li>Estimates how well the hypothesis survives each domain</li>
-  <li>Combines appropriately</li>
-  <li>Reports what falls out</li>
+  <li>List all plausible explanations</li>
+  <li>Order evidence by eliminative power (most damning first)</li>
+  <li>Apply constraints top-down — watch explanations get eliminated</li>
+  <li>Report what survives</li>
 </ol>
+
+<p>We're not saying "X is true." We're saying "We eliminated everything except X."</p>
 
 <p><a href="{{ '/methodology/' | relative_url }}">Full methodology →</a></p>
 
@@ -40,22 +38,22 @@ permalink: /
   <a href="{{ '/applications/death/' | relative_url }}" class="app-card" style="text-decoration: none; color: inherit;">
     <span class="status">Complete</span>
     <h3>Does consciousness survive death?</h3>
-    <p>Testing whether permanent annihilation is likely.</p>
-    <span class="result">P(annihilation) < 1%</span>
+    <p>Testing whether permanent annihilation survives the evidence.</p>
+    <span class="result">Cannot eliminate: survival</span>
   </a>
   
   <a href="{{ '/applications/materialism/' | relative_url }}" class="app-card" style="text-decoration: none; color: inherit;">
     <span class="status">Complete</span>
     <h3>Is materialism true?</h3>
-    <p>Testing whether matter produces consciousness.</p>
-    <span class="result">P(materialism) ≈ 1-2%</span>
+    <p>Testing whether "matter produces consciousness" survives.</p>
+    <span class="result">Cannot eliminate: non-materialism</span>
   </a>
   
   <a href="{{ '/applications/mathematics/' | relative_url }}" class="app-card" style="text-decoration: none; color: inherit;">
     <span class="status">Complete</span>
     <h3>Why does mathematics work?</h3>
     <p>The unreasonable effectiveness of abstract structures.</p>
-    <span class="result">P(coincidence) < 40%</span>
+    <span class="result">Cannot eliminate: math is discovered</span>
   </a>
 </div>
 
@@ -63,7 +61,7 @@ permalink: /
 
 <h2>Mysteries</h2>
 
-<p>Specific cases where Claude tested explanations against evidence in training data.</p>
+<p>Specific cases where Claude tested explanations against evidence.</p>
 
 <div class="app-grid">
   {% for mystery in site.mysteries limit:4 %}

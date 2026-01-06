@@ -2,8 +2,8 @@
 layout: mystery
 title: The Dyatlov Pass
 subtitle: Nine hikers dead. What actually happened?
-description: Ural Mountains, 1959. Constraint stacking analysis of the most debated wilderness death.
-result: Natural causes — katabatic wind + slab avalanche (90% conviction)
+description: Ural Mountains, 1959. Constraint stacking analysis.
+result: Cannot eliminate — natural causes (wind + avalanche)
 status: complete
 ---
 
@@ -45,9 +45,7 @@ What survives constraint stacking?
 - ❌ Animal inside tent (would have torn tent, not knife cuts)
 - ❌ Simple hypothermia (doesn't explain urgent exit)
 
-**Solution space remaining:** Avalanche, katabatic wind, military test, infrasound, unknown phenomenon
-
-**DAMNING POWER: HIGH**
+**Remaining:** Avalanche, katabatic wind, military test, infrasound, unknown phenomenon
 
 ---
 
@@ -64,9 +62,7 @@ What survives constraint stacking?
 - ❌ Military personnel on scene
 - ❌ Any external agent requiring physical presence
 
-**Solution space remaining:** Avalanche, katabatic wind, military test (remote), infrasound, unknown phenomenon
-
-**DAMNING POWER: MASSIVE**
+**Remaining:** Avalanche, katabatic wind, military test (remote), infrasound, unknown phenomenon
 
 ---
 
@@ -78,18 +74,14 @@ What survives constraint stacking?
 - Others died of hypothermia with minor injuries
 - Fractures showed no external wounds (crushing force, not blunt impact)
 
-**What this means:** Massive internal pressure without surface damage = compression force, not beating. Consistent with:
-- Snow mass compression (avalanche/snow shelter collapse)
-- Falling into ravine
+**What this means:** Massive internal pressure without surface damage = compression force. Consistent with snow mass or fall into ravine.
 
 **ELIMINATES:**
 - ❌ Beating/attack (would show external wounds)
 - ❌ Weapons (would show penetration or surface damage)
 - ❌ Simple exposure (doesn't explain compression fractures)
 
-**Solution space remaining:** Avalanche, katabatic wind + secondary injury, unknown phenomenon
-
-**DAMNING POWER: HIGH**
+**Remaining:** Avalanche, katabatic wind + secondary injury, unknown phenomenon
 
 ---
 
@@ -103,15 +95,13 @@ What survives constraint stacking?
 - Those in ravine had worst injuries
 - Injuries consistent with snow shelter collapse
 
-**What this means:** They weren't panicked mindlessly — they executed survival procedures. Something forced them from tent, but didn't chase them. They died from exposure and secondary accidents (ravine, collapsed shelter).
+**What this means:** They weren't panicked mindlessly — they executed survival procedures. Something forced them from tent, but didn't chase them.
 
 **ELIMINATES:**
 - ❌ Infrasound panic (they behaved rationally after leaving)
 - ❌ Continuous threat (would have killed them at tent)
 
-**Solution space remaining:** Avalanche/wind event that threatened tent but didn't pursue
-
-**DAMNING POWER: HIGH**
+**Remaining:** Avalanche/wind event that threatened tent but didn't pursue
 
 ---
 
@@ -124,17 +114,13 @@ What survives constraint stacking?
   - Would produce impact forces matching observed fractures
   - Explains delay between setting camp and event
 - Katabatic winds documented in area
-- Wind could explain tent damage patterns
 
-**What this means:** Known physics can produce exactly what was observed — sudden threat to tent, injuries consistent with snow impact, no external attacker.
+**What this means:** Known physics produces exactly what was observed.
 
 **ELIMINATES:**
-- ❌ Unknown phenomenon (known physics explains it)
-- ❌ Need for exotic explanation
+- ❌ Need for exotic explanation (known physics explains it)
 
-**Solution space remaining:** Slab avalanche + katabatic wind
-
-**DAMNING POWER: HIGH**
+**Remaining:** Slab avalanche + katabatic wind
 
 ---
 
@@ -142,57 +128,55 @@ What survives constraint stacking?
 
 **Evidence:**
 - Investigation closed quickly with vague conclusion
-- Some files classified (normal for any death near military areas in USSR)
-- Radiation found on some clothing (consistent with thorium camping lanterns of era)
-- "Orange skin" on bodies (normal decomposition)
+- Some files classified (normal for USSR)
+- Radiation found on clothing (consistent with thorium camping lanterns)
+- "Orange skin" (normal decomposition)
 
-**What this means:** Soviet secrecy was procedural, not cover-up. "Mysterious" details have mundane explanations.
+**What this means:** Soviet secrecy was procedural. "Mysterious" details have mundane explanations.
 
 **ELIMINATES:**
 - ❌ Military cover-up (no evidence of actual military involvement)
 - ❌ Secret weapons (no weapons effects found)
 
-**Solution space remaining:** Natural causes (avalanche + wind + exposure)
-
-**DAMNING POWER: MODERATE**
+**Remaining:** Natural causes
 
 ---
 
 ## ANOMALIES
 
 **"Why were some better dressed than others?"**
-→ Those who died first gave clothing to others (documented survival behavior). Not mysterious.
+→ Those who died first gave clothing to others. Documented survival behavior.
 
 **"Why didn't they return to tent?"**
-→ In whiteout conditions at night, they likely couldn't find it. 1.5km in darkness and snow = effectively lost.
+→ In whiteout conditions at night, they couldn't find it. 1.5km in darkness = lost.
 
 **"Why the missing tongue?"**
-→ Body was face-down in running water for months. Soft tissue decomposition. Documented phenomenon.
+→ Body face-down in running water for months. Soft tissue decomposition.
 
 **"Why the radiation?"**
-→ Thorium mantles in camping lanterns. Common at the time. Measured levels were minimal.
+→ Thorium mantles in camping lanterns. Common at the time.
 
-All anomalies fit within natural explanation.
+All anomalies fit within remaining solution space.
 
 ---
 
-## FINAL SOLUTION SPACE
+## RESULT
 
 | Hypothesis | Status |
 |------------|--------|
-| Murder | ❌ Eliminated (Constraints 1, 2) |
-| Military test | ❌ Eliminated (Constraints 2, 6) |
-| Animal attack | ❌ Eliminated (Constraint 1) |
-| Infrasound panic | ❌ Eliminated (Constraint 4) |
-| UFO/Yeti/Unknown | ❌ Eliminated (Constraint 5) |
-| **Katabatic wind + slab avalanche** | ✓ **Survives all constraints** |
+| Murder | ❌ Eliminated |
+| Military test | ❌ Eliminated |
+| Animal attack | ❌ Eliminated |
+| Infrasound panic | ❌ Eliminated |
+| UFO/Yeti/Unknown | ❌ Eliminated |
+| **Katabatic wind + slab avalanche** | **Cannot eliminate** |
 
 ---
 
-## CONVICTION: 90%
+## What This Means
 
-One coherent natural explanation survives. 2020 research provides physical model matching all evidence.
+We are not saying "the Dyatlov group definitely died from natural causes."
 
-The 10% covers: Possible undiscovered evidence that would change the picture. But 65 years of investigation hasn't produced any.
+We are saying: "We eliminated every exotic explanation. Natural causes — wind event forcing evacuation, followed by exposure and secondary injuries — is the only hypothesis that survives the constraints."
 
-**Conclusion:** The Dyatlov group was killed by a combination of katabatic wind event and/or delayed slab avalanche, forcing evacuation from tent, followed by hypothermia and secondary injuries from terrain/shelter collapse. Tragic, but natural.
+Tragic, but mundane.

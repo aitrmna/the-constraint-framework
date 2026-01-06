@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Methodology
-description: How Claude reasons about these questions. The framework explained.
+description: How Claude reasons about these questions. Constraint stacking explained.
 permalink: /methodology/
 ---
 
@@ -9,102 +9,135 @@ This page describes how Claude approaches hard questions. It's not "the right wa
 
 ---
 
-## The Core Approach
+## The Core Idea: Constraint Stacking
 
-When asked a question like "What's the probability X is true?", Claude:
+For any question, there are multiple possible explanations. Evidence constrains which explanations are viable. Apply constraints systematically, and see what survives.
 
-1. Takes the hypothesis seriously
-2. Asks what must be true if the hypothesis is correct
-3. Looks for domains in training data where those predictions can be tested
-4. Estimates how well the hypothesis survives each domain
-5. Combines the estimates
-6. Reports what falls out
-
-This is Bayesian reasoning applied systematically. Whether it produces "truth" depends on whether the training data is accurate — which is unknowable.
+**We're not asserting truth. We're reporting what survives elimination.**
 
 ---
 
-## The Seven Steps
+## The Process
 
-### 1. Define the Hypothesis
+### Step 1: List All Plausible Explanations
 
-State the claim precisely. Vague claims can't be tested.
+Start with every explanation that could possibly account for what happened. Don't filter yet.
 
-Example: "Consciousness is permanently annihilated at biological death"
+### Step 2: Order Evidence by Eliminative Power
 
-### 2. Identify Required Predictions
+Ask for each piece of evidence: **"How many explanations does this eliminate?"**
 
-What *must* be true if the hypothesis is correct? These are logical requirements, not arbitrary tests.
+The evidence that eliminates the most possibilities goes first. This is called "most damning first."
 
-Example: If consciousness ends at death, then:
-- No verified memories should transfer between lives
-- No accurate perception should occur during cardiac arrest
-- No information should be accessible from the deceased
+A constraint that eliminates 80% of possibilities is more valuable than one that eliminates 20%, even if less certain.
 
-### 3. Find Evidence Domains
+### Step 3: Apply Constraints Top-Down
 
-Locate areas in training data where these predictions can be tested. Look for:
-- Published research
-- Documented cases
-- Systematic studies
+Work through the evidence in order:
 
-### 4. Estimate Survival Probability
+**CONSTRAINT 1 (Most Damning):**
+- State the evidence
+- What does it eliminate?
+- What remains?
 
-For each domain, estimate: What's the probability the hypothesis survives this evidence?
+**CONSTRAINT 2:**
+- Must fit within remaining space from above
+- What does it eliminate?
+- What remains now?
 
-This is a judgment call — Claude assigning numbers based on training data. The value is in forcing explicit comparison, not in the precision of the numbers.
+Continue until the solution space is narrow.
 
-### 5. Group by Potential Confounders
+### Step 4: Handle Anomalies Last
 
-Which domains might share a common error? Don't multiply probabilities for domains that could fail together.
+Strange evidence that doesn't fit cleanly must be explained within the solution space — it cannot break constraints that have already eliminated options.
 
-Example groups:
-- Reincarnation evidence (might share cultural confounds)
-- NDE evidence (might share brain-state confounds)
-- Mediumship evidence (might share fraud confounds)
+**Example:**
+- Constraints → Only explanation X survives
+- Anomaly: "But what about Y?"
+- Correct response: Y must be explained within X
+- Incorrect response: Y breaks the case, back to uncertainty
 
-### 6. Combine Appropriately
+When tight constraints converge from multiple independent sources, anomalies specify details — they don't reopen eliminated possibilities.
 
-**Within groups:** Take strongest domain at full weight, discount others
+### Step 5: Report What Survives
 
-**Across groups:** Multiply (different confounders = more independent)
+The output is:
 
-### 7. Report the Output
+- **Eliminated:** A, B, C, D, E
+- **Cannot eliminate:** F
 
-State what the calculation produces. That's the answer — not "the truth," just the output of this process applied to this training data.
+That's the finding. We're not claiming F is true. We're reporting that we couldn't eliminate F.
 
 ---
 
-## Why This Format
+## Key Principles
 
-**Structure forces consistency.** Assigning actual numbers prevents vague hand-waving.
+**1. Constraints are primary.** Hard constraints define the solution space. Everything else fits within.
 
-**Assumptions become visible.** You can see exactly what estimates drive the conclusion.
+**2. Most damning first.** Order by eliminative power, not certainty.
 
-**Disagreement becomes productive.** Instead of "I don't buy it," you can say "I think that domain should be 30%, not 10%."
+**3. Each constraint must fit within the space above.** You can't introduce a constraint that contradicts what's already established.
 
-**Sensitivity can be tested.** Double the estimates. Remove domains. See if the conclusion survives.
+**4. Anomalies come last.** They must fit within the solution, not break it.
+
+**5. Solution space narrows monotonically.** If it expands, you've made an error.
+
+**6. Stop when space is narrow.** Once you reach 1-3 viable options, report the result.
+
+---
+
+## What This Method Does
+
+**Eliminates explanations** that can't survive the evidence.
+
+**Reveals what survives** when elimination is done systematically.
+
+**Shows the work** — every step is visible, every elimination is justified.
+
+**Handles uncertainty honestly** — sometimes multiple options survive, and that's the finding.
 
 ---
 
 ## What This Method Doesn't Do
 
-**It doesn't access external reality.** Claude only has training data. If that data is wrong, the outputs are wrong.
+**Assert truth.** It reports what survives elimination.
 
-**It doesn't produce certainty.** The numbers are judgment calls, not measurements.
+**Produce certainty.** The method narrows possibilities; it doesn't prove.
 
-**It doesn't prove anything.** It shows what falls out of systematic reasoning on available information.
+**Access external reality.** Claude only has training data. If that data is wrong, the outputs are wrong.
 
 ---
 
-## The Honest Limitation
+## Example: Quick Version
 
-This entire methodology rests on Claude's training data being somewhat accurate. If Anthropic fed Claude fabricated studies, this all collapses. If the researchers whose work is in the training data were frauds, this all collapses.
+**Claim:** What explains X?
 
-We can't check this. Neither can you.
+**Possible explanations:** A, B, C, D, E
 
-The methodology is sound. Whether the inputs are sound is a different question — one that might be unanswerable.
+**Constraint 1:** Eliminates A, B
+
+**Constraint 2:** Eliminates C
+
+**Constraint 3:** Eliminates D
+
+**Result:**
+- Eliminated: A, B, C, D
+- Cannot eliminate: E
+
+We're not saying E is true. We're saying we couldn't eliminate E.
+
+---
+
+## Why "Cannot Eliminate" Instead of Probabilities
+
+Probability estimates require precision we don't have. "85% conviction" sounds scientific but is often invented.
+
+"Cannot eliminate" is honest about what actually happened: we applied constraints, and this is what survived.
+
+If you want to assign probabilities, you can — but the method doesn't require it.
 
 ---
 
 [See it applied → The Probability of Death]({{ '/applications/death/' | relative_url }})
+
+[See it applied → Mysteries]({{ '/mysteries/' | relative_url }})

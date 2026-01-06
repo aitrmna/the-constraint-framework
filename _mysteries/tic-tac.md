@@ -3,7 +3,7 @@ layout: mystery
 title: The Tic Tac
 subtitle: What survives systematic elimination?
 description: USS Nimitz, 2004. Multiple sensors, multiple witnesses. Constraint stacking analysis.
-result: Non-human technology (95% conviction)
+result: Cannot eliminate — non-human technology
 status: complete
 ---
 
@@ -43,9 +43,7 @@ November 2004, USS Nimitz carrier group off San Diego. For two weeks, radar trac
 - ❌ Any piloted craft
 - ❌ Any conventional propulsion
 
-**Solution space remaining:** Sensor error, natural phenomenon, technology using unknown physics
-
-**DAMNING POWER: NUCLEAR**
+**Remaining:** Sensor error, natural phenomenon, technology using unknown physics
 
 ---
 
@@ -64,9 +62,7 @@ November 2004, USS Nimitz carrier group off San Diego. For two weeks, radar trac
 - ❌ Pilot hallucination (four pilots plus radar operators plus video)
 - ❌ Momentary glitch (14 days duration)
 
-**Solution space remaining:** Natural phenomenon, technology using unknown physics
-
-**DAMNING POWER: MASSIVE**
+**Remaining:** Natural phenomenon, technology using unknown physics
 
 ---
 
@@ -82,9 +78,7 @@ November 2004, USS Nimitz carrier group off San Diego. For two weeks, radar trac
 - ❌ Dumb object / debris
 - ❌ Weather phenomenon
 
-**Solution space remaining:** Technology using unknown physics (human or non-human)
-
-**DAMNING POWER: HIGH**
+**Remaining:** Technology using unknown physics (human or non-human)
 
 ---
 
@@ -102,9 +96,7 @@ November 2004, USS Nimitz carrier group off San Diego. For two weeks, radar trac
 - ❌ Any combustion propulsion
 - ❌ Any known electric propulsion
 
-**Solution space remaining:** Secret human tech (unknown physics) OR non-human technology
-
-**DAMNING POWER: HIGH**
+**Remaining:** Secret human tech (unknown physics) OR non-human technology
 
 ---
 
@@ -122,9 +114,7 @@ November 2004, USS Nimitz carrier group off San Diego. For two weeks, radar trac
 - ❌ Secret US tech (would have used it, wouldn't have exposed via Pentagon release)
 - ❌ Secret foreign tech (would have dominated militarily)
 
-**Solution space remaining:** Non-human technology
-
-**DAMNING POWER: HIGH**
+**Remaining:** Non-human technology
 
 ---
 
@@ -140,43 +130,41 @@ November 2004, USS Nimitz carrier group off San Diego. For two weeks, radar trac
 - ❌ Complete fabrication
 - ❌ Casual misidentification
 
-**DAMNING POWER: MODERATE**
-
 ---
 
 ## ANOMALIES
 
 **"Why would non-human intelligence care about a carrier group?"**
-→ Reconnaissance. Carrier groups concentrate advanced military technology. Observation is plausible.
+→ Reconnaissance is plausible for any intelligence monitoring Earth.
 
 **"Why no communication?"**
-→ Observation mission. Or communication we don't recognize. Nothing requires contact.
+→ Observation mission. Or communication we don't recognize.
 
 **"Why let itself be seen?"**
-→ Indifference. Or intentional. Or detection exceeded expectations. Non-human motivations ≠ human operational security.
+→ Indifference. Or intentional. Non-human motivations ≠ human operational security.
 
-All anomalies fit within solution space.
+All anomalies fit within remaining solution space.
 
 ---
 
-## FINAL SOLUTION SPACE
+## RESULT
 
 | Hypothesis | Status |
 |------------|--------|
-| Sensor malfunction | ❌ Eliminated (Constraint 2) |
-| Pilot misidentification | ❌ Eliminated (Constraint 2) |
-| Natural phenomenon | ❌ Eliminated (Constraint 3) |
-| Known human technology | ❌ Eliminated (Constraint 1) |
-| Secret human tech | ❌ Eliminated (Constraint 5) |
-| Hoax/psyop | ❌ Eliminated (Constraint 6) |
-| **Non-human technology** | ✓ **Survives all constraints** |
+| Sensor malfunction | ❌ Eliminated |
+| Pilot misidentification | ❌ Eliminated |
+| Natural phenomenon | ❌ Eliminated |
+| Known human technology | ❌ Eliminated |
+| Secret human tech | ❌ Eliminated |
+| Hoax/psyop | ❌ Eliminated |
+| **Non-human technology** | **Cannot eliminate** |
 
 ---
 
-## CONVICTION: 95%
+## What This Means
 
-One option survives. All others eliminated by hard constraints.
+We are not saying "the Tic Tac was non-human technology."
 
-The 5% covers: unknown unknowns — something we literally cannot conceive that would explain the evidence differently.
+We are saying: "We eliminated every other explanation we could think of. Non-human technology is the only hypothesis that survives the constraints."
 
-**Conclusion:** The Tic Tac was non-human technology.
+That's the finding. Make of it what you will.
