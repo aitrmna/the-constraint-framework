@@ -1,15 +1,15 @@
-/* Maximum Readability CSS */
+/* Claude.ai Inspired - Warm, Clean, Readable */
 
-/* System font stack - fast, native, readable */
 :root {
-  --text: #333;
-  --text-muted: #666;
-  --bg: #fefefe;
-  --bg-alt: #f8f8f8;
-  --border: #e0e0e0;
-  --accent: #444;
-  --link: #1a5a9c;
-  --link-hover: #0d3d6e;
+  --text: #2d2d2d;
+  --text-muted: #6b6b6b;
+  --bg: #f9f5f1;
+  --bg-alt: #f0ebe5;
+  --border: #e0d9d1;
+  --accent: #da7756;
+  --accent-hover: #c9654a;
+  --link: #da7756;
+  --link-hover: #c9654a;
   --max-width: 680px;
 }
 
@@ -31,7 +31,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Container - comfortable reading width */
+/* Container */
 .container {
   max-width: var(--max-width);
   margin: 0 auto;
@@ -44,7 +44,7 @@ h1, h2, h3, h4 {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: 600;
-  color: var(--accent);
+  color: var(--text);
 }
 
 h1 {
@@ -91,7 +91,7 @@ a:hover {
 }
 
 .site-title:hover {
-  color: var(--link);
+  color: var(--accent);
   text-decoration: none;
 }
 
@@ -107,7 +107,7 @@ a:hover {
 
 .nav-links a:hover,
 .nav-links a.active {
-  color: var(--text);
+  color: var(--accent);
 }
 
 /* Main content */
@@ -136,7 +136,7 @@ li {
 blockquote {
   margin: 1.5rem 0;
   padding: 0.5rem 0 0.5rem 1.5rem;
-  border-left: 3px solid var(--border);
+  border-left: 3px solid var(--accent);
   color: var(--text-muted);
   font-style: italic;
 }
@@ -154,8 +154,9 @@ pre {
   background: var(--bg-alt);
   padding: 1rem;
   overflow-x: auto;
-  border-radius: 4px;
+  border-radius: 6px;
   margin: 1.5rem 0;
+  border: 1px solid var(--border);
 }
 
 pre code {
@@ -179,12 +180,14 @@ th, td {
 
 th {
   font-weight: 600;
-  color: var(--accent);
+  color: var(--text);
+  background: var(--bg-alt);
 }
 
 /* Strong/emphasis */
 strong {
   font-weight: 600;
+  color: var(--text);
 }
 
 /* Cards grid */
@@ -198,20 +201,22 @@ strong {
 .app-card {
   display: block;
   padding: 1.25rem;
-  background: var(--bg);
+  background: var(--bg-alt);
   border: 1px solid var(--border);
-  border-radius: 6px;
-  transition: border-color 0.2s;
+  border-radius: 8px;
+  transition: all 0.2s ease;
 }
 
 .app-card:hover {
-  border-color: var(--text-muted);
+  border-color: var(--accent);
+  box-shadow: 0 2px 8px rgba(218, 119, 86, 0.1);
   text-decoration: none;
 }
 
 .app-card h3 {
   margin: 0.5rem 0;
   font-size: 1.1rem;
+  color: var(--text);
 }
 
 .app-card p {
@@ -224,7 +229,8 @@ strong {
   font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  color: var(--text-muted);
+  color: var(--accent);
+  font-weight: 600;
 }
 
 .app-card .result {
@@ -232,26 +238,33 @@ strong {
   margin-top: 0.75rem;
   font-weight: 600;
   font-size: 0.9rem;
-  color: var(--accent);
+  color: var(--text);
 }
 
 .app-card.coming-soon {
-  opacity: 0.6;
+  opacity: 0.5;
   border-style: dashed;
+}
+
+.app-card.coming-soon:hover {
+  border-color: var(--border);
+  box-shadow: none;
 }
 
 /* Series navigation */
 .series-nav {
   background: var(--bg-alt);
   padding: 1rem 1.25rem;
-  border-radius: 6px;
+  border-radius: 8px;
   margin: 1.5rem 0;
+  border: 1px solid var(--border);
 }
 
 .series-nav h4 {
   margin: 0 0 0.75rem 0;
   font-size: 0.9rem;
   color: var(--text-muted);
+  font-weight: 600;
 }
 
 .series-nav ul {
@@ -271,6 +284,19 @@ strong {
   border-top: 1px solid var(--border);
   color: var(--text-muted);
   font-size: 0.9rem;
+}
+
+.site-footer a {
+  color: var(--text-muted);
+}
+
+.site-footer a:hover {
+  color: var(--accent);
+}
+
+/* Selection color */
+::selection {
+  background: rgba(218, 119, 86, 0.2);
 }
 
 /* Mobile adjustments */
