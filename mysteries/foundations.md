@@ -30,12 +30,13 @@ permalink: /mysteries/foundations/
 
 <h2>The Pattern</h2>
 
-<p>All six analyses point the same direction: reality is structured, not accidental, and consciousness keeps appearing at the foundations.</p>
+<p>All seven analyses point the same direction: reality is structured, not accidental, and consciousness keeps appearing at the foundations.</p>
 
 <ul>
   <li><strong>Mathematics:</strong> Abstract structures describe physics perfectly. "Invented" fails. "Discovered" survives.</li>
   <li><strong>Fine-tuning:</strong> Constants are calibrated to extraordinary precision. "Coincidence" is implausible.</li>
   <li><strong>Measurement Problem:</strong> 100 years, no solution. Every interpretation either invokes consciousness or has a consciousness-shaped hole.</li>
+  <li><strong>Did Existence Start?:</strong> "Started from nothing" seems incoherent. Timelessness or malformed question survive.</li>
   <li><strong>Simulation:</strong> If consciousness is fundamental, "simulation vs. base reality" might be confused distinction.</li>
   <li><strong>Why Something:</strong> "Nothing" may be incoherent. Existence might be necessary, not contingent.</li>
   <li><strong>Time:</strong> Physics suggests block universe. Flow might be appearance within consciousness.</li>
