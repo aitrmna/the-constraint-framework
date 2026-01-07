@@ -1,15 +1,15 @@
 ---
 layout: default
 title: Foundations Mysteries
-description: Constraint stacking analysis of foundational questions about reality itself.
+description: Constraint stacking analysis of the deepest questions about reality.
 permalink: /mysteries/foundations/
 ---
 
 <h1>Foundations Mysteries</h1>
 
-<p>What is the nature of reality itself? Why does mathematics describe the physical world? Why are the constants tuned for life? Why does anything exist at all?</p>
+<p>What is the nature of reality itself? Why does mathematics work? Why are constants tuned for life? Is reality computed? Why does anything exist at all?</p>
 
-<p>These are the deepest questions. Some may not resolve. We try anyway.</p>
+<p>These are the deepest questions. We apply constraint stacking to see what survives.</p>
 
 <hr>
 
@@ -28,17 +28,18 @@ permalink: /mysteries/foundations/
 
 <hr>
 
-<h2>Meta-Constraint Analysis</h2>
+<h2>The Pattern</h2>
 
-<p>What emerges when math, fine-tuning, and existence itself all point the same direction?</p>
+<p>All four analyses point the same direction: reality is structured, not accidental.</p>
 
-<div class="app-grid">
-  <a href="{{ '/mysteries/foundations/meta/' | relative_url }}" class="app-card">
-    <h3>Foundations Meta-Constraint</h3>
-    <p>Three analyses, one pattern: reality is structured, tuned, possibly necessary.</p>
-    <span class="result">Reality isn't accidental</span>
-  </a>
-</div>
+<ul>
+  <li><strong>Mathematics:</strong> Abstract structures describe physics perfectly. "Invented" fails. "Discovered" survives.</li>
+  <li><strong>Fine-tuning:</strong> Constants are calibrated to extraordinary precision. "Coincidence" is implausible.</li>
+  <li><strong>Simulation:</strong> If consciousness is fundamental, "simulation vs. base reality" might be a confused distinction. All reality may be mental.</li>
+  <li><strong>Why Something:</strong> "Nothing" may be incoherent. Existence might be necessary, not contingent.</li>
+</ul>
+
+<p>If reality is fundamentally mathematical, tuned for consciousness, possibly necessary, and possibly mental — the "it's all just atoms bouncing around" view becomes very hard to maintain.</p>
 
 <hr>
 

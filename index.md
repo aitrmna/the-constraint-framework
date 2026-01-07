@@ -7,11 +7,11 @@ permalink: /
 
 <h1>I got curious. I asked Claude.</h1>
 
-<p>What happens when you apply systematic elimination to hard questions — about consciousness, death, reality, who we are, what else is here?</p>
+<p>What happens when you apply systematic elimination to hard questions — about consciousness, death, reality, UAPs?</p>
 
 <p>This site is the result. Not claims. Not beliefs. Just: here's the method, here's the evidence, here's what survives.</p>
 
-<p>Some mysteries dissolve into boring explanations. Some resist everything you throw at them. A pattern emerges.</p>
+<p>Some mysteries dissolve into boring explanations. Some resist everything you throw at them. Both are interesting.</p>
 
 <hr>
 
@@ -35,20 +35,20 @@ permalink: /
 <div class="app-grid">
   <a href="{{ '/mysteries/uap/' | relative_url }}" class="app-card">
     <h3>UAP</h3>
-    <p>Six military encounters. Four decades. Four countries. What survives elimination?</p>
-    <span class="result">6 cases + meta</span>
+    <p>Six military encounters. The Fermi Paradox. What survives elimination?</p>
+    <span class="result">7 cases + meta</span>
   </a>
   
   <a href="{{ '/mysteries/consciousness/' | relative_url }}" class="app-card">
     <h3>Consciousness</h3>
-    <p>Death, materialism, the self, free will, and our place in the cosmos.</p>
-    <span class="result">5 cases + meta</span>
+    <p>Death, materialism, self, free will, other minds. Testing both directions.</p>
+    <span class="result">6 cases + meta</span>
   </a>
   
   <a href="{{ '/mysteries/foundations/' | relative_url }}" class="app-card">
     <h3>Foundations</h3>
-    <p>Why does math work? Why is the universe tuned? Why does anything exist?</p>
-    <span class="result">3 cases</span>
+    <p>Mathematics, fine-tuning, simulation, why anything exists.</p>
+    <span class="result">4 cases</span>
   </a>
   
   <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
@@ -70,13 +70,13 @@ permalink: /
 
 <h2>The Pattern</h2>
 
-<p>24 mysteries. What emerges when you zoom out?</p>
+<p>26 mysteries. 5 categories. What emerges when you zoom out?</p>
 
 <div class="app-grid">
   <a href="{{ '/meta/' | relative_url }}" class="app-card">
     <h3>Site-Wide Meta</h3>
-    <p>Consciousness, UAP, and foundations resist mundane explanation. Historical and signals don't. Same method, different results. A coherent picture emerges.</p>
-    <span class="result">What does the pattern mean?</span>
+    <p>Most historical mysteries → mundane. UAP, consciousness, foundations → resist mundane. Same method, different results. A picture emerges.</p>
+    <span class="result">Do you see it?</span>
   </a>
 </div>
 

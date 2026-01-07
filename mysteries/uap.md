@@ -26,6 +26,18 @@ permalink: /mysteries/uap/
 
 <hr>
 
+<h2>The Deeper Question</h2>
+
+<div class="app-grid">
+  <a href="{{ '/mysteries/fermi-paradox/' | relative_url }}" class="app-card">
+    <h3>The Fermi Paradox</h3>
+    <p>If UAP evidence suggests they're here... where is everyone? Why this pattern of contact?</p>
+    <span class="result">They're here; the question transforms</span>
+  </a>
+</div>
+
+<hr>
+
 <h2>Meta-Constraint Analysis</h2>
 
 <p>What happens when six independent cases — different decades, different countries, different sensors — all survive to the same conclusion?</p>
