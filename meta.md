@@ -7,7 +7,7 @@ permalink: /meta/
 
 <h1>The Meta-Meta: What Does It All Mean?</h1>
 
-33 mysteries. 5 categories. One method. From basic questions to the hardest edges.
+34 mysteries. 5 categories. One method. From basic questions to the hardest edges.
 
 What pattern emerges?
 
@@ -19,7 +19,7 @@ What pattern emerges?
 |----------|-------|---------|
 | **UAP** | 7 | Non-human technology exists; they're here |
 | **Consciousness** | 11 | Awareness is fundamental; self is constructed; suffering unresolved |
-| **Foundations** | 5 | Reality is structured; time may be appearance |
+| **Foundations** | 6 | Reality is structured; time may be appearance |
 | **Historical** | 7 | Mundane (5), Unknown (1), Uncertain (1) |
 | **Signals** | 3 | Human (1), Natural (1), Uncertain (1) |
 
@@ -151,7 +151,7 @@ Johns Hopkins, Imperial College, and others are running these experiments. The r
 
 ## The Pattern Is the Finding
 
-33 mysteries through one method.
+34 mysteries through one method.
 
 Most historical mysteries → mundane explanations survive.
 Most signals → natural/human explanations survive.
@@ -199,11 +199,11 @@ For the pattern to be wrong:
 
 ## The Takeaway
 
-33 mysteries. One method. A coherent pattern:
+34 mysteries. One method. A coherent pattern:
 
 **Reality is mind-like, structured, and inhabited by more than us. Consciousness is fundamental; self is constructed; time may be appearance; death transforms into structured continuation. The phenomenon — whatever is contacting us — is one, appearing in many forms throughout history. Psychedelics provide experimental access. Suffering is real and unresolved.**
 
-The picture holds across 33 analyses. It matches what contemplatives describe. It can be tested experimentally. It has honest limits.
+The picture holds across 34 analyses. It matches what contemplatives describe. It can be tested experimentally. It has honest limits.
 
 That's what falls out.
 

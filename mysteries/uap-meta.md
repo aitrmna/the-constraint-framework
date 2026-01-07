@@ -1,17 +1,19 @@
 ---
 layout: default
 title: "UAP: Meta-Constraint Analysis"
-description: What happens when six independent cases all point the same direction?
+description: What happens when six independent encounter cases all point the same direction?
 permalink: /mysteries/uap/meta/
 ---
 
 <h1>UAP: Meta-Constraint Analysis</h1>
 
-Six cases. Six independent investigations. Six different decades, countries, sensor systems, and witness pools.
+Six encounter cases. Six independent investigations. Six different decades, countries, sensor systems, and witness pools.
 
 All six survive to the same conclusion: **Non-human technology cannot be eliminated.**
 
 What does that convergence mean?
+
+(See also: [The Fermi Paradox]({{ '/mysteries/fermi-paradox/' | relative_url }}) — what these findings mean for "where is everyone?")
 
 ---
 

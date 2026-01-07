@@ -7,7 +7,7 @@ permalink: /mysteries/uap/
 
 <h1>UAP Mysteries</h1>
 
-<p>Unidentified aerial phenomena — cases where military personnel encountered something that doesn't fit known explanations. Each case is analyzed independently using constraint stacking.</p>
+<p>Unidentified aerial phenomena — cases where military personnel encountered something that doesn't fit known explanations. Each case is analyzed independently using constraint stacking. Plus: what the Fermi Paradox means given UAP evidence.</p>
 
 <hr>
 
@@ -26,26 +26,14 @@ permalink: /mysteries/uap/
 
 <hr>
 
-<h2>The Deeper Question</h2>
-
-<div class="app-grid">
-  <a href="{{ '/mysteries/fermi-paradox/' | relative_url }}" class="app-card">
-    <h3>The Fermi Paradox</h3>
-    <p>If UAP evidence suggests they're here... where is everyone? Why this pattern of contact?</p>
-    <span class="result">They're here; the question transforms</span>
-  </a>
-</div>
-
-<hr>
-
 <h2>Meta-Constraint Analysis</h2>
 
-<p>What happens when six independent cases — different decades, different countries, different sensors — all survive to the same conclusion?</p>
+<p>What happens when seven cases — six encounters across different decades, countries, and sensors, plus the transformed Fermi Paradox — all point the same direction?</p>
 
 <div class="app-grid">
   <a href="{{ '/mysteries/uap/meta/' | relative_url }}" class="app-card">
     <h3>UAP Meta-Constraint</h3>
-    <p>Convergence across six independent cases. The odds that all six have mundane explanations.</p>
+    <p>Convergence across independent cases. The odds that all have mundane explanations.</p>
     <span class="result">Convergence → non-human technology</span>
   </a>
 </div>

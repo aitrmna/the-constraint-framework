@@ -4,7 +4,7 @@ title: The Fermi Paradox
 subtitle: If they're here, why the silence?
 description: Our UAP evidence changes this question. Not "where is everyone?" but "why this pattern of contact?"
 result: Cannot eliminate — we are being observed (reason unknown)
-category: consciousness
+category: uap
 ---
 
 The classic Fermi Paradox: The universe is vast and old. If intelligent life is possible (we exist), it should be common. So where is everyone?

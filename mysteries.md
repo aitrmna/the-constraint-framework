@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mysteries
-description: Constraint stacking analysis of 33 questions.
+description: Constraint stacking analysis of 34 questions.
 permalink: /mysteries/
 ---
 
@@ -25,13 +25,13 @@ permalink: /mysteries/
   <a href="{{ '/mysteries/consciousness/' | relative_url }}" class="app-card">
     <h3>Consciousness</h3>
     <p>Death, materialism, self, free will, and more.</p>
-    <span class="result">12 cases — non-materialist survives</span>
+    <span class="result">11 cases — non-materialist survives</span>
   </a>
   
   <a href="{{ '/mysteries/foundations/' | relative_url }}" class="app-card">
     <h3>Foundations</h3>
-    <p>Mathematics, fine-tuning, simulation, time, existence.</p>
-    <span class="result">5 cases — structured reality survives</span>
+    <p>Mathematics, fine-tuning, measurement problem, simulation, time, existence.</p>
+    <span class="result">6 cases — consciousness implicated in physics</span>
   </a>
   
   <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
@@ -51,7 +51,7 @@ permalink: /mysteries/
 
 <h2>What Emerged</h2>
 
-<p>When you look at all 33 together, a pattern appears.</p>
+<p>When you look at all 34 together, a pattern appears.</p>
 
 <div class="app-grid">
   <a href="{{ '/meta/' | relative_url }}" class="app-card">

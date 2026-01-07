@@ -1,13 +1,13 @@
 ---
 layout: page
 title: The Pattern
-description: What emerged from 33 analyses. Where it points. What it doesn't resolve.
+description: What emerged from 34 analyses. Where it points. What it doesn't resolve.
 permalink: /pattern/
 ---
 
 ## What Emerged
 
-33 analyses. One method. We didn't set out to arrive anywhere.
+34 analyses. One method. We didn't set out to arrive anywhere.
 
 We just applied constraint stacking — list explanations, eliminate what doesn't fit, report what survives.
 
@@ -23,7 +23,7 @@ A pattern appeared.
 | Signals | 3 | **Mostly explained** — Numbers Stations were spies, FRBs are magnetars |
 | UAP | 7 | **Non-human technology** — all 6 encounter cases + Fermi analysis |
 | Consciousness | 12 | **Non-materialist** — materialism and annihilation fail constraints |
-| Foundations | 5 | **Structured reality** — math discovered, constants tuned, time possibly appearance |
+| Foundations | 6 | **Structured reality** — math discovered, constants tuned, consciousness implicated in physics |
 
 **The split is interesting.**
 

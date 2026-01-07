@@ -55,13 +55,13 @@ permalink: /
   <a href="{{ '/mysteries/consciousness/' | relative_url }}" class="app-card">
     <h3>Consciousness</h3>
     <p>Death, materialism, self, free will, and more.</p>
-    <span class="result">12 cases</span>
+    <span class="result">11 cases</span>
   </a>
   
   <a href="{{ '/mysteries/foundations/' | relative_url }}" class="app-card">
     <h3>Foundations</h3>
-    <p>Mathematics, fine-tuning, time, existence.</p>
-    <span class="result">5 cases</span>
+    <p>Mathematics, fine-tuning, measurement, time, existence.</p>
+    <span class="result">6 cases</span>
   </a>
   
   <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
@@ -77,7 +77,7 @@ permalink: /
   </a>
 </div>
 
-<p><a href="{{ '/mysteries/' | relative_url }}">All 33 mysteries →</a></p>
+<p><a href="{{ '/mysteries/' | relative_url }}">All 34 mysteries →</a></p>
 
 <hr>
 
