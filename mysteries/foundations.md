@@ -30,12 +30,14 @@ permalink: /mysteries/foundations/
 
 <h2>The Pattern</h2>
 
-<p>All eight analyses point the same direction: reality is structured, not accidental, and deep questions remain genuinely open.</p>
+<p>All ten analyses point the same direction: reality is structured, not accidental, and spacetime may be appearance.</p>
 
 <ul>
   <li><strong>Mathematics:</strong> Abstract structures describe physics perfectly. "Invented" fails. "Discovered" survives.</li>
   <li><strong>Fine-tuning:</strong> Constants are calibrated to extraordinary precision. "Coincidence" is implausible.</li>
   <li><strong>Measurement Problem:</strong> 100 years, no solution. Every interpretation either invokes consciousness or has a consciousness-shaped hole.</li>
+  <li><strong>Delayed Choice Quantum Eraser:</strong> Observation NOW correlates with what happened BEFORE. Time is suspect.</li>
+  <li><strong>Non-Locality:</strong> Entangled particles correlate instantly regardless of distance. Space may not be fundamental.</li>
   <li><strong>Dark Matter vs MOND:</strong> Neither fully works. Pure MOND eliminated (Bullet Cluster). Dark matter survives but 40 years, no particle. Something deeper may be needed.</li>
   <li><strong>Did Existence Start?:</strong> "Started from nothing" seems incoherent. Timelessness or malformed question survive.</li>
   <li><strong>Simulation:</strong> If consciousness is fundamental, "simulation vs. base reality" might be confused distinction.</li>

@@ -1,13 +1,13 @@
 ---
 layout: page
 title: The Pattern
-description: What emerged from 37 analyses. Where it points. What it doesn't resolve.
+description: What emerged from 40 analyses. Where it points. What it doesn't resolve.
 permalink: /pattern/
 ---
 
 ## What Emerged
 
-37 analyses. One method. We didn't set out to arrive anywhere.
+40 analyses. One method. We didn't set out to arrive anywhere.
 
 We just applied constraint stacking — list explanations, eliminate what doesn't fit, report what survives.
 
@@ -22,8 +22,8 @@ A pattern appeared.
 | Historical | 7 | **Mundane** (5 of 7) — Dyatlov was avalanche, Oak Island has no treasure, Bermuda Triangle has no anomaly |
 | Signals | 3 | **Mostly explained** — Numbers Stations were spies, FRBs are magnetars |
 | UAP | 7 | **Non-human technology** — all 6 encounter cases + Fermi analysis |
-| Consciousness | 12 | **Non-materialist** — materialism and annihilation fail constraints |
-| Foundations | 8 | **Structured reality** — math discovered, constants tuned, consciousness implicated in physics |
+| Consciousness | 13 | **Non-materialist** — materialism and annihilation fail constraints |
+| Foundations | 10 | **Structured reality** — math discovered, constants tuned, spacetime suspect |
 
 **The split is interesting.**
 

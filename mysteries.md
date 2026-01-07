@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mysteries
-description: Constraint stacking analysis of 37 questions.
+description: Constraint stacking analysis of 40 questions.
 permalink: /mysteries/
 ---
 
@@ -30,8 +30,8 @@ permalink: /mysteries/
   
   <a href="{{ '/mysteries/foundations/' | relative_url }}" class="app-card">
     <h3>Foundations</h3>
-    <p>Mathematics, fine-tuning, measurement, dark matter, time, existence.</p>
-    <span class="result">8 cases — deep physics, genuinely open</span>
+    <p>Mathematics, fine-tuning, measurement, dark matter, non-locality, time, existence.</p>
+    <span class="result">10 cases — spacetime suspect</span>
   </a>
   
   <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
@@ -51,7 +51,7 @@ permalink: /mysteries/
 
 <h2>What Emerged</h2>
 
-<p>When you look at all 37 together, a pattern appears.</p>
+<p>When you look at all 40 together, a pattern appears.</p>
 
 <div class="app-grid">
   <a href="{{ '/meta/' | relative_url }}" class="app-card">

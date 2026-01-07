@@ -9,7 +9,7 @@ permalink: /mysteries/consciousness/
 
 <p>What is consciousness? Why is there experience at all? Is it produced by matter? Does it survive death? Is there a continuous "you"? Do we actually choose? Can minds access other minds? What is the contact with non-human intelligence? What's the structure after death? Why is there suffering?</p>
 
-<p>Twelve analyses. From the basics to the edges. A picture emerges.</p>
+<p>Thirteen analyses. From the basics to the edges. A picture emerges.</p>
 
 <hr>
 

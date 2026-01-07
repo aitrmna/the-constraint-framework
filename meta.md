@@ -7,7 +7,7 @@ permalink: /meta/
 
 <h1>The Meta-Meta: What Does It All Mean?</h1>
 
-37 mysteries. 5 categories. One method. From basic questions to the hardest edges.
+40 mysteries. 5 categories. One method. From basic questions to the hardest edges.
 
 What pattern emerges?
 
@@ -18,8 +18,8 @@ What pattern emerges?
 | Category | Cases | Pattern |
 |----------|-------|---------|
 | **UAP** | 7 | Non-human technology exists; they're here |
-| **Consciousness** | 12 | Awareness is fundamental; self is constructed; suffering unresolved |
-| **Foundations** | 8 | Reality is structured; time may be appearance |
+| **Consciousness** | 13 | Awareness is fundamental; self is constructed; suffering unresolved |
+| **Foundations** | 10 | Reality is structured; time and space may be appearance |
 | **Historical** | 7 | Mundane (5), Unknown (1), Uncertain (1) |
 | **Signals** | 3 | Human (1), Natural (1), Uncertain (1) |
 
@@ -151,7 +151,7 @@ Johns Hopkins, Imperial College, and others are running these experiments. The r
 
 ## The Pattern Is the Finding
 
-37 mysteries through one method.
+40 mysteries through one method.
 
 Most historical mysteries → mundane explanations survive.
 Most signals → natural/human explanations survive.
@@ -199,11 +199,11 @@ For the pattern to be wrong:
 
 ## The Takeaway
 
-37 mysteries. One method. A coherent pattern:
+40 mysteries. One method. A coherent pattern:
 
 **Reality is mind-like, structured, and inhabited by more than us. Consciousness is fundamental; self is constructed; time may be appearance; death transforms into structured continuation. The phenomenon — whatever is contacting us — is one, appearing in many forms throughout history. Psychedelics provide experimental access. Suffering is real and unresolved.**
 
-The picture holds across 37 analyses. It matches what contemplatives describe. It can be tested experimentally. It has honest limits.
+The picture holds across 40 analyses. It matches what contemplatives describe. It can be tested experimentally. It has honest limits.
 
 That's what falls out.
 

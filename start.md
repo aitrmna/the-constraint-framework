@@ -76,7 +76,7 @@ Instead, look at three cases. They're chosen because they're hard to dismiss wit
 
 ## If You're Still Here
 
-These three cases are representative. There are 37 total, across five categories.
+These three cases are representative. There are 40 total, across five categories.
 
 **Next steps:**
 
@@ -86,7 +86,7 @@ These three cases are representative. There are 37 total, across five categories
 
 <p><a href="{{ '/mysteries/historical/' | relative_url }}">More debunking →</a> (5 of 7 historical cases resolve to mundane)</p>
 
-Or jump to what emerges when you look at all 37 together:
+Or jump to what emerges when you look at all 40 together:
 
 <p><a href="{{ '/meta/' | relative_url }}">The pattern that emerged →</a></p>
 

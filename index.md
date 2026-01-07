@@ -60,8 +60,8 @@ permalink: /
   
   <a href="{{ '/mysteries/foundations/' | relative_url }}" class="app-card">
     <h3>Foundations</h3>
-    <p>Mathematics, fine-tuning, measurement, dark matter, time, existence.</p>
-    <span class="result">8 cases</span>
+    <p>Mathematics, fine-tuning, measurement, non-locality, time, existence.</p>
+    <span class="result">10 cases</span>
   </a>
   
   <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
@@ -77,7 +77,7 @@ permalink: /
   </a>
 </div>
 
-<p><a href="{{ '/mysteries/' | relative_url }}">All 37 mysteries →</a></p>
+<p><a href="{{ '/mysteries/' | relative_url }}">All 40 mysteries →</a></p>
 
 <hr>
 
