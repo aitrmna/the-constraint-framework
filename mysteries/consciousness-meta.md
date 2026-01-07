@@ -1,13 +1,13 @@
 ---
 layout: default
 title: "Consciousness: Meta-Constraint Analysis"
-description: What emerges when twelve consciousness analyses all point the same direction?
+description: What emerges when eleven consciousness analyses all point the same direction?
 permalink: /mysteries/consciousness/meta/
 ---
 
 <h1>Consciousness: Meta-Constraint Analysis</h1>
 
-Twelve questions about consciousness. All tested. The core holds. The edges test it.
+Eleven questions about consciousness. All tested. The core holds. The edges test it.
 
 ---
 
@@ -43,7 +43,7 @@ Twelve questions about consciousness. All tested. The core holds. The edges test
 
 ## The Picture
 
-Twelve analyses. Same direction:
+Eleven analyses. Same direction:
 
 ### What Consciousness Is
 

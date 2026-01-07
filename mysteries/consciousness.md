@@ -9,7 +9,7 @@ permalink: /mysteries/consciousness/
 
 <p>What is consciousness? Is it produced by matter? Does it survive death? Is there a continuous "you"? Do we actually choose? Can minds access other minds? What is the contact with non-human intelligence? What's the structure after death? Why is there suffering?</p>
 
-<p>Twelve analyses. From the basics to the edges. A picture emerges.</p>
+<p>Eleven analyses. From the basics to the edges. A picture emerges.</p>
 
 <hr>
 
@@ -103,12 +103,12 @@ permalink: /mysteries/consciousness/
 
 <h2>Meta-Constraint Analysis</h2>
 
-<p>What emerges when twelve consciousness analyses point the same direction?</p>
+<p>What emerges when eleven consciousness analyses point the same direction?</p>
 
 <div class="app-grid">
   <a href="{{ '/mysteries/consciousness/meta/' | relative_url }}" class="app-card">
     <h3>Consciousness Meta-Constraint</h3>
-    <p>Twelve analyses. The core holds. The edges test it. Suffering remains unresolved.</p>
+    <p>Eleven analyses. The core holds. The edges test it. Suffering remains unresolved.</p>
     <span class="result">The picture that emerges</span>
   </a>
 </div>

@@ -19,10 +19,12 @@ permalink: /
 
 <p>Three cases that show what the method does — one anomaly, one challenge to mainstream thinking, one debunk.</p>
 
-<p><a href="{{ '/start/' | relative_url }}" class="app-card" style="display: block; max-width: 400px;">
-  <h3>Start Here →</h3>
-  <p>The Tic Tac. Terminal Lucidity. The Bermuda Triangle. See if the reasoning holds up.</p>
-</a></p>
+<div class="app-grid">
+  <a href="{{ '/start/' | relative_url }}" class="app-card">
+    <h3>Start Here →</h3>
+    <p>The Tic Tac. Terminal Lucidity. The Bermuda Triangle. See if the reasoning holds up.</p>
+  </a>
+</div>
 
 <hr>
 

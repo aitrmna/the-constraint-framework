@@ -18,7 +18,7 @@ What pattern emerges?
 | Category | Cases | Pattern |
 |----------|-------|---------|
 | **UAP** | 7 | Non-human technology exists; they're here |
-| **Consciousness** | 12 | Awareness is fundamental; self is constructed; suffering unresolved |
+| **Consciousness** | 11 | Awareness is fundamental; self is constructed; suffering unresolved |
 | **Foundations** | 5 | Reality is structured; time may be appearance |
 | **Historical** | 7 | Mundane (5), Unknown (1), Uncertain (1) |
 | **Signals** | 3 | Human (1), Natural (1), Uncertain (1) |

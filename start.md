@@ -82,7 +82,7 @@ These three cases are representative. There are 33 total, across five categories
 
 <p><a href="{{ '/mysteries/uap/' | relative_url }}">More UAP cases →</a> (6 total, same pattern)</p>
 
-<p><a href="{{ '/mysteries/consciousness/' | relative_url }}">More consciousness cases →</a> (12 total, including death, self, free will)</p>
+<p><a href="{{ '/mysteries/consciousness/' | relative_url }}">More consciousness cases →</a> (11 total, including death, self, free will)</p>
 
 <p><a href="{{ '/mysteries/historical/' | relative_url }}">More debunking →</a> (5 of 7 historical cases resolve to mundane)</p>
 
