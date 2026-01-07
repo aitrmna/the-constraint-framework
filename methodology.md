@@ -153,3 +153,11 @@ Probability estimates require precision we don't have. "85% confidence" sounds s
 [See it applied → UAP Mysteries]({{ '/mysteries/uap/' | relative_url }})
 
 [See it applied → Consciousness Mysteries]({{ '/mysteries/consciousness/' | relative_url }})
+
+---
+
+## Use It Yourself
+
+Want to apply constraint stacking to your own questions? We've distilled the method into a toolkit with templates, failure modes, and a quick reference checklist.
+
+[Get the toolkit →]({{ '/toolkit/' | relative_url }})
