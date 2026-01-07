@@ -211,6 +211,16 @@ The point isn't to be right. The point is to think.
 
 ---
 
+## Go Deeper
+
 <p><a href="{{ '/pattern/' | relative_url }}">Do you see it? →</a></p>
+
+<p><a href="{{ '/predictions/' | relative_url }}">What this predicts (and how to break it) →</a></p>
+
+<p><a href="{{ '/steelman/' | relative_url }}">The strongest objections →</a></p>
+
+<p><a href="{{ '/trust/' | relative_url }}">Why you shouldn't trust this →</a></p>
+
+---
 
 <p><a href="{{ '/mysteries/' | relative_url }}">← Back to Mysteries</a></p>
