@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mysteries
-description: Constraint stacking analysis of 35 questions.
+description: Constraint stacking analysis of 36 questions.
 permalink: /mysteries/
 ---
 
@@ -51,7 +51,7 @@ permalink: /mysteries/
 
 <h2>What Emerged</h2>
 
-<p>When you look at all 35 together, a pattern appears.</p>
+<p>When you look at all 36 together, a pattern appears.</p>
 
 <div class="app-grid">
   <a href="{{ '/meta/' | relative_url }}" class="app-card">

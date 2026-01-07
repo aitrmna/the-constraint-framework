@@ -290,7 +290,7 @@ That's epistemic humility combined with epistemic rigor. Not certainty, but cali
 
 ---
 
-*Method refined through application to 35 questions across consciousness, physics, UAP, history, and foundations. Control group confirms method debunks when debunking fits.*
+*Method refined through application to 36 questions across consciousness, physics, UAP, history, and foundations. Control group confirms method debunks when debunking fits.*
 
 ---
 

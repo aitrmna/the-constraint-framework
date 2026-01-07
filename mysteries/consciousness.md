@@ -7,15 +7,21 @@ permalink: /mysteries/consciousness/
 
 <h1>Consciousness Mysteries</h1>
 
-<p>What is consciousness? Is it produced by matter? Does it survive death? Is there a continuous "you"? Do we actually choose? Can minds access other minds? What is the contact with non-human intelligence? What's the structure after death? Why is there suffering?</p>
+<p>What is consciousness? Why is there experience at all? Is it produced by matter? Does it survive death? Is there a continuous "you"? Do we actually choose? Can minds access other minds? What is the contact with non-human intelligence? What's the structure after death? Why is there suffering?</p>
 
-<p>Eleven analyses. From the basics to the edges. A picture emerges.</p>
+<p>Twelve analyses. From the basics to the edges. A picture emerges.</p>
 
 <hr>
 
 <h2>The Core Questions</h2>
 
 <div class="app-grid">
+  <a href="{{ '/mysteries/hard-problem/' | relative_url }}" class="app-card">
+    <h3>The Hard Problem</h3>
+    <p>Why is there experience at all? 30 years, no progress.</p>
+    <span class="result">Consciousness may be fundamental</span>
+  </a>
+
   <a href="{{ '/mysteries/materialism/' | relative_url }}" class="app-card">
     <h3>Materialism</h3>
     <p>Does matter produce consciousness?</p>

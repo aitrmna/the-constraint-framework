@@ -77,7 +77,7 @@ permalink: /
   </a>
 </div>
 
-<p><a href="{{ '/mysteries/' | relative_url }}">All 35 mysteries →</a></p>
+<p><a href="{{ '/mysteries/' | relative_url }}">All 36 mysteries →</a></p>
 
 <hr>
 

@@ -1,13 +1,13 @@
 ---
 layout: page
 title: The Pattern
-description: What emerged from 35 analyses. Where it points. What it doesn't resolve.
+description: What emerged from 36 analyses. Where it points. What it doesn't resolve.
 permalink: /pattern/
 ---
 
 ## What Emerged
 
-35 analyses. One method. We didn't set out to arrive anywhere.
+36 analyses. One method. We didn't set out to arrive anywhere.
 
 We just applied constraint stacking — list explanations, eliminate what doesn't fit, report what survives.
 

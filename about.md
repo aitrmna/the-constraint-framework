@@ -15,7 +15,7 @@ I asked things like: "What survives when you actually test both directions on co
 
 Claude applied systematic elimination and produced the pages on this site.
 
-**Current scope:** 35 mysteries across 5 categories, from basic questions to the hardest edges.
+**Current scope:** 36 mysteries across 5 categories, from basic questions to the hardest edges.
 
 ## Why It Exists
 
