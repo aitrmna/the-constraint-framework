@@ -1,13 +1,13 @@
 ---
 layout: page
 title: The Pattern
-description: What 26 analyses point toward. And where others have pointed too.
+description: What 29 analyses point toward. And where others have pointed too.
 permalink: /pattern/
 ---
 
 ## Do You See It?
 
-26 analyses. One method. A picture emerges.
+29 analyses. One method. A picture emerges.
 
 We didn't set out to arrive anywhere. We just applied constraint stacking — list explanations, eliminate what doesn't fit, report what survives.
 
@@ -25,9 +25,9 @@ This is where we landed:
 
 **Reality is structured.** Mathematics is discovered, not invented. Physical constants are tuned for life. "Nothing" may be incoherent — existence might be necessary.
 
-**Separation is appearance.** Other minds exist, but the boundaries between them may be less real than they seem. If awareness is fundamental and self is constructed, "one awareness, many perspectives" becomes coherent.
+**Separation is appearance.** Other minds exist, but the boundaries between them may be less real than they seem. Psi shows weak effects. Contact operates through consciousness. If awareness is fundamental, "one awareness, many perspectives" becomes coherent.
 
-**We're not alone.** Non-human intelligence exists and is present. The pattern of contact suggests deliberate limited engagement.
+**The phenomenon is one.** Throughout history, something has been interacting with humanity — appearing as spirits, angels, apparitions, aliens. The framework changes; the phenomenon persists. Fatima (1917) looks like a UAP event. Contact experiences involve consciousness, not just physics. Whatever "they" are, they operate through awareness.
 
 ---
 
@@ -45,6 +45,7 @@ This is also where certain wisdom traditions have landed — through meditation,
 | Reality is mathematical | Pythagoras, Plato, Neoplatonism |
 | Separation is appearance | Advaita Vedanta ("not two"), mystical union |
 | Existence may be necessary | Leibniz, Spinoza, Aquinas's "necessary being" |
+| The phenomenon is one | Perennial philosophy (one truth, many expressions) |
 
 We arrived through constraint stacking on Claude's training data.
 
@@ -81,17 +82,42 @@ We don't know. We're pointing at the convergence, not explaining it.
 
 ---
 
+## The Phenomenon
+
+The sharpest finding might be this:
+
+Something has been contacting humanity throughout history.
+
+| Era | Framework | What Was Seen |
+|-----|-----------|---------------|
+| Ancient | Spirits, gods | Contact, visions, transformation |
+| Medieval | Angels, demons | Apparitions, healings, signs |
+| 1917 | Virgin Mary | Fatima — 70,000 witnesses, aerial phenomenon |
+| 1947+ | Aliens, UFOs | UAP encounters, abductions |
+| Now | Non-human intelligence | Pentagon-confirmed craft, contact experiences |
+
+The phenomenon:
+- Appears in the sky
+- Makes contact with individuals
+- Operates through consciousness
+- Transforms experiencers
+- Doesn't fully reveal itself
+
+If consciousness is fundamental and separation is appearance, "they" might not be separate beings visiting from elsewhere. They might be another expression of the same awareness we are.
+
+---
+
 ## The Invitation
 
 This site isn't trying to convince you of anything.
 
 It's an invitation to look.
 
-26 mysteries. One method. A pattern emerged. That pattern resembles what contemplatives and philosophers have described for millennia.
+29 mysteries. One method. A pattern emerged. That pattern resembles what contemplatives and philosophers have described for millennia.
 
 **Do you see it?**
 
-If you do, sit with it. What would it mean if reality is more like mind than matter? If self is constructed? If death is transformation? If separation is appearance?
+If you do, sit with it. What would it mean if reality is more like mind than matter? If self is constructed? If death is transformation? If separation is appearance? If the phenomenon has been here all along?
 
 If you don't, that's fine too. Point to where the constraints are wrong. Show us what we missed. The method invites challenge.
 

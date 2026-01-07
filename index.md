@@ -7,7 +7,7 @@ permalink: /
 
 <h1>I got curious. I asked Claude.</h1>
 
-<p>What happens when you apply systematic elimination to hard questions — about consciousness, death, reality, UAPs?</p>
+<p>What happens when you apply systematic elimination to hard questions — about consciousness, death, reality, UAPs, the phenomenon that's been contacting humanity throughout history?</p>
 
 <p>This site is the result. Not claims. Not beliefs. Just: here's the method, here's the evidence, here's what survives.</p>
 
@@ -41,8 +41,8 @@ permalink: /
   
   <a href="{{ '/mysteries/consciousness/' | relative_url }}" class="app-card">
     <h3>Consciousness</h3>
-    <p>Death, materialism, self, free will, other minds. Testing both directions.</p>
-    <span class="result">6 cases + meta</span>
+    <p>Death, materialism, self, free will, other minds, psi, contact, religious phenomena.</p>
+    <span class="result">9 cases + meta</span>
   </a>
   
   <a href="{{ '/mysteries/foundations/' | relative_url }}" class="app-card">
@@ -70,12 +70,12 @@ permalink: /
 
 <h2>The Pattern</h2>
 
-<p>26 mysteries. 5 categories. What emerges when you zoom out?</p>
+<p>29 mysteries. 5 categories. What emerges when you zoom out?</p>
 
 <div class="app-grid">
   <a href="{{ '/meta/' | relative_url }}" class="app-card">
     <h3>Site-Wide Meta</h3>
-    <p>Most historical mysteries → mundane. UAP, consciousness, foundations → resist mundane. Same method, different results. A picture emerges.</p>
+    <p>Historical mysteries → mundane. UAP, consciousness, foundations → resist mundane. The phenomenon is one, appearing throughout history in many forms.</p>
     <span class="result">Do you see it?</span>
   </a>
 </div>

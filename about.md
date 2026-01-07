@@ -11,9 +11,9 @@ I got curious. Asked Claude questions. Claude answered using constraint stacking
 
 That's it.
 
-I asked things like: "What survives when you actually test both directions on consciousness?" and "What explains the Tic Tac if you eliminate what doesn't fit?" Claude applied systematic elimination and produced the pages on this site.
+I asked things like: "What survives when you actually test both directions on consciousness?" and "What explains the Tic Tac if you eliminate what doesn't fit?" and "Is the phenomenon that appears throughout history — spirits, angels, aliens — actually one thing?" Claude applied systematic elimination and produced the pages on this site.
 
-**Current scope:** 20 mysteries across 5 categories, with meta-analyses showing patterns across cases.
+**Current scope:** 29 mysteries across 5 categories, with meta-analyses showing patterns across cases.
 
 ## Why It Exists
 
@@ -86,6 +86,7 @@ But when the same method hits UAP, consciousness, and foundations:
 - All UAP cases → non-human technology survives
 - All consciousness analyses → non-materialism survives
 - Foundations → "just coincidence" doesn't survive
+- The phenomenon → appears to be one thing, throughout history
 
 Same method, different results. The evidence determines the outcome.
 

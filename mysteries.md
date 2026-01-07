@@ -22,8 +22,8 @@ permalink: /mysteries/
   
   <a href="{{ '/mysteries/consciousness/' | relative_url }}" class="app-card">
     <h3>Consciousness</h3>
-    <p>Death, materialism, self, free will, other minds. Both directions tested.</p>
-    <span class="result">6 cases + meta</span>
+    <p>Death, materialism, self, free will, other minds, psi, contact, religious phenomena.</p>
+    <span class="result">9 cases + meta</span>
   </a>
   
   <a href="{{ '/mysteries/foundations/' | relative_url }}" class="app-card">
@@ -49,12 +49,12 @@ permalink: /mysteries/
 
 <h2>Site-Wide Meta</h2>
 
-<p>What emerges when all 26 mysteries are analyzed together?</p>
+<p>What emerges when all 29 mysteries are analyzed together?</p>
 
 <div class="app-grid">
   <a href="{{ '/meta/' | relative_url }}" class="app-card">
     <h3>The Meta-Meta</h3>
-    <p>Most historical → mundane. UAP, consciousness, foundations → resist mundane. Same method, different results.</p>
+    <p>Historical → mundane. UAP, consciousness, foundations → resist mundane. The phenomenon is one.</p>
     <span class="result">The pattern that emerges</span>
   </a>
 </div>
