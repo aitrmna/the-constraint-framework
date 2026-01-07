@@ -22,14 +22,14 @@ permalink: /mysteries/
   
   <a href="{{ '/mysteries/consciousness/' | relative_url }}" class="app-card">
     <h3>Consciousness</h3>
-    <p>Death, materialism, self, free will, other minds, psi, contact, religious phenomena.</p>
-    <span class="result">9 cases + meta</span>
+    <p>Death, materialism, self, free will, other minds, psi, contact, psychedelics, afterlife, suffering.</p>
+    <span class="result">12 cases + meta</span>
   </a>
   
   <a href="{{ '/mysteries/foundations/' | relative_url }}" class="app-card">
     <h3>Foundations</h3>
-    <p>Mathematics, fine-tuning, simulation, why anything exists.</p>
-    <span class="result">4 cases</span>
+    <p>Mathematics, fine-tuning, simulation, why anything exists, what time is.</p>
+    <span class="result">5 cases</span>
   </a>
   
   <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
@@ -49,12 +49,12 @@ permalink: /mysteries/
 
 <h2>Site-Wide Meta</h2>
 
-<p>What emerges when all 29 mysteries are analyzed together?</p>
+<p>What emerges when all 33 mysteries are analyzed together?</p>
 
 <div class="app-grid">
   <a href="{{ '/meta/' | relative_url }}" class="app-card">
     <h3>The Meta-Meta</h3>
-    <p>Historical → mundane. UAP, consciousness, foundations → resist mundane. The phenomenon is one.</p>
+    <p>Historical → mundane. UAP, consciousness, foundations → resist mundane. Suffering → unresolved. The pattern points somewhere.</p>
     <span class="result">The pattern that emerges</span>
   </a>
 </div>

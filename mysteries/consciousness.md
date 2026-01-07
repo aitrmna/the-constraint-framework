@@ -1,15 +1,15 @@
 ---
 layout: default
 title: Consciousness Mysteries
-description: Constraint stacking analysis of consciousness, death, self, mind, and phenomena.
+description: Constraint stacking analysis of consciousness, death, self, mind, phenomena, and the edges.
 permalink: /mysteries/consciousness/
 ---
 
 <h1>Consciousness Mysteries</h1>
 
-<p>What is consciousness? Is it produced by matter? Does it survive death? Is there a continuous "you"? Do we actually choose? Can minds access other minds? What is the contact with non-human intelligence? How do religious phenomena fit?</p>
+<p>What is consciousness? Is it produced by matter? Does it survive death? Is there a continuous "you"? Do we actually choose? Can minds access other minds? What is the contact with non-human intelligence? What's the structure after death? Why is there suffering?</p>
 
-<p>Nine analyses. All interconnected. A picture emerges.</p>
+<p>Twelve analyses. From the basics to the edges. A picture emerges.</p>
 
 <hr>
 
@@ -51,7 +51,7 @@ permalink: /mysteries/consciousness/
 
 <h2>The Bridges</h2>
 
-<p>These connect consciousness to reality and to non-human intelligence.</p>
+<p>These connect consciousness to reality and to the phenomenon.</p>
 
 <div class="app-grid">
   <a href="{{ '/mysteries/psi/' | relative_url }}" class="app-card">
@@ -72,10 +72,30 @@ permalink: /mysteries/consciousness/
     <span class="result">Phenomena are real; interpretation varies</span>
   </a>
   
-  <a href="{{ '/mysteries/simulation/' | relative_url }}" class="app-card">
-    <h3>Simulation Hypothesis</h3>
-    <p>Is reality computed? If consciousness is fundamental, the question transforms.</p>
-    <span class="result">The distinction may collapse</span>
+  <a href="{{ '/mysteries/psychedelics/' | relative_url }}" class="app-card">
+    <h3>Psychedelics</h3>
+    <p>Can we induce contact and self-dissolution? Experimental test of findings.</p>
+    <span class="result">Access something real</span>
+  </a>
+  
+  <a href="{{ '/mysteries/afterlife-structure/' | relative_url }}" class="app-card">
+    <h3>The Afterlife Structure</h3>
+    <p>If awareness survives, INTO WHAT? Do sources converge on a map?</p>
+    <span class="result">Convergent structure exists</span>
+  </a>
+</div>
+
+<hr>
+
+<h2>The Edges</h2>
+
+<p>The hardest questions. Where the picture is tested.</p>
+
+<div class="app-grid">
+  <a href="{{ '/mysteries/suffering/' | relative_url }}" class="app-card">
+    <h3>Suffering</h3>
+    <p>If consciousness is fundamental, why does it hurt? The question that could break or complete the picture.</p>
+    <span class="result">Unresolved — suffering is real</span>
   </a>
 </div>
 
@@ -83,12 +103,12 @@ permalink: /mysteries/consciousness/
 
 <h2>Meta-Constraint Analysis</h2>
 
-<p>What emerges when nine consciousness analyses all point the same direction?</p>
+<p>What emerges when twelve consciousness analyses point the same direction?</p>
 
 <div class="app-grid">
   <a href="{{ '/mysteries/consciousness/meta/' | relative_url }}" class="app-card">
     <h3>Consciousness Meta-Constraint</h3>
-    <p>Nine analyses. One direction. Awareness is fundamental; self is constructed; contact is real; the phenomenon is one.</p>
+    <p>Twelve analyses. The core holds. The edges test it. Suffering remains unresolved.</p>
     <span class="result">The picture that emerges</span>
   </a>
 </div>

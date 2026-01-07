@@ -7,7 +7,7 @@ permalink: /mysteries/foundations/
 
 <h1>Foundations Mysteries</h1>
 
-<p>What is the nature of reality itself? Why does mathematics work? Why are constants tuned for life? Is reality computed? Why does anything exist at all?</p>
+<p>What is the nature of reality itself? Why does mathematics work? Why are constants tuned for life? Is reality computed? Why does anything exist at all? What is time?</p>
 
 <p>These are the deepest questions. We apply constraint stacking to see what survives.</p>
 
@@ -30,16 +30,17 @@ permalink: /mysteries/foundations/
 
 <h2>The Pattern</h2>
 
-<p>All four analyses point the same direction: reality is structured, not accidental.</p>
+<p>All five analyses point the same direction: reality is structured, not accidental, and time may be appearance.</p>
 
 <ul>
   <li><strong>Mathematics:</strong> Abstract structures describe physics perfectly. "Invented" fails. "Discovered" survives.</li>
   <li><strong>Fine-tuning:</strong> Constants are calibrated to extraordinary precision. "Coincidence" is implausible.</li>
-  <li><strong>Simulation:</strong> If consciousness is fundamental, "simulation vs. base reality" might be a confused distinction. All reality may be mental.</li>
+  <li><strong>Simulation:</strong> If consciousness is fundamental, "simulation vs. base reality" might be confused distinction.</li>
   <li><strong>Why Something:</strong> "Nothing" may be incoherent. Existence might be necessary, not contingent.</li>
+  <li><strong>Time:</strong> Physics suggests block universe. Flow might be appearance within consciousness.</li>
 </ul>
 
-<p>If reality is fundamentally mathematical, tuned for consciousness, possibly necessary, and possibly mental — the "it's all just atoms bouncing around" view becomes very hard to maintain.</p>
+<p>If reality is fundamentally mathematical, tuned for consciousness, possibly necessary, and time is appearance — the "it's all just atoms bouncing around in time" view becomes very hard to maintain.</p>
 
 <hr>
 

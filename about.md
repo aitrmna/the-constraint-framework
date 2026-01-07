@@ -11,9 +11,11 @@ I got curious. Asked Claude questions. Claude answered using constraint stacking
 
 That's it.
 
-I asked things like: "What survives when you actually test both directions on consciousness?" and "What explains the Tic Tac if you eliminate what doesn't fit?" and "Is the phenomenon that appears throughout history — spirits, angels, aliens — actually one thing?" Claude applied systematic elimination and produced the pages on this site.
+I asked things like: "What survives when you actually test both directions on consciousness?" and "What explains the Tic Tac if you eliminate what doesn't fit?" and "Is the phenomenon that appears throughout history — spirits, angels, aliens — actually one thing?" and "If all this is true, why is there suffering?"
 
-**Current scope:** 29 mysteries across 5 categories, with meta-analyses showing patterns across cases.
+Claude applied systematic elimination and produced the pages on this site.
+
+**Current scope:** 33 mysteries across 5 categories, from basic questions to the hardest edges.
 
 ## Why It Exists
 
@@ -21,7 +23,7 @@ I asked things like: "What survives when you actually test both directions on co
 
 Not to prove anything. Not to convert anyone. Just to see what falls out when you apply rigorous elimination to hard questions.
 
-Some mysteries dissolve into mundane explanations (Bermuda Triangle — no anomaly at all). Some resist every mundane explanation thrown at them (Tic Tac — five sensor systems, physics-breaking acceleration). Both results are interesting.
+Some mysteries dissolve into mundane explanations (Bermuda Triangle — no anomaly at all). Some resist every mundane explanation thrown at them (Tic Tac — five sensor systems, physics-breaking acceleration). Some hit edges we can't resolve (suffering — real, excessive, unexplained).
 
 The goal isn't answers. The goal is *better questions*.
 
@@ -36,7 +38,7 @@ The goal isn't answers. The goal is *better questions*.
 
 We don't say "X is true." We say "We eliminated everything except X."
 
-And when genuine puzzles remain on both sides, we say that too. Intellectual honesty means acknowledging what you can't fully explain, not just what the other side can't explain.
+And when we hit edges we can't resolve, we say that too.
 
 ## What This Isn't
 
@@ -47,8 +49,9 @@ This is not:
 - Expert testimony
 - A belief system
 - Trying to convince you of anything
+- A tidy worldview that explains everything
 
-It's Claude's output given my prompts, shared because the process of inquiry was interesting.
+It's Claude's output given my prompts, shared because the process of inquiry was interesting — including the places where it breaks down.
 
 ## The Epistemology Problem
 
@@ -70,6 +73,7 @@ The chain of verification never ends. At some point, you decide to trust or not.
 3. Those responses are published here
 4. The methodology is explicit and checkable
 5. The reasoning might be interesting to think about
+6. The edges — especially suffering — are honest about what we can't explain
 
 That's all. Whether any of it maps to external reality is your problem, not mine.
 
@@ -84,17 +88,21 @@ Interestingly, the method doesn't favor exotic conclusions:
 But when the same method hits UAP, consciousness, and foundations:
 
 - All UAP cases → non-human technology survives
-- All consciousness analyses → non-materialism survives
+- All consciousness analyses → non-materialist views survive
 - Foundations → "just coincidence" doesn't survive
 - The phenomenon → appears to be one thing, throughout history
 
-Same method, different results. The evidence determines the outcome.
+And when we pushed to the hardest edge:
 
-**That's what makes it interesting** — not that it confirms any particular worldview, but that the pattern raises questions worth sitting with.
+- Suffering → real, built-in, excessive, unresolved
+
+Same method, different results. The evidence determines the outcome. The edges reveal the limits.
+
+**That's what makes it interesting** — not that it confirms any particular worldview, but that the pattern raises questions worth sitting with, including questions we can't answer.
 
 ## How to Read This Site
 
-Read it as: "Here's what falls out when you ask an AI to systematically eliminate explanations for hard questions."
+Read it as: "Here's what falls out when you ask an AI to systematically eliminate explanations for hard questions — and then push to the edges where elimination stops working."
 
 If it sparks curiosity, good. If it changes how you think about something, good. If you disagree and can point to why, even better.
 
@@ -102,4 +110,4 @@ The point isn't to be right. The point is to *think*.
 
 ---
 
-*Built by prompting Claude. Published because I find the questions more interesting than the answers.*
+*Built by prompting Claude. Published because I find the questions more interesting than the answers — especially the questions we can't answer.*

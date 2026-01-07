@@ -11,7 +11,7 @@ permalink: /
 
 <p>This site is the result. Not claims. Not beliefs. Just: here's the method, here's the evidence, here's what survives.</p>
 
-<p>Some mysteries dissolve into boring explanations. Some resist everything you throw at them. Both are interesting.</p>
+<p>Some mysteries dissolve into boring explanations. Some resist everything you throw at them. Some hit edges we can't resolve. All of it is interesting.</p>
 
 <hr>
 
@@ -41,14 +41,14 @@ permalink: /
   
   <a href="{{ '/mysteries/consciousness/' | relative_url }}" class="app-card">
     <h3>Consciousness</h3>
-    <p>Death, materialism, self, free will, other minds, psi, contact, religious phenomena.</p>
-    <span class="result">9 cases + meta</span>
+    <p>Death, materialism, self, free will, other minds, psi, contact, psychedelics, afterlife, suffering.</p>
+    <span class="result">12 cases + meta</span>
   </a>
   
   <a href="{{ '/mysteries/foundations/' | relative_url }}" class="app-card">
     <h3>Foundations</h3>
-    <p>Mathematics, fine-tuning, simulation, why anything exists.</p>
-    <span class="result">4 cases</span>
+    <p>Mathematics, fine-tuning, simulation, why anything exists, what time is.</p>
+    <span class="result">5 cases</span>
   </a>
   
   <a href="{{ '/mysteries/historical/' | relative_url }}" class="app-card">
@@ -70,12 +70,12 @@ permalink: /
 
 <h2>The Pattern</h2>
 
-<p>29 mysteries. 5 categories. What emerges when you zoom out?</p>
+<p>33 mysteries. 5 categories. What emerges when you zoom out?</p>
 
 <div class="app-grid">
   <a href="{{ '/meta/' | relative_url }}" class="app-card">
     <h3>Site-Wide Meta</h3>
-    <p>Historical mysteries → mundane. UAP, consciousness, foundations → resist mundane. The phenomenon is one, appearing throughout history in many forms.</p>
+    <p>Historical → mundane. UAP, consciousness, foundations → resist mundane. Suffering → unresolved. The pattern points somewhere. The edges test it.</p>
     <span class="result">Do you see it?</span>
   </a>
 </div>
@@ -84,7 +84,7 @@ permalink: /
 
 <h2>What This Is</h2>
 
-<p>I prompted. Claude responded. The reasoning is explicit. The methodology is transparent.</p>
+<p>I prompted. Claude responded. The reasoning is explicit. The methodology is transparent. The edges are honest.</p>
 
 <p>If it sparks curiosity, good. If you disagree and can point to why, even better.</p>
 
