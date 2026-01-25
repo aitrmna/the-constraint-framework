@@ -115,7 +115,7 @@ This case demonstrates **MODERATE-HIGH convergence** — persistent observations
 
 | Case | Score | Key Difference |
 |------|-------|----------------|
-| Tic Tac | 62/100 | Single event, multi-sensor, high-energy performance |
+| Tic Tac | 60/100 | Single event, multi-sensor, extreme calculated performance |
 | **Gimbal/GoFast** | **48/100** | **Sustained pattern, limited sensors released** |
 | Rendlesham | 39/100 | Multi-night, audio recording, low-energy traces |
 

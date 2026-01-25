@@ -98,10 +98,27 @@ This case demonstrates **HIGH convergence** — multi-sensor, multi-witness, sus
    - Eliminates sensor-only or visual-only artifacts
 
 7. **Not US/Soviet stealth** — 7/10
-   - F-117 couldn't hover or do 40g
+   - F-117 couldn't hover or do calculated maneuvers
    - B-2 not operational until 1993
    - Soviet Union had no stealth capability
    - Flying over NATO ally repeatedly = diplomatic crisis
+
+### Observed vs Inferred
+
+**Direct observations (what F-16 computers recorded):**
+- Position changes: 10,000 ft → 500 ft in 5 seconds
+- Velocity changes: 280 km/h → 1,800 km/h in seconds
+- Radar lock achieved multiple times
+- Radar lock broken by object acceleration
+- Computer data: Permanent, instrumental, not human testimony
+
+**Inferred from observations (physics calculations):**
+- 40g acceleration: Calculated from position/velocity data
+- Not directly measured (no accelerometer on object)
+- Physics inference: Rate of velocity change = acceleration
+- Multiple independent physicists calculated similar values
+
+**Methodological note:** The F-16 onboard computers recorded position and velocity data. The 40g figure is a sound physics calculation from that data, but it's a mathematical inference. We score the quality of the instrumental record (9/10), and note separately that physics calculations suggest 40g.
 
 ### Independence Check
 
@@ -131,13 +148,15 @@ This case demonstrates **HIGH convergence** — multi-sensor, multi-witness, sus
 
 **Confidence bracket:** High (60+ for intercept night, 56 for full wave)
 
-**Interpretation:** The F-16 intercept night alone is near-Tic-Tac quality (Tic Tac = 62/100). The full wave context adds thousands of corroborating witnesses but also includes less-verified sightings.
+**Observational note:** Score reflects quality of instrumental data (F-16 computers recorded position/velocity changes with high fidelity). The 40g calculation is derived from this data using physics, not directly measured. We score what was observed; the inference strength comes from calculation methodology, not observation quality.
+
+**Interpretation:** The F-16 intercept night alone is near-Tic-Tac quality (Tic Tac = 60/100). The full wave context adds thousands of corroborating witnesses but also includes less-verified sightings.
 
 ### What Makes This Case Exceptional
 
 **Three factors elevate this:**
 
-1. **Instrumental performance data** — Not testimony, not video interpretation. Computer-recorded 40g maneuvers.
+1. **Instrumental performance data** — Not testimony, not video interpretation. Computer-recorded position and velocity changes. Physics calculations suggest 40g.
 
 2. **Government transparency** — Belgian Air Force admitted they didn't know. Rare honesty.
 
@@ -147,16 +166,19 @@ This case demonstrates **HIGH convergence** — multi-sensor, multi-witness, sus
 
 | Case | Score | Distinguishing Feature |
 |------|-------|------------------------|
-| Tic Tac (2004) | 62/100 | Single event, multi-sensor, extreme performance |
-| **Belgian Wave (1989-90)** | **56/100** | **Sustained pattern, 40g confirmed, mass witnesses** |
+| Tic Tac (2004) | 60/100 | Single event, multi-sensor, extreme calculated performance |
+| **Belgian Wave (1989-90)** | **56/100** | **Sustained pattern, instrumental data, mass witnesses** |
 | Gimbal/GoFast (2014-15) | 48/100 | Sustained pattern, limited data released |
 | JAL 1628 (1986) | 47/100 | Single event, long duration, data confiscated |
 
 **Belgian Wave is second only to Tic Tac** in UAP case convergence.
 
-### Critical Insight: The 40g Barrier
+### Critical Insight: The Calculated Performance Barrier
 
-**No known 1990 aircraft could perform 40g maneuvers.**
+**What the data shows:**
+- F-16 computers recorded dramatic position and velocity changes
+- Physics calculations from this data suggest 40g minimum acceleration
+- No known 1990 aircraft could perform maneuvers requiring such forces
 
 - F-16 max: ~9g (brief)
 - Human pilot max: ~10g (before blackout)

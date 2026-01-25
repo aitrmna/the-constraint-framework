@@ -145,8 +145,8 @@ Either way: Advanced technology, 1976.
 
 | Case | Score | Key Feature |
 |------|-------|-------------|
-| Tic Tac | 62/100 | Multi-sensor, extreme performance, recent |
-| Belgian Wave | 56/100 | 40g maneuvers, mass witnesses, months |
+| Tic Tac | 60/100 | Multi-sensor, extreme calculated performance, recent |
+| Belgian Wave | 56/100 | Instrumental data, mass witnesses, months |
 | **Tehran 1976** | **54/100** | **Weapons interference, DIA "outstanding"** |
 | Gimbal/GoFast | 48/100 | Sustained pattern, limited data |
 | JAL 1628 | 47/100 | Long duration, data confiscated |

@@ -55,11 +55,29 @@ High-energy maneuvers (1,000+ g forces) should produce detectable signatures (he
 6. **Lt Slaight visual observation** — 7/10
    - Second trained observer, independent aircraft
 
-7. **CAP point prediction** — 9/10
+7. **CAP point prediction** — 7/10
    - Object appeared at classified coordinates only pilots knew
+   - Well-documented, Pentagon confirmed
+   - BUT: Single event, not reproduced
+   - Observational note: Extremely low probability coincidence, but not multiple independent confirmations
 
 8. **No propulsion signature** — 8/10
    - FLIR showed no heat exhaust despite extreme performance
+
+### Observed vs Inferred
+
+**Direct observations (what sensors recorded):**
+- Radar tracks: Position changes over time
+- FLIR video: Thermal signature, no visible exhaust
+- Visual observations: Object movement, appearance
+- Multi-sensor correlation: Same object on different systems
+
+**Inferred from observations (calculations):**
+- G-forces (175-5,000g): Calculated from position/velocity changes
+- Not directly measured (no accelerometer on object)
+- Physics inference from observed trajectories
+
+**Methodological note:** We score the quality of sensor data, not the strength of inference. The 175g calculation is derived from high-quality position data, but it's a mathematical inference, not a direct measurement.
 
 ### Independence Check
 
@@ -72,11 +90,15 @@ All sensors are genuinely independent.
 
 ### Convergence Score
 
-**8 independent streams × 7.75 average strength = 62/100**
+**8 independent streams × 7.5 average strength = 60/100**
 
 **Confidence bracket:** Probable-to-high (60-74 range)
 
+**Adjusted from initial 62/100:** CAP point reduced from 9→7 (single event, not reproducible per observational rubric)
+
 **Interpretation:** Multiple high-quality independent sensors converged on the same anomalous object. This is NOT explainable by single-sensor error or witness unreliability.
+
+**Observational honesty:** The raw sensor data is excellent (radar, FLIR, visual all confirmed). The performance calculations (175g+) are strong inferences from that data, but inferences nonetheless. We score what was directly observed.
 
 ---
 
@@ -97,13 +119,20 @@ All sensors are genuinely independent.
 
 ### CONSTRAINT 1 (MOST DAMNING): The Physics
 
-**Evidence:**
-- Dropped from 80,000 feet to sea level in seconds
-- Accelerated from hover to "gone" instantaneously
-- Traveled 60 miles in under a minute
-- No sonic boom
+**What was observed:**
+- Radar: Object descended from 80,000 feet to sea level in seconds
+- Radar: Object accelerated from stationary to disappearing from tracking
+- Radar: Object traveled 60 miles in under a minute
+- Audio: No sonic boom reported
 
-**Calculated forces:** 175g minimum, likely 1,000-5,000g. No known material survives this. No human survives beyond ~10g. No propulsion system produces this without massive exhaust.
+**What was calculated from observations:**
+- Minimum acceleration: 175g (from radar position/time data)
+- Possible range: 1,000-5,000g (depending on exact trajectory)
+- No known material survives sustained forces at this level
+- No human survives beyond ~10g
+- No known propulsion produces this without massive heat signature
+
+**Observational note:** We did not directly measure g-forces (no accelerometer on object). These are physics calculations from observed radar tracks. The calculation methodology is sound, but it's inference from data, not direct measurement.
 
 **ELIMINATES:**
 - ❌ All known human aircraft (max ~15g)
