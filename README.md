@@ -29,6 +29,14 @@ A hypothesis that fails across multiple independent domains is probably wrong—
 
 ## The Methodology
 
+**Two-layer approach:**
+
+**Layer 1: Evidence Convergence** — Predict where evidence should concentrate before looking
+- Uses six axioms about causal structure (boundaries, bottlenecks, irreversibility)
+- Scores evidence quality and independence
+- Calculates convergence across multiple streams
+
+**Layer 2: Constraint Stacking** — Eliminate what doesn't survive
 1. **Define the hypothesis** — What claim are we testing?
 2. **Identify predictions** — What must be true if correct?
 3. **Find evidence domains** — Where can we test these?

@@ -13,6 +13,84 @@ The legend is famous. But is there actually an anomaly?
 
 ---
 
+## EVIDENCE CONVERGENCE ANALYSIS
+
+This case demonstrates **how convergence analysis debunks false mysteries** by showing zero convergence for the anomaly claim.
+
+### Predicted Evidence Concentration
+
+**If an anomaly exists, evidence SHOULD concentrate at:**
+- **Bottleneck:** Insurance claims (mandatory for commercial shipping)
+- **Boundary:** Triangle perimeter should show gradient (safe → dangerous)
+- **Irreversible:** Lost ships/planes create permanent absence in records
+- **State-change:** Disappearances are high-energy events
+
+**What we find:** NONE of these predicted concentrations exist.
+
+### Evidence Nodes (scored 0-10)
+
+**For anomaly existing:**
+1. **Anecdotal disappearance stories** — 2/10
+   - Widely circulated but poorly documented
+   - Most have mundane explanations when investigated
+   - Cherry-picked from large dataset
+
+**Against anomaly:**
+1. **Lloyd's insurance data** — 9/10
+   - Financial data (high reliability)
+   - No elevated risk pricing
+   - Covers entire global fleet
+   - Bottleneck evidence: If ships vanished anomalously, insurers MUST notice
+
+2. **US Coast Guard assessment** — 8/10
+   - Official agency position
+   - Access to all incident data
+   - No statistical anomaly found
+
+3. **Traffic volume data** — 7/10
+   - One of world's busiest shipping lanes
+   - High traffic = higher absolute numbers (but not higher RATE)
+
+4. **Weather/geography explanation** — 6/10
+   - Gulf Stream, hurricanes, shallow shoals documented
+   - Known hazards explain incidents
+
+### Independence Check
+
+- Insurance data ↔ Coast Guard: Different institutions, different motivations ✓
+- Traffic volume ↔ Weather: Different types of evidence ✓
+
+### Convergence Score
+
+**For anomaly:** 2/100 (one weak stream)
+**Against anomaly:** 30/100 (multiple independent refutations)
+
+**Net: −28/100** (evidence AGAINST the claim outweighs evidence for it)
+
+**Confidence:** 90%+ that no anomaly exists
+
+### Critical Insight: Bottleneck Test FAILED
+
+**The decisive test:** Insurance companies.
+
+If ships were disappearing anomalously, this creates a mandatory bottleneck:
+1. Ships disappear → Insurance claims filed → Actuaries analyze patterns → Rates adjust
+
+**Lloyd's shows no rate adjustment.** The bottleneck has no elevated signal.
+
+**This single piece of evidence eliminates the anomaly hypothesis** because you cannot have mysterious disappearances without affecting insurance mathematics.
+
+### What Zero Convergence Means
+
+When predicted evidence concentrations are ABSENT, the hypothesis fails:
+- No boundary gradient (edges of triangle aren't safer/more dangerous)
+- No bottleneck signal (insurance unchanged)
+- No independent verification (Coast Guard sees nothing)
+
+**This is convergence analysis as debunking tool.** Framework predicts where evidence SHOULD be. When it's not there, hypothesis eliminated.
+
+---
+
 ## CONSTRAINT STACKING ANALYSIS
 
 **CLAIM:** The Bermuda Triangle has an anomalously high rate of mysterious disappearances.

@@ -19,7 +19,80 @@ You could imagine a being physically identical to you — same neurons, same pro
 
 Why aren't we zombies? Why does the light get turned on?
 
-That's the hard problem. Let's apply constraint stacking.
+That's the hard problem. Let's apply our framework.
+
+---
+
+## EVIDENCE CONVERGENCE ANALYSIS
+
+The hard problem demonstrates **where the convergence framework breaks down** — this is important.
+
+### Axioms Applied (and Why They Fail)
+
+**❌ Boundary Conservation**
+- No physical boundary contains first-person experience
+- Subjective experience has no observable perimeter
+- Cannot search "boundaries" of consciousness
+
+**⚠️ Irreversibility**
+- Reports of experience are irreversible (can be recorded)
+- But the experience ITSELF leaves no third-person trace
+- Partial applicability: we have reports, not the thing itself
+
+**❌ Convergence Supremacy**
+- All evidence streams are first-person reports
+- No independent third-person verification possible
+- Everyone reporting "I am conscious" is NOT independent evidence for mechanism
+- We all agree experience exists; we have zero convergence on how it arises
+
+**❌ Gradient Navigation**
+- No observable gradient between "conscious" and "non-conscious" states
+- Anesthesia creates gradient in behavior, not in experience (we can't measure experience directly)
+- Neural gradients exist; experiential gradients are unobservable
+
+**❌ Bottleneck Traceability**
+- The bottleneck IS the problem: first-person experience
+- It's an epistemological barrier, not a trackable checkpoint
+- All theories must pass through this bottleneck, but none can trace it
+
+**❌ State-Change Amplification**
+- Becoming conscious vs unconscious produces behavioral changes
+- But these measure correlates, not experience itself
+- High-energy neural events don't provide direct access to subjective feel
+
+### Why This Matters
+
+**The convergence framework requires third-person observables.**
+
+Consciousness is irreducibly first-person. This creates a fundamental barrier:
+
+- You cannot verify MY experience exists (you only have my reports)
+- I cannot verify YOUR experience exists (I only have your behavior)
+- Neither of us can measure the "what it's like" directly
+
+**Evidence nodes cannot form** because there's nothing to observe from outside.
+
+### The One Thing We CAN Score
+
+**Self-report of experience** — 10/10 (first-person certainty)
+- I am CERTAIN I am conscious
+- You are CERTAIN you are conscious
+- But this gives us ZERO convergence on mechanism
+
+**Behavioral correlates** — 8/10 (third-person reliability)
+- Brain activity correlates with reported experience
+- But correlation ≠ mechanism
+- Doesn't explain WHY there's experience
+
+### Convergence Score: N/A
+
+**Cannot calculate convergence** — the framework doesn't apply.
+
+This is the framework telling you: "Evidence cannot concentrate here because the phenomenon is first-person only. This question requires a different approach."
+
+**Critical insight:** The hard problem isn't "hard" because we lack data. It's hard because evidence convergence is structurally impossible for first-person phenomena.
+
+The framework's failure is itself informative — it reveals a category boundary.
 
 ---
 

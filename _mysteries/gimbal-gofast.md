@@ -11,6 +11,123 @@ category: uap
 
 ---
 
+## EVIDENCE CONVERGENCE ANALYSIS
+
+This case demonstrates **MODERATE-HIGH convergence** — persistent observations but weaker individual event data than Tic Tac.
+
+### Axioms Applied
+
+**✓ Boundary Conservation (STRONG)**
+- Restricted military airspace = clear boundary
+- Training zones precisely defined
+- Objects repeatedly appeared within same boundaries
+- Verdict: Strong spatial containment
+
+**✓ Irreversibility (STRONG)**
+- ATFLIR video recordings (permanent)
+- Official Navy safety reports filed (permanent)
+- Congressional testimony (permanent record)
+- Pentagon video release (irreversible disclosure)
+- Verdict: Multiple irreversible artifacts
+
+**⚠️ Convergence Supremacy (MODERATE)**
+- Multiple pilots over 2 years (independent observations)
+- BUT: Many observations not instrumentally recorded
+- Only 2 videos released publicly (small sample from larger set)
+- Verdict: High witness count but limited hard evidence released
+
+**✓ Gradient Navigation (STRONG)**
+- Daily encounters over years = sustained gradient
+- Objects appeared → disappeared → reappeared (clear temporal patterns)
+- Training operations disrupted (measurable impact)
+- Verdict: Strong sustained signal
+
+**⚠️ Bottleneck Traceability (MODERATE)**
+- ATFLIR targeting pod is mandatory for F/A-18 weapon systems
+- Objects passed through sensor bottleneck
+- But: No radar data released publicly, limited to FLIR
+- Verdict: Some bottlenecks confirmed, others not disclosed
+
+**⚠️ State-Change Amplification (MODERATE)**
+- Objects holding in 120kt winds = high energy expenditure
+- But: No extreme accelerations captured on released footage
+- Gradual not dramatic events
+- Verdict: Sustained performance but not peak dramatic events
+
+### Evidence Nodes (scored 0-10)
+
+1. **Daily encounters for 2+ years** — 8/10
+   - Lt. Graves testimony: "every day for at least a couple years"
+   - Multiple pilots corroborate
+   - Sustained pattern rules out isolated anomalies
+
+2. **Gimbal ATFLIR video** — 7/10
+   - Pentagon-authenticated footage
+   - Object tracked, thermal signature
+   - No visible propulsion
+   - Rotation may be artifact but object presence confirmed
+
+3. **GoFast ATFLIR video** — 5/10
+   - Pentagon-authenticated
+   - Parallax debate reduces certainty
+   - Object present but performance disputed
+
+4. **120kt wind hover capability** — 7/10
+   - Multiple pilot testimony
+   - No video confirmation of this specific claim
+   - But consistent across reports
+
+5. **Radar confirmation (pilot reports)** — 6/10
+   - Pilots report radar tracks
+   - Near-miss incident documented
+   - But: No radar data released publicly
+
+6. **Navy safety reports filed** — 8/10
+   - Official documentation
+   - Navy changed UAP reporting procedures
+   - Institutional response indicates seriousness
+
+7. **Congressional testimony** — 7/10
+   - Pilots testified under oath
+   - Public hearings in 2022-2023
+   - But: Limited new evidence presented
+
+### Independence Check
+
+- Gimbal video ↔ GoFast video: Different events, different timeframes ✓
+- Pilot testimony ↔ ATFLIR footage: Different evidence types ✓
+- Multiple pilots ↔ Each other: Different individuals ✓
+
+**But:** All from same carrier group, same geographic area. Limited platform independence.
+
+### Convergence Score
+
+**7 nodes × 6.9 average = 48/100**
+
+**Confidence bracket:** Moderate (40-59 range)
+
+**Interpretation:** This case sits in ambiguous middle ground:
+- Stronger than single-witness accounts (sustained observations, multiple pilots)
+- Weaker than multi-sensor cases (limited instrumentation released)
+- Pattern is compelling (daily for years) but individual events less documented
+
+### Critical Comparison
+
+| Case | Score | Key Difference |
+|------|-------|----------------|
+| Tic Tac | 62/100 | Single event, multi-sensor, high-energy performance |
+| **Gimbal/GoFast** | **48/100** | **Sustained pattern, limited sensors released** |
+| Rendlesham | 39/100 | Multi-night, audio recording, low-energy traces |
+
+**Why lower than Tic Tac despite more encounters?**
+- Tic Tac had radar + FLIR + visual all converging on single dramatic event
+- Gimbal/GoFast has many observations but limited hard evidence released
+- Quality vs quantity trade-off
+
+**The 48/100 score suggests:** Something anomalous occurred repeatedly, but public evidence is incomplete. Higher-quality data likely exists but remains classified.
+
+---
+
 ## CONSTRAINT STACKING ANALYSIS
 
 **CLAIM:** What were the Gimbal and GoFast objects?

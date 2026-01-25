@@ -9,6 +9,24 @@ This page describes the method used to analyze every mystery on this site.
 
 ---
 
+## Two-Layer Methodology
+
+The framework operates in two stages:
+
+**LAYER 1: Evidence Convergence** — Where to look before looking
+
+Before analyzing evidence, we predict where it should concentrate based on causal structure. This uses six axioms about boundaries, bottlenecks, irreversibility, gradients, state changes, and convergence points.
+
+[Full details → Evidence Convergence]({{ '/convergence/' | relative_url }})
+
+**LAYER 2: Constraint Stacking** — What survives elimination
+
+Once evidence is found, we eliminate hypotheses that can't survive the constraints. This is described below.
+
+The two layers work together: convergence predicts → observation confirms → constraint stacking eliminates.
+
+---
+
 ## The Core Idea: Constraint Stacking
 
 **Build cases by ordering constraints from most damning to least damning. Each constraint must fit within the solution space left by all constraints above it. Report what survives.**

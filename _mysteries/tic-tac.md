@@ -11,6 +11,75 @@ November 2004, USS Nimitz carrier group off San Diego. For two weeks, radar trac
 
 ---
 
+## EVIDENCE CONVERGENCE ANALYSIS
+
+Before examining constraints, we can predict where evidence should concentrate using the [convergence framework]({{ '/convergence/' | relative_url }}).
+
+### Axioms Applied
+
+**✓ Boundary Conservation**
+Observable airspace is bounded. Physical object must leave signatures at boundaries (entry/exit, radar coverage zones).
+
+**✓ Irreversibility**
+Radar recordings, FLIR video, witness testimony are permanent records that can't be un-created.
+
+**✓ Convergence Supremacy**  
+Multiple independent sensor types (radar, FLIR, visual) provide independent verification streams.
+
+**✓ Gradient Navigation**
+Extreme velocity changes (80,000 ft → sea level in seconds) create steep gradients = high information density.
+
+**✓ Bottleneck Traceability**
+All observations must pass through: (1) radar detection, (2) pilot visual confirmation, (3) FLIR recording. Object appeared at all three bottlenecks.
+
+**✓ State-Change Amplification**
+High-energy maneuvers (1,000+ g forces) should produce detectable signatures (heat, sonic boom). Absence is itself evidence.
+
+### Evidence Nodes (scored 0-10)
+
+1. **SPY-1 radar tracks (2 weeks)** — 8/10
+   - Professional military system, continuous monitoring, recorded data
+
+2. **E-2C Hawkeye radar** — 7/10
+   - Independent airborne system, different sensor type
+
+3. **F/A-18 radar lock** — 8/10
+   - Third independent radar system, combat aircraft grade
+
+4. **FLIR infrared video** — 7/10
+   - Physical recording, thermal signature, targeting system confirmation
+
+5. **Cmdr Fravor visual observation** — 8/10
+   - Trained observer, clear conditions, extended duration
+
+6. **Lt Slaight visual observation** — 7/10
+   - Second trained observer, independent aircraft
+
+7. **CAP point prediction** — 9/10
+   - Object appeared at classified coordinates only pilots knew
+
+8. **No propulsion signature** — 8/10
+   - FLIR showed no heat exhaust despite extreme performance
+
+### Independence Check
+
+- Radar ↔ Visual: Different observation methods ✓
+- SPY-1 ↔ Hawkeye ↔ F/A-18: Different platforms ✓
+- Fravor ↔ Slaight: Separate aircraft ✓
+- FLIR ↔ Radar: Different physical principles ✓
+
+All sensors are genuinely independent.
+
+### Convergence Score
+
+**8 independent streams × 7.75 average strength = 62/100**
+
+**Confidence bracket:** Probable-to-high (60-74 range)
+
+**Interpretation:** Multiple high-quality independent sensors converged on the same anomalous object. This is NOT explainable by single-sensor error or witness unreliability.
+
+---
+
 ## CONSTRAINT STACKING ANALYSIS
 
 **CLAIM:** What was the Tic Tac object?

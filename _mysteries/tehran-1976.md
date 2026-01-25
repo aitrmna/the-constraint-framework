@@ -11,6 +11,180 @@ September 19, 1976. Tehran, Iran. Multiple witnesses reported a bright object in
 
 ---
 
+## EVIDENCE CONVERGENCE ANALYSIS
+
+This case demonstrates **HIGH convergence** — multiple sensors, weapons interference, official DIA confirmation.
+
+### Axioms Applied
+
+**✓ Boundary Conservation (STRONG)**
+- Iranian airspace over Tehran
+- F-4 interception attempts define pursuit boundaries
+- Ground radar coverage
+- Verdict: Clear spatial boundaries
+
+**✓ Irreversibility (VERY STRONG)**
+- US DIA report (permanent, declassified)
+- Iranian Air Force records
+- Pilot testimony (multiple, consistent over decades)
+- "Outstanding" rating = permanent credibility assessment
+- Verdict: Exceptional documentation quality
+
+**✓ Convergence Supremacy (STRONG)**
+- Two F-4 pilots (independent sorties)
+- Ground radar operators
+- Multiple civilian witnesses
+- Tower controllers
+- DIA verification (independent US assessment)
+- Verdict: Multiple independent verification streams
+
+**✓ Gradient Navigation (STRONG)**
+- Two sequential intercepts = clear temporal phases
+- First F-4: approach → systems fail → retreat → systems restore
+- Second F-4: approach → weapon failure → smaller object detaches → systems restore
+- Sharp state transitions documented
+- Verdict: Clear cause-effect gradients
+
+**✓ Bottleneck Traceability (VERY STRONG)**
+- All aircraft MUST have functioning systems (mandatory operational requirement)
+- System failures occurred at specific approach distances
+- System restoration occurred at specific retreat distances
+- Pattern repeated across two aircraft
+- Verdict: Perfect bottleneck tracing (systems = checkpoints)
+
+**✓ State-Change Amplification (VERY STRONG)**
+- Weapons systems disabled = major electronic interference
+- Two separate aircraft, same effect
+- Smaller object deployment = high-energy event
+- Apparent landing with area illumination
+- Verdict: Multiple high-energy state changes
+
+### Evidence Nodes (scored 0-10)
+
+1. **Weapons systems disabled (two aircraft)** — 9/10
+   - First F-4: All instruments dead on approach, restored on retreat
+   - Second F-4: Weapons panel dead when attempting missile lock
+   - Pattern identical across two separate aircraft
+   - Precisely correlated with approach/retreat distance
+
+2. **DIA "outstanding" rating** — 9/10
+   - US Defense Intelligence Agency highest credibility classification
+   - Independent verification from US perspective
+   - Declassified document available
+   - DIA has no motivation to authenticate false report
+
+3. **Multiple radar confirmations** — 8/10
+   - Ground radar at Mehrabad Airport
+   - Both F-4s achieved radar locks
+   - Solid returns, not weather or noise
+   - Three independent radar systems
+
+4. **Smaller object detachment** — 7/10
+   - Second pilot described object separating
+   - Object approached F-4 at high speed
+   - Returned to main object after pilot retreat
+   - Suggests controlled deployment
+
+5. **Multiple visual witnesses** — 6/10
+   - Civilian reports initiated scramble
+   - Tower controllers observed
+   - Both pilots visual confirmation
+   - But: Night conditions, bright object (detail limited)
+
+6. **Performance characteristics** — 8/10
+   - Outran F-4 Phantom (Mach 2+ capable)
+   - Rapid position changes
+   - Apparent landing capability
+   - No 1976 aircraft had this combination
+
+7. **Iranian Air Force generals on record** — 7/10
+   - Official military testimony
+   - Maintained accounts over decades
+   - No subsequent retraction
+   - Cross-verified with DIA report
+
+### Independence Check
+
+- First F-4 ↔ Second F-4: Separate sorties, different pilots ✓
+- Iranian reports ↔ DIA assessment: Different countries ✓
+- Radar ↔ Visual: Different detection methods ✓
+- Ground ↔ Airborne: Different platforms ✓
+- Civilian ↔ Military: Different observer classes ✓
+
+**Exceptional independence across all streams.**
+
+### Convergence Score
+
+**7 nodes × 7.7 average = 54/100**
+
+**Confidence bracket:** High (50-59 range, upper end)
+
+**Interpretation:** Solid high-confidence case. The weapons interference pattern is particularly compelling — identical effect on two aircraft, precisely distance-correlated, not random malfunction.
+
+### What Makes This Case Exceptional
+
+**The weapons interference is the key.**
+
+Pattern:
+1. Approach object → Systems fail
+2. Retreat from object → Systems restore
+3. Second aircraft, same pattern
+
+**This eliminates:**
+- Random malfunction (too precisely correlated)
+- Coincidence (happened to two aircraft identically)
+- Misidentification (stars don't disable weapons systems)
+
+**This requires:**
+- Deliberate electronic warfare capability, OR
+- Unknown interaction between object and aircraft systems
+
+Either way: Advanced technology, 1976.
+
+### Comparison
+
+| Case | Score | Key Feature |
+|------|-------|-------------|
+| Tic Tac | 62/100 | Multi-sensor, extreme performance, recent |
+| Belgian Wave | 56/100 | 40g maneuvers, mass witnesses, months |
+| **Tehran 1976** | **54/100** | **Weapons interference, DIA "outstanding"** |
+| Gimbal/GoFast | 48/100 | Sustained pattern, limited data |
+| JAL 1628 | 47/100 | Long duration, data confiscated |
+
+**Tehran ranks third** in UAP convergence, just below Belgian Wave.
+
+### Critical Insight: The DIA Rating
+
+**"Outstanding" is DIA's highest information content rating.**
+
+What this means:
+- Source reliability: Confirmed
+- Information quality: Exceptional
+- Credibility: Maximum
+
+**DIA doesn't give "outstanding" ratings to Jupiter misidentifications.**
+
+The US intelligence community verified this case as genuine unknown. That's not proof of alien spacecraft. But it's proof that:
+1. Something happened
+2. It wasn't US technology (DIA would know)
+3. It wasn't misidentification (DIA would debunk)
+4. It was significant enough to document at highest level
+
+### The Deliberate Response
+
+**When pilot attempted weapon lock, weapons failed.**
+
+Not before. Not after. At the moment of hostile action.
+
+This suggests:
+- Object detected the targeting attempt
+- Object responded defensively
+- Response was proportional (disabled, didn't destroy)
+
+**This is not passive phenomenon behavior.** This is active electronic warfare or unknown defensive capability.
+
+---
+
 ## CONSTRAINT STACKING ANALYSIS
 
 **CLAIM:** What was the Tehran object?

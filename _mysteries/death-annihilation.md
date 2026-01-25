@@ -13,6 +13,139 @@ But there's evidence on both sides. Let's test both directions and see which sur
 
 ---
 
+## EVIDENCE CONVERGENCE ANALYSIS
+
+This case demonstrates **HIGH convergence against annihilation** from multiple independent evidence streams.
+
+### Axioms Applied
+
+**✓ Irreversibility (STRONG)**
+- Terminal lucidity events documented in medical records (permanent)
+- NDE reports recorded in research databases (permanent)
+- Reincarnation case details documented before verification (permanent)
+- Birthmarks are physical artifacts that can't be fabricated retroactively
+- Verdict: Strong irreversible signatures
+
+**✓ Convergence Supremacy (STRONG)**
+- Terminal lucidity: Independent medical observations across time/culture/location
+- NDEs: AWARE study + other independent research programs
+- Reincarnation: 2,500+ cases from different researchers, cultures, time periods
+- Deathbed visions: Independent reports from hospice workers, families
+- Verdict: Multiple genuinely independent evidence streams
+
+**⚠️ Boundary Conservation (MODERATE)**
+- Medical settings provide boundaries (hospital records, observation protocols)
+- But: First-person experience has no physical boundary
+- Verdict: Behavioral/physiological boundaries exist, experiential ones don't
+
+**✓ Bottleneck Traceability (STRONG FOR TERMINAL LUCIDITY)**
+- Terminal lucidity MUST pass through observable bottleneck: patient communication
+- Medical staff witness and document (mandatory checkpoint)
+- Cannot occur without detectable signature
+- Verdict: Clear traceability for this phenomenon
+
+**⚠️ Gradient Navigation (MODERATE)**
+- Life → death is steepest possible gradient
+- But: The transition itself is first-person
+- Terminal lucidity creates observable gradient (severe dementia → sudden clarity)
+- Verdict: Behavioral gradients observable, experiential ones inferred
+
+**✓ State-Change Amplification (STRONG)**
+- Death is maximum-energy transition (organism alive → dead)
+- Terminal lucidity is extreme state change (dementia → clarity)
+- These should leave strong signals if brain-dependent
+- The signals contradict brain-dependence
+- Verdict: High-energy events create anomalous signatures
+
+### Evidence Nodes (scored 0-10)
+
+**Against Annihilation:**
+
+1. **Terminal lucidity (medical documentation)** — 9/10
+   - Published in peer-reviewed journals (Nahm, Greyson)
+   - Multiple independent observations
+   - Reproducible phenomenon (happens regularly)
+   - No proposed mechanism under materialism
+
+2. **AWARE study verified NDE perception** — 8/10
+   - Peer-reviewed research protocol
+   - Verified perception during flat EEG
+   - Independent medical staff confirmation
+   - Small sample (only ~1 verified case) reduces score slightly
+
+3. **Stevenson/Tucker reincarnation cases** — 7/10
+   - 2,500+ documented cases
+   - Details verified before contact
+   - Physical evidence (birthmarks)
+   - Selection bias concern reduces score
+
+4. **Deathbed visions (unknown deceased)** — 6/10
+   - Multiple independent reports
+   - Specific verified cases (Haraldsson)
+   - Harder to rule out all normal explanations
+
+5. **Brain-consciousness correlation** — 8/10 (SUPPORTS annihilation)
+   - Perfect experimental correlation
+   - Every brain change → consciousness change
+   - 100% consistency
+   - But: Also consistent with filter theory (neutral evidence)
+
+**For Survival:**
+
+6. **Cross-cultural NDE consistency** — 7/10
+   - Life review, tunnel, light, deceased relatives appear across cultures
+   - Independent reports from non-Western cultures
+   - Suggests non-cultural component
+
+7. **Filter/receiver models** — 5/10
+   - Theoretical frameworks exist (Bergson, Kelly)
+   - Explain brain correlation without production
+   - But: Not independently testable
+
+### Independence Check
+
+- Terminal lucidity ↔ NDEs: Different phenomena, different research teams ✓
+- NDEs ↔ Reincarnation: Different domains, different evidence types ✓
+- Medical observations ↔ Family reports: Different observer classes ✓
+- AWARE ↔ Stevenson research: Different institutions, methods ✓
+
+**Critical:** These are genuinely independent streams. Terminal lucidity researchers don't rely on NDE data. Reincarnation researchers don't rely on terminal lucidity.
+
+### Convergence Score
+
+**Against annihilation:**
+- 4 independent anomaly streams × 7.5 average = **30 points of contradiction**
+
+**For survival mechanisms:**
+- Limited direct evidence, mostly theoretical
+
+**Net assessment:**
+- Annihilation: **30/100 evidence AGAINST** (damaged)
+- Survival: **75/100 evidence FOR** (high confidence it's not annihilation)
+
+**Confidence bracket:** High confidence (75-89 range) that annihilation is wrong
+
+**Critical distinction from Dyatlov (36/100):**
+- Dyatlov: Low convergence, weak evidence, mundane explanation wins by default
+- Death: High convergence, strong independent streams, non-mundane survives
+
+### What High Convergence Means Here
+
+This is NOT one piece of ambiguous evidence. It's:
+
+1. A reproducible medical phenomenon (terminal lucidity)
+2. A peer-reviewed study with verified perception (AWARE)  
+3. 2,500+ documented cases with verified details (reincarnation)
+4. Cross-cultural consistency in reports (NDEs)
+
+**All independent. All pointing away from annihilation.**
+
+For annihilation to be correct, ALL FOUR streams must have separate mundane explanations that haven't been found in 50+ years of research.
+
+**This is the convergence framework working:** Multiple independent evidence streams eliminate a hypothesis (annihilation) even though we can't directly observe the phenomenon (post-death consciousness).
+
+---
+
 ## PART 1: Testing Annihilation
 
 **Claim:** Consciousness ends at death.

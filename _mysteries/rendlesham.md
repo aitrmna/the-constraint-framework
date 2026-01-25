@@ -11,6 +11,131 @@ December 26-28, 1980. RAF Woodbridge, Suffolk, England — a US Air Force base d
 
 ---
 
+## EVIDENCE CONVERGENCE ANALYSIS
+
+This case demonstrates **MEDIUM convergence** — stronger than historical mysteries, weaker than multi-sensor UAP cases like Tic Tac.
+
+### Axioms Applied
+
+**✓ Boundary Conservation (STRONG)**
+- Forest location provided clear boundary
+- Military base perimeter = controlled space
+- Witnesses could return to specific locations for verification
+- Verdict: Strong spatial boundaries preserved evidence concentration
+
+**✓ Irreversibility (STRONG)**
+- Halt's audio tape = permanent record (can't be un-created)
+- Radiation readings documented
+- Penniston's contemporaneous notebook sketches
+- Physical traces (ground depressions, broken branches) photographed
+- Verdict: Multiple irreversible artifacts
+
+**⚠️ Convergence Supremacy (MODERATE)**
+- Multiple witnesses (5+ personnel)
+- BUT: All from same military unit, same location
+- No independent civilian verification at time
+- Audio tape is single-source despite multiple observers
+- Verdict: Multiple witnesses but limited independence
+
+**✓ Gradient Navigation (STRONG)**
+- Three distinct events over three nights = clear temporal gradients
+- Night 1: Initial sighting → investigation
+- Night 3: Halt investigation → real-time documentation
+- Each night had distinct phases
+- Verdict: Strong time-based gradients for observation
+
+**⚠️ Bottleneck Traceability (MODERATE)**
+- All observations must pass through: (1) witness testimony, (2) Halt's tape recording
+- But: No radar confirmation, no photographic evidence of craft
+- Physical traces provide some bottleneck (radiation HAD to be deposited)
+- Verdict: Some mandatory checkpoints, but fewer than multi-sensor cases
+
+**⚠️ State-Change Amplification (MODERATE)**
+- Radiation deposit = state change (measurable)
+- Ground depressions = physical alteration
+- But: Changes were subtle (0.1 milliroentgens, shallow impressions)
+- No high-energy signatures like Tic Tac's extreme accelerations
+- Verdict: Detectable state changes but low-energy
+
+### Evidence Nodes (scored 0-10)
+
+1. **Halt audio tape** — 8/10
+   - Real-time recording by Deputy Base Commander
+   - Contemporaneous documentation
+   - Genuine confusion captured
+   - No evidence of fabrication
+
+2. **Radiation readings** — 6/10
+   - Documented at the time
+   - Peak in specific area
+   - But: Readings were low, standard Geiger counter, no independent verification
+
+3. **Ground depressions** — 5/10
+   - Photographed, triangular pattern
+   - But: Could have other causes, not definitively anomalous
+
+4. **Multiple night occurrences** — 7/10
+   - Three separate nights rules out single event
+   - Shows persistence/recurrence
+   - Multiple opportunities for observation
+
+5. **Penniston close encounter testimony** — 6/10
+   - Trained security personnel
+   - Contemporaneous notes/sketches
+   - But: Single witness for closest approach, no physical proof of touch
+
+6. **Lighthouse explanation debunked** — 7/10
+   - Lighthouse visible but doesn't match described movements
+   - Halt's team familiar with lighthouse, ruled it out on tape
+   - Multiple investigators confirm lighthouse doesn't explain it
+
+### Independence Check
+
+- Halt ↔ Penniston: Different nights, different roles ✓
+- Radiation ↔ Visual observations: Different evidence types ✓
+- Night 1 ↔ Night 3: Separated by 48 hours ✓
+
+**But:** All witnesses from same base, same social group. No civilian or foreign military verification. Limited true independence.
+
+### Convergence Score
+
+**6 nodes × 6.5 average = 39/100**
+
+**Confidence bracket:** Moderate (40-59 range) — *on the border*
+
+**Interpretation:** This is a MEDIUM-strength case. Better than Dyatlov (36/100, low convergence) because of contemporaneous recording and physical traces. Weaker than Tic Tac (62/100) because of:
+- No radar/sensor confirmation
+- Limited witness independence (all same military unit)
+- Lower-energy physical signatures
+
+### What Medium Convergence Means
+
+**This is the "interesting but not definitive" range.**
+
+Strengths:
+- Halt tape is excellent evidence (real-time, senior officer, no motivation to fabricate)
+- Multi-night occurrence rules out single anomaly
+- Physical traces provide some corroboration
+
+Weaknesses:
+- No independent sensor verification (no radar, no thermal, no photo/video)
+- All witnesses socially connected (same base)
+- Low-energy physical signatures (could have alternative explanations)
+
+**Critical comparison:**
+
+| Case | Convergence | Why? |
+|------|-------------|------|
+| Tic Tac | 62/100 | Multi-sensor, independent platforms, high-energy |
+| **Rendlesham** | **39/100** | **Real-time audio, multi-night, low-energy traces** |
+| Dyatlov | 36/100 | Single investigation, time-degraded, no witnesses |
+
+Rendlesham sits in the middle — not as strong as multi-sensor cases, but stronger than historical mysteries with degraded evidence.
+
+**The 39/100 score suggests:** Something anomalous likely occurred, but the case isn't strong enough for high confidence in any specific explanation. "Cannot eliminate non-human technology" but with moderate confidence, not high.
+
+---
+
 ## CONSTRAINT STACKING ANALYSIS
 
 **CLAIM:** What did US Air Force personnel encounter at Rendlesham Forest?

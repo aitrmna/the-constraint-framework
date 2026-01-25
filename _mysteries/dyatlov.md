@@ -15,6 +15,111 @@ What survives constraint stacking?
 
 ---
 
+## EVIDENCE CONVERGENCE ANALYSIS
+
+This case demonstrates how convergence analysis identifies **LOW-convergence mysteries that resolve to mundane explanations**.
+
+### Axioms Applied
+
+**⚠️ Boundary Conservation (WEAK)**
+- Crime scene had boundaries (tent area, footprints)
+- But boundaries were compromised: 3 weeks of weather, 65 years of time
+- Evidence density dissipated over time
+- Verdict: Boundaries existed but were porous
+
+**✓ Irreversibility (MODERATE)**
+- Footprints preserved in photos (permanent)
+- Tent cuts preserved (permanent)
+- Injuries documented in autopsy (permanent)
+- But: Many reversible traces lost (exact weather conditions, precise sequence)
+- Verdict: Some irreversible signatures, many lost
+
+**❌ Convergence Supremacy (FAILS)**
+- No independent witness streams (all dead)
+- Single investigation team (Soviet, potentially biased)
+- Autopsy reports (one source)
+- Later analyses rely on same original evidence
+- Verdict: No genuine independent verification possible
+
+**⚠️ Gradient Navigation (WEAK)**
+- Clear transition: alive → dead
+- But no observation of the transition itself
+- Gradient is steep but unobserved
+- Verdict: Event occurred but wasn't witnessed
+
+**❌ Bottleneck Traceability (FAILS)**
+- No mandatory checkpoint for evidence to pass through
+- Multiple possible causal paths (avalanche, wind, panic, etc.)
+- No way to trace back definitively
+- Verdict: Too many pathways, bottleneck doesn't exist
+
+**⚠️ State-Change Amplification (MODERATE)**
+- Deaths are high-energy events (should leave signatures)
+- Injuries documented
+- But: Weather erased many signatures over 3 weeks
+- Verdict: Signatures existed but degraded
+
+### Evidence Nodes (scored 0-10)
+
+1. **Tent cuts from inside** — 7/10
+   - Physical evidence, photographed, clear direction
+   - But: Some degradation over 3 weeks before discovery
+
+2. **Footprints to tree line** — 6/10
+   - Documented in investigation
+   - But: Only one investigative team, some bias possible
+
+3. **Autopsy results (injuries)** — 6/10
+   - Medical examination, documented
+   - But: Soviet-era documentation, limited by 1959 forensics
+
+4. **2020 slab avalanche simulation** — 7/10
+   - Peer-reviewed, modern analysis
+   - Shows mechanism is plausible
+   - But: Simulation, not direct observation
+
+5. **Katabatic wind documentation** — 5/10
+   - Known phenomenon in the region
+   - But: No specific measurement from that night
+
+6. **No external tracks** — 5/10
+   - Investigation photos
+   - But: 3 weeks elapsed, weather could have covered tracks
+
+### Independence Check
+
+- Tent cuts ↔ Autopsy: Different evidence types ✓
+- Footprints ↔ Injuries: Different domains ✓
+- 2020 simulation ↔ Original investigation: Separated by 60 years ✓
+
+**But:** All derive from same initial investigation. True independence is limited.
+
+### Convergence Score
+
+**6 nodes × 6.0 average = 36/100**
+
+**Confidence bracket:** Weak-to-moderate (20-40 range)
+
+**Interpretation:** Evidence quality is moderate, but lack of independent verification and time-degraded boundaries keep convergence LOW. This is exactly what we expect for historical mysteries with no witnesses and compromised crime scenes.
+
+### What Low Convergence Means Here
+
+**This is NOT a high-convergence case.**
+
+Why?
+- Single investigation source (Soviet team)
+- 3-week delay before discovery (boundary degradation)
+- No witnesses to the event
+- 65 years of speculation layered on limited data
+
+**The 2020 avalanche simulation doesn't make convergence high** — it shows a plausible mechanism, but it's a model, not independent observation.
+
+**Critical insight:** The exotic theories (UFO, Yeti, military) have EVEN LOWER convergence (0-5 range) because they have zero supporting evidence. Natural causes wins by default, not by overwhelming proof.
+
+**This demonstrates:** Not all "cannot eliminate" conclusions are equal. Tic Tac (62/100) vs Dyatlov (36/100) — very different confidence levels.
+
+---
+
 ## CONSTRAINT STACKING ANALYSIS
 
 **CLAIM:** What killed the Dyatlov group?
