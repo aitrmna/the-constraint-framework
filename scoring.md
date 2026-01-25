@@ -7,14 +7,49 @@ permalink: /scoring/
 
 This page explains how to score individual pieces of evidence and combine them into a convergence assessment.
 
+**CRITICAL: This is observational, not prescriptive.**
+
+---
+
+## The Observational Principle
+
+**We are not assigning scores based on what we want evidence to show.**  
+**We are recognizing patterns that already exist in the evidence structure.**
+
+When we say "Terminal Lucidity scores 9/10," we mean:
+- Published in peer-reviewed journals (observable fact)
+- Multiple independent observations (observable fact)
+- Reproducible phenomenon (observable fact)
+- No materialist mechanism proposed (observable gap)
+
+**The score describes WHAT IS, not what we wish.**
+
+### Second-Order Observation
+
+The Evidence Convergence Framework predicts where evidence should concentrate:
+- At boundaries
+- At bottlenecks  
+- In irreversible records
+- At steep gradients
+- Where independent streams meet
+
+**Scoring observes: Did evidence concentrate where predicted?**
+
+If yes → High score (prediction confirmed)  
+If no → Low score (prediction failed)
+
+This is the framework applied TO ITSELF. We're observing whether evidence actually concentrated at the structural inevitabilities the axioms predict.
+
 ---
 
 ## Evidence Node Scoring (0-10 scale)
 
-Rate each piece of evidence based on:
+Rate each piece of evidence based on OBSERVABLE characteristics:
 1. How direct it is (observation > inference > speculation)
 2. How verifiable it is (reproducible > documented > anecdotal)
 3. How irreversible it is (permanent record > temporary state)
+
+**These are descriptive categories, not value judgments.**
 
 ### The Scale
 
@@ -171,6 +206,39 @@ Only score evidence that actually bears on the hypothesis.
 
 Absence of evidence at a predicted bottleneck is ITSELF evidence.
 Score it accordingly.
+
+---
+
+## What We Are NOT Doing
+
+**NOT assigning scores based on desired conclusions:**
+- We don't score Terminal Lucidity 9/10 because we want consciousness to survive death
+- We score it 9/10 because it's peer-reviewed, reproducible, and unexplained by materialism (observable facts)
+
+**NOT weighting evidence by philosophical preference:**
+- We don't score brain-consciousness correlation 8/10 because it supports materialism
+- We score it 8/10 because it's 100% experimentally consistent (observable fact)
+- Then note it's compatible with BOTH production and filter theories (neutral)
+
+**NOT cherry-picking which axioms apply:**
+- We apply all six axioms to every case
+- We note which ones succeed and which fail
+- Hard Problem fails ALL axioms → Framework doesn't apply (honest observation)
+- Tic Tac passes ALL axioms → Framework predicts high convergence (confirmed observation)
+
+**NOT inventing the math:**
+- Independent failures multiply: P(all wrong) = (1-p₁) × (1-p₂) × (1-p₃)
+- This is probability theory, not our invention
+- If 3 sources with 70% reliability agree: 1 - (0.3)³ = 97% confidence
+- We're observing this mathematical relationship, not creating it
+
+**NOT designing what convergence means:**
+- Convergence = independent streams pointing same direction
+- This is a pattern recognition, not a definition we invented
+- We observe: Do independent research traditions reach same conclusion?
+- If yes → convergence exists. If no → convergence absent.
+
+**The entire scoring system is DESCRIPTIVE of patterns that exist in the knowledge structure, not PRESCRIPTIVE of what we want conclusions to be.**
 
 ---
 

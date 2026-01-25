@@ -9,6 +9,8 @@ Evidence is not uniformly distributed. It concentrates at structural inevitabili
 
 This page explains **where to look** before looking. The [methodology]({{ '/methodology/' | relative_url }}) explains what to do with evidence once you find it.
 
+**These are observations, not inventions.** The axioms describe patterns that exist in reality, not rules we created.
+
 ---
 
 ## The Core Insight
@@ -23,15 +25,31 @@ This page explains **where to look** before looking. The [methodology]({{ '/meth
 
 This isn't random. It follows from the causal structure of reality.
 
+**We didn't design these patterns. We recognized them.**
+
+When we apply this framework:
+- We observe WHERE evidence actually concentrated
+- We note WHETHER it matches axiom predictions
+- We score based on OBSERVED concentration
+- We interpret based on OBSERVED patterns
+
+This is second-order observation: examining where evidence exists in knowledge space.
+
 ---
 
 ## The Six Axioms
+
+**Each axiom is a recognition of how information behaves in physical reality.**
 
 ### 1. Boundary Conservation
 
 **Evidence density is inversely proportional to the volume it can diffuse into.**
 
+This is thermodynamics. Entropy increases with volume. Constrain volume → preserve information.
+
 When a system has boundaries, evidence can't escape. It concentrates at the boundary and within the confined space.
+
+**We observe this pattern, we don't create it.**
 
 **Where this applies:**
 - Crime scenes with defined perimeters
@@ -158,6 +176,47 @@ State changes release or absorb energy. This creates detectable signatures. Equi
 **Step 5:** Score what you find using the [scoring system]({{ '/scoring/' | relative_url }}).
 
 **Step 6:** Apply [constraint stacking]({{ '/methodology/' | relative_url }}) to eliminate hypotheses.
+
+---
+
+## Meta-Level Application: The Framework Applied to Itself
+
+**This framework is itself subject to empirical testing.**
+
+The six axioms make predictions:
+- Evidence SHOULD concentrate at boundaries
+- Evidence SHOULD concentrate at bottlenecks
+- Independent streams SHOULD converge if hypothesis is correct
+- High-energy events SHOULD leave stronger signatures
+
+**We can observe: Do these predictions hold?**
+
+**Tic Tac case:**
+- Framework predicts: Evidence at sensor bottlenecks
+- Observation: Radar + FLIR + visual all confirmed
+- Prediction confirmed ✓
+
+**Hard Problem of consciousness:**
+- Framework predicts: Should fail (first-person barrier)
+- Observation: All axioms fail to apply
+- Prediction confirmed ✓
+
+**Bermuda Triangle:**
+- Framework predicts: Insurance data (bottleneck) should show anomaly
+- Observation: Lloyd's shows no elevated risk
+- Prediction confirmed ✓ (by absence)
+
+**The framework succeeds when:**
+- Its predictions match observations
+- It identifies its own failure modes
+- It's testable against reality
+
+**The framework fails when:**
+- We use it prescriptively (deciding what SHOULD be true)
+- We ignore disconfirming observations
+- We cherry-pick which axioms to apply
+
+**This is critical:** We're not using the framework to prove what we want. We're observing whether reality matches the framework's predictions. When it doesn't, we note the failure.
 
 ---
 

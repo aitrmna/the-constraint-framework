@@ -27,6 +27,40 @@ The two layers work together: convergence predicts → observation confirms → 
 
 ---
 
+## The Observational Principle
+
+**CRITICAL: This entire methodology is observational, not prescriptive.**
+
+We are not:
+- Deciding what evidence should show
+- Assigning scores based on desired conclusions  
+- Designing convergence to support preferred hypotheses
+- Inventing what "strong evidence" means
+
+We are:
+- Recognizing where evidence actually concentrated
+- Observing which axioms predictions matched reality
+- Scoring based on observable characteristics (peer-reviewed, reproducible, independent, etc.)
+- Interpreting based on observed patterns in knowledge space
+
+**Second-order observation:** We're examining where evidence exists in the knowledge repository, not deciding where it should exist.
+
+**Example:**
+- Terminal Lucidity scores 9/10 not because we want consciousness to survive death
+- It scores 9/10 because it's peer-reviewed, reproducible, and has no materialist explanation (observable facts)
+- The score describes WHAT IS, not what we wish
+
+**The framework applied to itself:**
+- Evidence Convergence Framework predicts where evidence should concentrate
+- We observe: Did evidence concentrate there?
+- Tic Tac: Predicted sensor convergence → Found at all sensors ✓
+- Hard Problem: Predicted framework would fail → All axioms fail ✓
+- Bermuda Triangle: Predicted bottleneck signal → Absent from insurance data ✓
+
+**When predictions fail, we note the failure.** This is how the framework stays honest.
+
+---
+
 ## The Core Idea: Constraint Stacking
 
 **Build cases by ordering constraints from most damning to least damning. Each constraint must fit within the solution space left by all constraints above it. Report what survives.**
