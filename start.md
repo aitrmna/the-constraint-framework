@@ -1,99 +1,237 @@
 ---
 layout: page
 title: Start Here
-description: Skeptical? Start with the strongest cases. Then decide.
+description: When to use the framework and quick-start guide
 permalink: /start/
 ---
 
-## If You're Skeptical, Good
+## When to Use This Framework
 
-You should be. This site makes some uncomfortable claims. Don't take them on faith.
+The Constraint Framework works best on **empirical questions with checkable predictions**.
 
-Instead, look at three cases. They're chosen because they're hard to dismiss without engaging the specifics.
+### Use It When:
 
----
+**✓ Physical evidence exists**
+- Crime scenes, disease outbreaks, accidents
+- Can create hard constraints
+- Predictions are checkable
+- Reality provides clear answers
 
-## Case 1: The Tic Tac
+**✓ Multiple independent witnesses**
+- Can check for convergence
+- Inconsistencies reveal false hypotheses
+- Consistency supports true hypotheses
 
-**What happened:** November 2004, USS Nimitz carrier group. For two weeks, radar tracked objects dropping from 80,000 feet to sea level in seconds. Commander David Fravor visually encountered a 40-foot white object — no wings, no exhaust. It mirrored his movements, then vanished, reappearing 60 miles away at his classified return destination.
+**✓ Known comparison cases**
+- Can establish base rates
+- Can identify patterns
+- Can check against benchmarks
 
-**Why it's hard to dismiss:**
-- Five independent sensor systems (ship radar, airborne radar, aircraft radar, infrared video, visual)
-- Four Navy pilots plus radar operators
-- 14 days of tracking
-- Pentagon confirmed
-- Physics: 175g+ acceleration (humans die at 10g, best aircraft max 15g)
+**✓ Checkable predictions**
+- Hypothesis makes specific claims
+- Claims can be verified or falsified
+- Timeline allows checking
 
-**The constraint stacking result:** Every mundane explanation gets eliminated by at least one piece of evidence. What survives: technology using physics we don't understand.
+**✓ Multiple competing hypotheses**
+- Comparative strength is measurable
+- Can rank options
+- Clear winner can emerge
 
-<p><a href="{{ '/mysteries/tic-tac/' | relative_url }}">Read the full analysis →</a></p>
+### Don't Use It When:
 
----
+**✗ No physical evidence**
+- Everything becomes speculation
+- Can't create hard constraints
+- Example: Loch Ness Monster (no body, no clear photos)
 
-## Case 2: Terminal Lucidity
+**✗ Single witness, no corroboration**
+- Can't check convergence
+- Testimony could be accurate or false
+- No way to differentiate
 
-**What happens:** Patients with severe dementia or brain damage — people who haven't recognized family members in years, whose brains show 90%+ tissue destruction — suddenly become completely lucid shortly before death. Clear conversation, accurate memories, recognition of loved ones. Then they die.
+**✗ Evidence destroyed or lost**
+- Can't check predictions
+- Must rely on incomplete records
+- Ambiguity increases
 
-**Why it's hard to dismiss:**
-- Documented in medical literature since the 1800s
-- The brain damage is still present — neurons don't regenerate
-- No proposed mechanism after 200 years of documentation
-- If brain = consciousness, this shouldn't happen
+**✗ Unfalsifiable hypotheses**
+- No predictions to test
+- Can't be proven wrong
+- Framework is helpless
+- Examples: Simulation theory, solipsism
 
-**The constraint stacking result:** If consciousness is produced by the brain, damaged brain means damaged consciousness. Always. Terminal lucidity violates this. What survives: consciousness isn't fully explained by brain state.
+**✗ Future predictions**
+- Can't check yet
+- Framework requires checking against reality
+- Must wait
 
-<p><a href="{{ '/mysteries/materialism/' | relative_url }}">Read the full analysis →</a></p>
-
----
-
-## Case 3: The Bermuda Triangle
-
-**What happened:** The Bermuda Triangle is famous for mysterious disappearances of ships and aircraft.
-
-**Why this case matters:** It shows the method debunks.
-
-**The constraint stacking result:** 
-- Lloyd's of London insurance data: No elevated risk in the region
-- Coast Guard: No unusual number of incidents given traffic volume
-- Famous cases: Have mundane explanations when investigated
-- **There is no anomaly.** The "mystery" is a statistical artifact and media hype.
-
-<p><a href="{{ '/mysteries/bermuda-triangle/' | relative_url }}">Read the full analysis →</a></p>
-
----
-
-## What These Three Show
-
-| Case | Result | What It Proves |
-|------|--------|----------------|
-| Tic Tac | Non-human technology survives | The method finds anomalies when they exist |
-| Terminal Lucidity | Materialism has problems | The method challenges mainstream assumptions |
-| Bermuda Triangle | No anomaly exists | The method debunks when debunking fits |
-
-**The method is neutral.** It doesn't favor exotic conclusions. It finds what survives elimination.
-
----
-
-## If You're Still Here
-
-These three cases are representative. There are 40 total, across five categories.
-
-**Next steps:**
-
-<p><a href="{{ '/mysteries/uap/' | relative_url }}">More UAP cases →</a> (7 total, same pattern)</p>
-
-<p><a href="{{ '/mysteries/consciousness/' | relative_url }}">More consciousness cases →</a> (11 total, including death, self, free will)</p>
-
-<p><a href="{{ '/mysteries/historical/' | relative_url }}">More debunking →</a> (5 of 7 historical cases resolve to mundane)</p>
-
-Or jump to what emerges when you look at all 40 together:
-
-<p><a href="{{ '/meta/' | relative_url }}">The pattern that emerged →</a></p>
+**✗ Purely philosophical questions**
+- No empirical predictions
+- No observable differences between answers
+- Outside framework's scope
+- Examples: "What is consciousness?" "Do we have free will?"
 
 ---
 
-## If You're Not Convinced
+## Quick-Start Checklist
 
-That's fine. The [Steelman]({{ '/steelman/' | relative_url }}) page addresses the strongest objections. The [Why Trust This?]({{ '/trust/' | relative_url }}) page explains why you probably shouldn't trust it — and what you can evaluate instead.
+Before starting, verify:
 
-The point isn't to convince you. It's to show the reasoning clearly enough that you can engage with it.
+- [ ] Mystery has observable facts to check
+- [ ] Multiple competing explanations exist
+- [ ] Predictions can be verified
+- [ ] Evidence is available
+- [ ] You're willing to follow where evidence leads
+
+**If any checkbox fails, framework may not be appropriate.**
+
+---
+
+## The 7-Step Process
+
+### Step 1: Define the Mystery
+
+Identify the core observation requiring explanation.
+
+**Good example:**
+"Why did SARS-CoV-2 emerge in Wuhan in late 2019?"
+
+**Bad example:**
+"Is there life in the universe?" (too broad, not specific)
+
+**Key criterion:** Must have observable facts that can differentiate between explanations.
+
+### Step 2: List All Serious Hypotheses
+
+Brainstorm every explanation that:
+- Has been proposed by credible sources
+- Has some initial plausibility
+- Makes different predictions than alternatives
+
+**Include your preferred answer to test it fairly.**
+
+### Step 3: Generate Predictions
+
+For each hypothesis, ask: "If this were true, what would we EXPECT to observe?"
+
+**Prediction categories:**
+- Physical evidence
+- Witness behavior
+- Timeline/sequence
+- Comparative benchmarks
+- Perpetrator behavior
+- Follow-up consequences
+
+**Rules for good predictions:**
+- ✓ Specific: "Ransom note written on house materials"
+- ✓ Checkable: Can verify yes/no
+- ✓ Non-circular: Can't use hypothesis to predict itself
+- ✓ Falsifiable: If wrong, we can tell
+
+### Step 4: Check Predictions
+
+For each prediction:
+
+**PASS (✓):** Prediction confirmed by evidence
+
+**FAIL (✗):** Prediction contradicted by evidence
+
+**UNCLEAR (⚠️):** Evidence insufficient or ambiguous
+
+**Classify failure severity:**
+- **Minor (-):** Prediction was "possibly" or "might"
+- **Major (--):** Strong prediction failed, hard to explain
+- **Critical (---):** Absolute necessity for hypothesis, failure proves it false
+
+### Step 5: Score Each Hypothesis
+
+```
+Success Rate = Confirmed Predictions / Total Predictions
+
+Severity Penalty = (Minor × 0.1 + Major × 0.3 + Critical × 0.6) / Total
+
+Overall Fit = Success Rate × (1 - Severity Penalty)
+```
+
+**Interpretation:**
+- 90-100%: Overwhelming support
+- 70-89%: Strong support
+- 50-69%: Moderate support
+- 30-49%: Weak support
+- 0-29%: Very weak/disproven
+
+### Step 6: Compare Hypotheses
+
+```
+Advantage Ratio = Best Hypothesis Fit / Next Best Fit
+```
+
+**Interpretation:**
+- 100:1+: Overwhelming winner
+- 20:1 to 99:1: Very strong winner
+- 10:1 to 19:1: Strong winner
+- 5:1 to 9:1: Moderate winner
+- 2:1 to 4:1: Weak winner
+- <2:1: Too close to call
+
+### Step 7: Check Constraints
+
+List major constraints and which hypothesis they support.
+
+**Do constraints converge?**
+- If yes → Strong conclusion
+- If mixed → Describe the conflict
+- If no → Evidence is genuinely ambiguous
+
+---
+
+## Example: Quick Analysis
+
+**Mystery:** JonBenét Ramsey ransom note
+
+**Hypotheses:**
+- H1: Stranger intruder wrote it
+- H2: Parent wrote it (cover-up)
+
+**Key Predictions:**
+
+**Intruder hypothesis predicts:**
+- Uses own materials (✗ used house notepad)
+- Standard ransom amount (✗ exactly John's bonus: $118,000)
+- Brief note (✗ 2.5 pages, longest in FBI history)
+- Takes note with them (✗ left at scene)
+
+**Parent hypothesis predicts:**
+- Uses house materials (✓ Patsy's notepad)
+- Knows inside information (✓ exact bonus amount)
+- Anxious, lengthy note (✓ 2.5 pages)
+- Staging indicators (✓ practice note found)
+
+**Result:** Parent hypothesis 100% fit, intruder hypothesis <1% fit
+
+**Advantage ratio:** >100:1 for parent involvement
+
+---
+
+## Next Steps
+
+**Understand the full methodology:**
+<p><a href="{{ '/methodology/' | relative_url }}">Complete framework →</a></p>
+
+**Learn the scoring system:**
+<p><a href="{{ '/scoring/' | relative_url }}">How scoring works →</a></p>
+
+**See it applied:**
+<p><a href="{{ '/mysteries/' | relative_url }}">Case studies →</a></p>
+
+---
+
+## Key Principle
+
+**The framework doesn't make you smarter. It makes your biases visible.**
+
+It forces intellectual honesty. You can't cherry-pick, ignore contradictions, or hide behind "we can't know."
+
+You must list all predictions upfront, check each honestly, count failures, compare fairly, and state confidence accurately.
+
+That's the whole point.

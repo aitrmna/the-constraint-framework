@@ -1,310 +1,225 @@
 ---
 layout: mystery
 title: Gimbal & GoFast
-subtitle: Navy pilots vs. a fleet of them
-description: USS Theodore Roosevelt, 2015. Multiple objects, video released by Pentagon.
-result: Cannot eliminate — non-human technology
+subtitle: USS Theodore Roosevelt, 2014-2015
+description: Daily encounters, Pentagon-released videos
+result: Insufficient data for strong conclusion
 category: uap
 ---
 
-2014-2015. US Navy pilots from the USS Theodore Roosevelt encountered unidentified objects almost daily during training exercises off the East Coast. Two videos — "Gimbal" and "GoFast" — were recorded using F/A-18 targeting systems. These were among the three videos officially released by the Pentagon in 2020.
+2014-2015. US Navy pilots from USS Theodore Roosevelt encountered unidentified objects almost daily during training exercises off the East Coast. Two videos — "Gimbal" and "GoFast" — were officially released by the Pentagon. Pilots testified to Congress about sustained encounters.
+
+**Limited released data makes strong conclusions difficult.**
 
 ---
 
-## EVIDENCE CONVERGENCE ANALYSIS
+## THE MYSTERY
 
-This case demonstrates **MODERATE-HIGH convergence** — persistent observations but weaker individual event data than Tic Tac.
+**Core Question:** What did Navy pilots encounter off Virginia coast 2014-2015?
 
-### Axioms Applied
+**Available Evidence:**
+- Pentagon-released "Gimbal" and "GoFast" videos
+- Pilot testimony (some public, some classified)
+- Reports of daily encounters over 2+ years
+- Navy changed UAP reporting procedures
+- Congressional testimony under oath
 
-**✓ Boundary Conservation (STRONG)**
-- Restricted military airspace = clear boundary
-- Training zones precisely defined
-- Objects repeatedly appeared within same boundaries
-- Verdict: Strong spatial containment
+**Data Limitations:**
+- Only 2 short videos publicly released
+- Most sensor data remains classified
+- Radar data not publicly available
+- Full pilot testimony not public
 
-**✓ Irreversibility (STRONG)**
-- ATFLIR video recordings (permanent)
-- Official Navy safety reports filed (permanent)
-- Congressional testimony (permanent record)
-- Pentagon video release (irreversible disclosure)
-- Verdict: Multiple irreversible artifacts
+---
 
-**⚠️ Convergence Supremacy (MODERATE)**
-- Multiple pilots over 2 years (independent observations)
-- BUT: Many observations not instrumentally recorded
-- Only 2 videos released publicly (small sample from larger set)
-- Verdict: High witness count but limited hard evidence released
+## COMPETING HYPOTHESES
 
-**✓ Gradient Navigation (STRONG)**
-- Daily encounters over years = sustained gradient
-- Objects appeared → disappeared → reappeared (clear temporal patterns)
-- Training operations disrupted (measurable impact)
-- Verdict: Strong sustained signal
+**H1: Balloons**
+- Weather balloons or party balloons
+- Drift patterns explain movement
 
-**⚠️ Bottleneck Traceability (MODERATE)**
-- ATFLIR targeting pod is mandatory for F/A-18 weapon systems
-- Objects passed through sensor bottleneck
-- But: No radar data released publicly, limited to FLIR
-- Verdict: Some bottlenecks confirmed, others not disclosed
+**H2: Drones**
+- Consumer or commercial drones
+- Illegally operating in military airspace
 
-**⚠️ State-Change Amplification (MODERATE)**
-- Objects holding in 120kt winds = high energy expenditure
-- But: No extreme accelerations captured on released footage
-- Gradual not dramatic events
-- Verdict: Sustained performance but not peak dramatic events
+**H3: Camera Artifacts**
+- ATFLIR system creates visual effects
+- Gimbal rotation, glare effects
 
-### Evidence Nodes (scored 0-10)
+**H4: Foreign Technology**
+- Russia/China testing near US carrier
+- Advanced but human-made
 
-1. **Daily encounters for 2+ years** — 8/10
-   - Lt. Graves testimony: "every day for at least a couple years"
-   - Multiple pilots corroborate
-   - Sustained pattern rules out isolated anomalies
+**H5: Secret US Tech**
+- Classified US program testing
+- In operational environment
 
-2. **Gimbal ATFLIR video** — 7/10
-   - Pentagon-authenticated footage
-   - Object tracked, thermal signature
-   - No visible propulsion
-   - Rotation may be artifact but object presence confirmed
+**H6: Non-Human Technology**
+- Beyond current human capability
 
-3. **GoFast ATFLIR video** — 5/10
-   - Pentagon-authenticated
-   - Parallax debate reduces certainty
-   - Object present but performance disputed
+---
 
-4. **120kt wind hover capability** — 7/10
-   - Multiple pilot testimony
-   - No video confirmation of this specific claim
-   - But consistent across reports
+## PREDICTIONS & TESTING
 
-5. **Radar confirmation (pilot reports)** — 6/10
+### H1: Balloons
+
+**Predictions:**
+
+1. **Drift with wind** → ⚠️ **UNCLEAR**
+   - Pilots claim stationary in 120kt winds
+   - Can't verify from video alone
+   - Needs full sensor data
+
+2. **Identifiable as balloons** → ✗ **FAIL**
+   - Navy pilots would recognize balloons
+   - Filed safety reports (indicates genuine concern)
+
+3. **No radar returns** → ✗ **FAIL**
+   - Prediction: Balloons don't show on radar well
+   - Observation: Pilots report radar tracks
+
+**Score:** 0/3 with 1 unclear
+**Preliminary Fit:** **~20%** (possible but unlikely)
+
+---
+
+### H2: Drones
+
+**Predictions:**
+
+1. **Daily pattern makes sense** → ✓ **PASS**
+   - Someone could fly drones repeatedly
+   - Training area is known, accessible
+
+2. **Navy would identify** → ✗ **FAIL**
+   - Navy familiar with drones
+   - Wouldn't label "unidentified"
+
+3. **Investigation/arrests** → ✗ **FAIL**
+   - Illegal drone operations near carrier
+   - No arrests or warnings issued
+
+**Score:** 1/3
+**Preliminary Fit:** **~30%**
+
+---
+
+### H3: Camera Artifacts
+
+**Predictions:**
+
+1. **Navy would recognize** → ✗ **CRITICAL FAIL**
+   - Navy uses ATFLIR daily
+   - Would know own sensor artifacts
+
+2. **No radar confirmation** → ✗ **FAIL**
+   - If just camera, no radar
    - Pilots report radar tracks
-   - Near-miss incident documented
-   - But: No radar data released publicly
 
-6. **Navy safety reports filed** — 8/10
-   - Official documentation
-   - Navy changed UAP reporting procedures
-   - Institutional response indicates seriousness
+3. **Inconsistent appearances** → ✗ **FAIL**
+   - Artifacts vary randomly
+   - Pilots report consistent objects
 
-7. **Congressional testimony** — 7/10
-   - Pilots testified under oath
-   - Public hearings in 2022-2023
-   - But: Limited new evidence presented
-
-### Independence Check
-
-- Gimbal video ↔ GoFast video: Different events, different timeframes ✓
-- Pilot testimony ↔ ATFLIR footage: Different evidence types ✓
-- Multiple pilots ↔ Each other: Different individuals ✓
-
-**But:** All from same carrier group, same geographic area. Limited platform independence.
-
-### Convergence Score
-
-**7 nodes × 6.9 average = 48/100**
-
-**Confidence bracket:** Moderate (40-59 range)
-
-**Interpretation:** This case sits in ambiguous middle ground:
-- Stronger than single-witness accounts (sustained observations, multiple pilots)
-- Weaker than multi-sensor cases (limited instrumentation released)
-- Pattern is compelling (daily for years) but individual events less documented
-
-### Critical Comparison
-
-| Case | Score | Key Difference |
-|------|-------|----------------|
-| Tic Tac | 60/100 | Single event, multi-sensor, extreme calculated performance |
-| **Gimbal/GoFast** | **48/100** | **Sustained pattern, limited sensors released** |
-| Rendlesham | 39/100 | Multi-night, audio recording, low-energy traces |
-
-**Why lower than Tic Tac despite more encounters?**
-- Tic Tac had radar + FLIR + visual all converging on single dramatic event
-- Gimbal/GoFast has many observations but limited hard evidence released
-- Quality vs quantity trade-off
-
-**The 48/100 score suggests:** Something anomalous occurred repeatedly, but public evidence is incomplete. Higher-quality data likely exists but remains classified.
+**Score:** 0/3
+**Preliminary Fit:** **~5%**
 
 ---
 
-## CONSTRAINT STACKING ANALYSIS
+### H4-H6: Advanced Technology (Foreign/US/Non-Human)
 
-**CLAIM:** What were the Gimbal and GoFast objects?
+**Cannot differentiate without more data:**
+- All predict: Radar + visual confirmation ✓
+- All predict: Navy can't identify ✓
+- All predict: Consistent appearances ✓
+- All predict: Performance beyond typical aircraft ⚠️
 
-**STARTING SOLUTION SPACE:**
-- Sensor artifact / glare
-- Drone (foreign or domestic)
-- Balloon
-- Bird
-- Conventional aircraft
-- Electronic warfare spoofing
-- Non-human technology
+**Key question:** Performance capabilities
+- If extreme (Tic Tac level): Suggests non-human
+- If moderate: Could be foreign/US
+- **Problem:** Performance data not publicly released
 
----
-
-### CONSTRAINT 1 (MOST DAMNING): Pilot Testimony — "A Whole Fleet of Them"
-
-**Evidence:**
-- Lt. Ryan Graves: Objects encountered "every day for at least a couple years" off Virginia coast
-- Multiple pilots reported objects holding stationary in 120+ knot winds, then accelerating rapidly
-- Gimbal audio: "There's a whole fleet of them... look at that thing, it's rotating!"
-- GoFast audio: Pilots express amazement at object speed close to water
-- Lt. Cmdr. Dietrich, Lt. Accoin, and others went on record with consistent accounts
-
-**What this means:** Not a single anomalous encounter. Persistent presence over years, witnessed by multiple pilots.
-
-**ELIMINATES:**
-- ❌ One-off sensor glitch (daily for years)
-- ❌ Single witness error (multiple pilots, different squadrons)
-
-**Remaining:** Physical objects present in training airspace for extended period
+**Preliminary assessment:**
+- Foreign tech: ~15% (why test openly near US carrier for 2 years?)
+- US secret tech: ~10% (why confuse own pilots for 2 years?)
+- Non-human tech: ~20% (consistent with other UAP patterns)
 
 ---
 
-### CONSTRAINT 2: Gimbal Video — Object Rotation
+## THE DATA PROBLEM
 
-**Evidence:**
-- ATFLIR targeting pod video (official Pentagon release)
-- Object appears to rotate while maintaining flight path
-- No wings, no exhaust plume visible
-- Pilots audibly confused: "Look at that thing!"
-- Object tracked in infrared (heat signature present)
+**What we need but don't have:**
+- Full radar data (speeds, accelerations)
+- Complete pilot testimony (not just clips)
+- Multi-sensor correlation details
+- Technical analysis from Navy
 
-**What this means:** Object is warm (not balloon), has no visible propulsion, rotates independently of flight direction.
+**What prevents strong conclusion:**
+- Two short videos insufficient
+- Most data classified
+- Can't rule out mundane explanations definitively
+- Can't confirm extraordinary performance
 
-**Skeptic claim:** "Rotation is gimbal artifact from camera system"
-
-**Response:** 
-- The *rotation* might be artifact
-- The *object itself* — tracked, warm, no exhaust, maintaining position in strong winds — is not explained by camera artifact
-- Pilots were confused by the object, not the camera
-
-**ELIMINATES:**
-- ❌ Camera glare (has heat signature, tracked across sky)
-- ❌ Conventional aircraft (no wings, no exhaust)
-
-**Remaining:** Unconventional object with unusual flight characteristics
+**This is NOT like Tic Tac:**
+- Tic Tac: Full sensor suite data, clear physics calculations
+- Gimbal/GoFast: Limited released data, can't calculate performance
 
 ---
 
-### CONSTRAINT 3: GoFast Video — Speed and Altitude
+## COMPARATIVE SCORES (Preliminary)
 
-**Evidence:**
-- ATFLIR video shows object moving fast over water
-- No wings visible
-- Parallax analysis debates actual speed (some say fast, some say slower with parallax illusion)
+| Hypothesis | Fit | Confidence |
+|-----------|-----|------------|
+| Drones | 30% | Low (weak explanation) |
+| Non-Human Tech | 20% | Very Low (insufficient data) |
+| Balloons | 20% | Low (unlikely but not eliminated) |
+| Foreign Tech | 15% | Low (implausible behavior) |
+| US Secret Tech | 10% | Very Low (odd to confuse own pilots) |
+| Camera Artifacts | 5% | Very Low (Navy would know) |
 
-**The debate:**
-- Skeptics: Parallax makes a slower object look fast
-- Pilots: Object was remarkable enough to record and exclaim over
+**No clear winner. Evidence insufficient.**
 
-**PARTIALLY CONSTRAINS:**
-- ⚠️ GoFast alone is weaker evidence due to parallax debate
-- ⚠️ But GoFast is part of a pattern, not isolated incident
-
-**Remaining:** Object of some kind present; speed disputed
-
----
-
-### CONSTRAINT 4: Radar Corroboration
-
-**Evidence:**
-- Lt. Graves reported objects appeared on radar
-- Near-miss incident: Pilot almost collided with object (radar and visual)
-- Official Navy safety reports filed
-- Navy changed reporting procedures because of these encounters
-
-**ELIMINATES:**
-- ❌ Pure optical illusion (radar confirmed physical objects)
-- ❌ Birds (radar return too strong, speeds too high)
-
-**Remaining:** Physical objects with radar signature
+**Advantage Ratio:** 1.5:1 (drones vs next best)
+**Interpretation:** Too close to call
 
 ---
 
-### CONSTRAINT 5: Performance — Stationary in 120kt Winds
+## WHAT THIS CASE SHOWS
 
-**Evidence:**
-- Pilots reported objects holding stationary position in high winds
-- Then accelerating rapidly
-- No visible propulsion
-- This happened repeatedly over months/years
+**The framework working honestly:**
 
-**ELIMINATES:**
-- ❌ Balloon (would drift with wind)
-- ❌ Conventional drone (consumer drones can't hold position in 120kt winds)
-- ❌ Military drone (no US drone disclosed with these capabilities; would not operate uncoordinated in training airspace)
+When evidence is insufficient, framework says "insufficient evidence."
 
-**Remaining:** Unknown technology capable of wind-independent hover and rapid acceleration
+**Not every UAP case is strong:**
+- Tic Tac: Overwhelming data, clear conclusion
+- Belgian Wave: Data collapses under scrutiny
+- **Gimbal/GoFast: Limited data, no strong conclusion**
 
----
+**This is appropriate epistemic humility.**
 
-### CONSTRAINT 6: Location — Active Military Training Zone
+**What would resolve it:**
+- Release full radar data
+- Release performance calculations
+- Declassify pilot testimony
+- Multi-sensor analysis
 
-**Evidence:**
-- Objects appeared in restricted military airspace
-- Daily presence disrupted training operations
-- Navy filed official UAP safety reports
-- Navy eventually briefed Congress on encounters
-
-**What this means:** Unknown objects operated persistently in sovereign military airspace without clearance.
-
-**ELIMINATES:**
-- ❌ Domestic secret test (wouldn't operate uncoordinated in training zones for years)
-- ❌ Casual misidentification (Navy took it seriously enough to change procedures and brief Congress)
-
-**Remaining:** Unknown origin, not coordinated with US military
+**Until then:** Cannot make strong claim either direction.
 
 ---
 
-### CONSTRAINT 7: Official Confirmation
+## HONEST ASSESSMENT
 
-**Evidence:**
-- Pentagon officially released videos (2020)
-- Confirmed videos are authentic Navy footage
-- Navy confirmed objects remain "unidentified"
-- Pilots testified to Congress (2022, 2023)
+**Most likely scenario given available data:**
+Some combination of:
+- Drones (some encounters)
+- Camera effects (some appearances)
+- Unknown objects (some genuine anomalies)
 
-**ELIMINATES:**
-- ❌ Hoax (Pentagon authenticated)
-- ❌ Classified US program (Navy would know; wouldn't release video and claim "unidentified")
+**Without full data, cannot determine which encounters are which.**
 
----
+**This is a weak case for extraordinary claims.**
 
-## ANOMALIES
-
-**"Why release the videos if it's really unknown?"**
-→ Videos leaked first; Pentagon confirmed authenticity rather than deny. Possibly forced disclosure.
-
-**"Why no clear high-resolution footage?"**
-→ ATFLIR is designed for targeting, not photography. What we see is what the system captures. Better footage may exist but remain classified.
-
-**"Why didn't they shoot one down?"**
-→ No hostile action by objects. Shooting unidentified objects in domestic airspace has massive risk if wrong.
-
-All anomalies fit within remaining solution space.
+**Confidence:** Low across all hypotheses
 
 ---
 
-## RESULT
-
-| Hypothesis | Status |
-|------------|--------|
-| Sensor artifact | ❌ Eliminated |
-| Balloon | ❌ Eliminated |
-| Bird | ❌ Eliminated |
-| Conventional drone | ❌ Eliminated |
-| Secret US program | ❌ Eliminated |
-| Foreign drone | ⚠️ Cannot fully eliminate (but no known capability matches) |
-| **Non-human technology** | **Cannot eliminate** |
-
----
-
-## What This Means
-
-We are not saying "the Gimbal and GoFast objects were non-human technology."
-
-We are saying: "Objects were present daily for years in military airspace. They appeared on radar, were witnessed by multiple pilots, demonstrated unusual flight characteristics, and remain officially unidentified. The Pentagon released the videos and confirmed they don't know what they are. Non-human technology cannot be eliminated."
-
-The weaker case of the three Pentagon videos — but part of a larger pattern that makes the overall evidence stronger.
+<p><a href="{{ '/mysteries/uap/' | relative_url }}">← All UAP cases</a></p>
