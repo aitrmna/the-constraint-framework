@@ -5,31 +5,32 @@ description: The complete Constraint Framework
 permalink: /methodology/
 ---
 
-## Core Philosophy
+## The Nucleus
 
-### The Traditional Problem
+**True hypotheses constrain reality. False ones don't.**
 
-**Standard reasoning failures:**
-1. **Possibility bias:** "It's possible aliens visited" → Stops there
-2. **Confirmation bias:** Looks only for supporting evidence
-3. **Motivated reasoning:** Reaches desired conclusion
-4. **False equivalence:** Treats all explanations as equally valid
-5. **Extraordinary claims fallacy:** Subjective bar for what counts as "extraordinary"
+If something is TRUE:
+- It predicts what we observe
+- It doesn't predict what's absent
 
-**What we actually need:** Objective way to compare competing explanations.
+If something is FALSE:
+- It predicts things that aren't there, OR
+- It fails to predict things that are there
 
-### The Constraint Framework Solution
+**Reality kills false hypotheses.** The more predictions you make, the more opportunities for reality to expose falsehood.
 
-**Core insight:** Every hypothesis, if true, PREDICTS specific observable consequences.
+---
 
-**The test:**
-1. List what hypothesis predicts
-2. Check each prediction against reality
-3. Count confirmations vs failures
-4. Weight severity of failures
-5. Compare scores across hypotheses
+## The Operational Form
 
-**Result:** Objective, quantifiable, comparative evaluation.
+Ask two questions about every hypothesis:
+
+1. **"What would we HAVE to see if this were true?"** → Check if present
+2. **"What would we NEVER see if this were true?"** → Check if absent
+
+If reality contradicts either answer, the hypothesis is damaged or eliminated.
+
+**This is falsifiability weaponized.**
 
 ---
 
@@ -37,45 +38,35 @@ permalink: /methodology/
 
 ### STEP 1: Define the Mystery
 
-**Identify the core observation requiring explanation.**
+Identify the core observation requiring explanation.
 
 **Good examples:**
+- "What did Navy pilots observe on November 14, 2004?"
 - "Why did SARS-CoV-2 emerge in Wuhan in late 2019?"
 - "How did JonBenét Ramsey die and who is responsible?"
-- "What did Navy pilots observe on November 14, 2004?"
 
-**Bad examples:**
-- "Is there life in the universe?" (too broad)
-- "What is consciousness?" (philosophical, not empirical)
-- "Will AI destroy humanity?" (future prediction, not past explanation)
-
-**Key criterion:** Must have observable facts that can differentiate between explanations.
+**Key criterion:** Observable facts that can differentiate between explanations.
 
 ---
 
 ### STEP 2: List All Serious Hypotheses
 
-**Brainstorm every explanation that:**
-- Has been proposed by credible sources
-- Has some initial plausibility
-- Makes different predictions than alternatives
-
 **Include:**
 - Conventional wisdom
 - Minority expert opinions
 - Unpopular but logical possibilities
-- Deliberately include your "preferred" answer to test it fairly
+- Your "preferred" answer (to test it fairly)
 
 **Exclude:**
 - Logically impossible explanations
-- Explanations that make identical predictions to others (combine them)
+- Explanations making identical predictions (combine them)
 - Purely ad-hoc explanations with no predictive power
 
 **Example (JonBenét):**
 - H1: Stranger intruder
 - H2: Patsy rage killing
 - H3: John sexual abuse
-- H4: Failed kidnapping
+- H4: Failed kidnapping attempt
 - H5: Burke accident + parent cover-up
 
 ---
@@ -85,86 +76,64 @@ permalink: /methodology/
 **For each hypothesis, ask: "If this were true, what would we EXPECT to observe?"**
 
 **Prediction categories:**
-
-**Physical evidence:**
-- What materials should be present?
-- What should be absent?
-- What patterns in evidence?
-
-**Witness behavior:**
-- How many witnesses?
-- Consistency of accounts?
-- Changes over time?
-
-**Timeline/sequence:**
-- What order of events?
-- What timing intervals?
-- What correlations?
-
-**Comparative benchmarks:**
-- How does this compare to known similar cases?
-- What do we see in verified examples?
-- What's the base rate?
-
-**Perpetrator behavior:**
-- What actions would they take?
-- What would they avoid?
-- What capabilities required?
-
-**Follow-up consequences:**
-- What happens next?
-- What evidence emerges over time?
-- How do actors behave later?
+- Physical evidence: What materials? What absent? What patterns?
+- Witness behavior: How many? Consistency? Changes over time?
+- Timeline: What sequence? What timing? What correlations?
+- Comparative benchmarks: How does this compare to known similar cases?
+- Perpetrator behavior: What actions? What avoided? What capabilities needed?
+- Follow-up consequences: What happens next? What evidence emerges later?
 
 **Rules for good predictions:**
 
 ✓ **Specific:** "Ransom note written on materials from house" not "there might be a note"
 ✓ **Checkable:** Can verify yes/no against evidence
+✓ **Risky:** If wrong, you can tell
 ✓ **Non-circular:** Can't use the hypothesis to predict itself
-✓ **Falsifiable:** If wrong, we can tell
 
 ✗ **Avoid:**
 - Vague predictions ("something unusual might occur")
 - Unfalsifiable claims ("absence of evidence isn't evidence of absence")
 - Circular reasoning ("it's aliens because it's unexplained")
 
+**CRITICAL:** Generate predictions BEFORE checking evidence. This prevents post-hoc rationalization.
+
 ---
 
 ### STEP 4: Check Predictions Against Reality
 
-**For each prediction, determine:**
+For each prediction:
 
-**PASS (✓):** Prediction confirmed by evidence
+**PASS (✓):** Prediction confirmed
 - Evidence directly supports this prediction
 - Multiple independent sources confirm
 - No contradicting evidence
 
-**FAIL (✗):** Prediction contradicted by evidence  
+**FAIL (✗):** Prediction contradicted
 - Evidence directly contradicts prediction
 - Multiple sources show opposite
 - Contradiction is clear and unambiguous
 
-**UNCLEAR (⚠️):** Evidence insufficient or ambiguous
+**UNCLEAR (⚠️):** Insufficient evidence
 - No data available
 - Conflicting reports
 - Interpretation disputed
 
-**Severity classification for failures:**
+**Classify failure severity:**
 
-**MINOR failure (-):**
-- Prediction was "possibly" or "might"
+**MINOR failure (-):** 10% penalty
+- Prediction was weak ("possibly" or "might")
 - Failure doesn't fundamentally undermine hypothesis
 - Other factors could explain
 - Example: "Might find fingerprints" → None found
 
-**MAJOR failure (--):**
+**MAJOR failure (--):** 30% penalty
 - Strong prediction that failed
 - Central to hypothesis but alternatives exist
 - Hard to explain away
 - Example: "Should find animal reservoir within year" → None after 5 years
 
-**CRITICAL failure (---):**
-- Prediction was absolute necessity for hypothesis
+**CRITICAL failure (---):** 60% penalty
+- Prediction was absolute necessity
 - No alternative explanation
 - Failure essentially proves hypothesis false
 - Example: "Radar tracked actual objects" → Radar tracked F-16s tracking each other
@@ -173,292 +142,195 @@ permalink: /methodology/
 
 ### STEP 5: Score Each Hypothesis
 
-**Basic scoring:**
-
+**Success Rate:**
 ```
-Success Rate = (Confirmed Predictions) / (Total Predictions)
-```
-
-**Severity adjustment:**
-
-```
-Severity Penalty = (Minor Failures × 0.1) + (Major Failures × 0.3) + (Critical Failures × 0.6)
-                   ────────────────────────────────────────────────────────────────────────
-                                        Total Predictions
+Success Rate = Confirmed Predictions / Total Predictions
 ```
 
-**Overall fit:**
+**Severity Penalty:**
+```
+Severity Penalty = (Minor × 0.1) + (Major × 0.3) + (Critical × 0.6)
+                   ─────────────────────────────────────────────────
+                                 Total Predictions
+```
 
+**Overall Fit:**
 ```
 Overall Fit = Success Rate × (1 - Severity Penalty)
 ```
 
-**Interpretation scale:**
-
-- **90-100%:** Overwhelming support, near certainty
-- **70-89%:** Strong support, high confidence
-- **50-69%:** Moderate support, probable
-- **30-49%:** Weak support, possible but unlikely
-- **10-29%:** Very weak support, improbable
-- **0-9%:** Essentially disproven
+**Interpretation:**
+- 90-100%: Overwhelming support
+- 70-89%: Strong support
+- 50-69%: Moderate support
+- 30-49%: Weak support
+- 10-29%: Very weak support
+- 0-9%: Essentially disproven
 
 ---
 
 ### STEP 6: Compare Hypotheses
 
-**Calculate relative strength:**
-
+**Advantage Ratio:**
 ```
-Advantage Ratio = (Best Hypothesis Overall Fit) / (Next Best Overall Fit)
+Advantage Ratio = Best Hypothesis Overall Fit / Next Best Overall Fit
 ```
 
 **Interpretation:**
+- **100:1+** — Alternative essentially impossible
+- **20:1 to 99:1** — Alternative highly improbable
+- **10:1 to 19:1** — Alternative unlikely
+- **5:1 to 9:1** — Alternative possible but less likely
+- **2:1 to 4:1** — Alternative remains plausible
+- **<2:1** — Too close to call
 
-- **100:1 or greater:** Overwhelming winner, alternative essentially impossible
-- **20:1 to 99:1:** Very strong winner, alternatives highly improbable
-- **10:1 to 19:1:** Strong winner, alternatives unlikely
-- **5:1 to 9:1:** Moderate winner, alternatives possible but less likely
-- **2:1 to 4:1:** Weak winner, alternatives remain plausible
-- **Less than 2:1:** Too close to call, evidence insufficient
-
-**Examples from case studies:**
-
-| Mystery | Winner | Score | Next Best | Score | Ratio |
-|---------|--------|-------|-----------|-------|-------|
-| COVID Origin | Lab Leak | 100% | Natural | 0.75% | 133:1 |
-| JonBenét | Burke+Cover-up | 100% | Patsy Rage | 26% | 4:1* |
-| D.B. Cooper | Died | 95% | Survived | 1% | 95:1 |
-| MH370 | Pilot Suicide | 90% | Hijacking | 10% | 9:1 |
-| Tic Tac | Non-human | 60% | Secret Tech | 5% | 12:1 |
-
-*But 200:1 vs intruder theory
+**Example:**
+- Lab Leak: 100% vs Natural Origin: 0.75% = **133:1 for lab leak**
+- Burke+Cover-up: 100% vs Intruder: 0.5% = **200:1 for Burke**
 
 ---
 
-### STEP 7: Apply Bayesian Reasoning
+### STEP 7: State Confidence Honestly
 
-**Update probabilities based on evidence strength.**
+Scores show **relative strength**, not absolute truth.
 
-**Prior probability:** What we'd think before seeing evidence
-**Likelihood ratio:** How much more likely evidence is under one hypothesis vs another
-**Posterior probability:** Updated belief after seeing evidence
+**Report:**
+- Which hypothesis fits evidence best
+- By what margin
+- What uncertainties remain
+- What new evidence would change the conclusion
 
-**Formula:**
-
-```
-P(H|E) = P(E|H) × P(H) / P(E)
-
-Where:
-P(H|E) = Probability of hypothesis given evidence
-P(E|H) = Probability of evidence given hypothesis (from our predictions)
-P(H) = Prior probability of hypothesis
-P(E) = Total probability of evidence
-```
-
-**Simplified approach:**
-
-```
-Posterior Odds = Prior Odds × Likelihood Ratio
-
-Where Likelihood Ratio = P(E|H1) / P(E|H2)
-```
-
-**Practical example (JonBenét):**
-
-**Evidence:** Ransom note written on Patsy's notepad, 2.5 pages, $118k = John's bonus
-
-**P(Evidence | Intruder):**
-- Uses victim's notepad: 1%
-- Knows exact bonus: 0.1%
-- Writes 2.5 pages: 1%
-- Combined: ~0.00001 (1 in 100,000)
-
-**P(Evidence | Parent Cover-up):**
-- Uses own notepad: 99%
-- Knows own bonus: 100%
-- Long note (staging): 30%
-- Combined: ~0.3 (30%)
-
-**Likelihood Ratio:** 0.3 / 0.00001 = 30,000:1 in favor of parent involvement
-
-**This ONE piece of evidence shifts probability by factor of 30,000.**
+**Don't claim:**
+- Absolute certainty (almost never achievable)
+- Future developments
+- Knowledge you don't have
 
 ---
 
-## Constraint Stacking
+## Worked Example
 
-### What Are Constraints?
+### Belgian UFO Wave (Extraordinary Craft Hypothesis)
 
-**Constraint:** An observable fact that a true hypothesis MUST explain.
+**Predictions:**
 
-**Hard constraint:** Cannot be violated (physical laws, logical necessities)
-**Soft constraint:** Can be violated but at cost to hypothesis (statistical patterns, typical behaviors)
+1. Radar tracked real objects → **CRITICAL FAIL** (tracked F-16s tracking each other)
+2. Visual confirmation by pilots → **CRITICAL FAIL** (pilots saw nothing during radar locks)
+3. Photos/videos exist → **CRITICAL FAIL** (one hoax photo only, admitted 2011)
+4. Contemporary media footage → **MAJOR FAIL** (essentially none found online)
+5. Reports on sighting date → **CRITICAL FAIL** (zero on date, 143 after publicity)
 
-### The Power of Multiple Constraints
+**Scoring:**
+- Total predictions: 5
+- Confirmed: 0
+- Critical failures: 4
+- Major failures: 1
 
-**Key insight:** Multiple independent constraints multiply against false hypotheses.
+Success Rate: 0/5 = 0%
+Severity Penalty: (0.3 + 2.4)/5 = 54%
+Overall Fit: 0% × (1 - 0.54) = **0%**
 
-**Example (Belgian UFO Wave):**
+**Result:** Hypothesis essentially disproven. Multiple critical failures.
 
-**CONSTRAINT 1:** Radar performance data
-- Reality: Radar locked on F-16s tracking each other
-- **FAILED:** Foundation evidence collapses
+---
 
-**CONSTRAINT 2:** Visual confirmation
-- Reality: Pilots saw nothing during radar locks
-- **FAILED:** No visual confirmation of claimed performance
+## Why This Works
 
-**CONSTRAINT 3:** Photographic evidence
-- Reality: ONE photo (admitted hoax in 2011), no video found
-- **FAILED:** Missing expected documentation
+**Foundation: Karl Popper's falsificationism**
+- Theories can't be proven true
+- Theories CAN be proven false
+- Science advances by elimination
+- Strong theories make risky predictions
 
-**CONSTRAINT 4:** Media coverage
-- Reality: Essentially no contemporary footage online
-- **FAILED:** Coverage claims unsupported
+**Application:**
+- Good hypotheses make risky predictions
+- Failed predictions eliminate hypotheses
+- Surviving hypotheses are stronger
+- Not "proved true" but "not yet proven false"
 
-**CONSTRAINT 5:** Report timing
-- Reality: ZERO reports on date, 143 over next 2 weeks after media solicitation
-- **FAILED:** Reports followed publicity, not sightings
-
-**Result:** Each failed constraint weakens hypothesis. Multiple failures compound. Five critical failures = case collapses.
-
-### How to Stack Constraints
-
-**1. Identify independent observables:**
-- Don't just list "evidence" 
-- List distinct types of evidence that test different aspects
-- Ensure they're truly independent
-
-**2. For each constraint, ask:**
-- What does Hypothesis A predict?
-- What does Hypothesis B predict?
-- What do we actually observe?
-- Which hypothesis does observation support?
-
-**3. Build the stack:**
-- Start with strongest, clearest constraints
-- Add progressively weaker ones
-- Note when constraints align (supporting same conclusion)
-- Note when constraints conflict (evidence is genuinely ambiguous)
-
-**4. Check for:**
-- **Convergence:** Do multiple independent constraints point same direction?
-- **Contradiction:** Do constraints point different directions?
-- **Gaps:** Are there untested aspects?
-
-**Example (COVID Origin):**
-
-**6 Major Constraints:**
-
-1. **Animal Reservoir:** Lab leak predicts none found. Natural predicts found quickly.
-   - **Observation:** None found in 5 years, 80,000 animals tested
-   - **Points to:** Lab leak
-
-2. **Furin Cleavage Site:** Lab leak predicts engineered feature. Natural predicts found in relatives.
-   - **Observation:** Never seen in 3,000+ related viruses
-   - **Points to:** Lab leak
-
-3. **Geographic Proximity:** Lab leak predicts outbreak near WIV. Natural predicts near wildlife reservoir.
-   - **Observation:** 8 miles from WIV, 1,000 miles from closest related virus
-   - **Points to:** Lab leak
-
-4. **Immediate Optimization:** Lab leak predicts ready for humans. Natural predicts adaptation period.
-   - **Observation:** Immediately optimized, no intermediates
-   - **Points to:** Lab leak
-
-5. **Chinese Government Behavior:** Lab leak predicts cover-up. Natural predicts transparency.
-   - **Observation:** Evidence destroyed, investigation blocked, scientists pressured
-   - **Points to:** Lab leak
-
-6. **WIV Capabilities:** Lab leak predicts relevant research. Natural predicts irrelevant.
-   - **Observation:** GOF research, right viruses, safety concerns, database offline, researchers hospitalized
-   - **Points to:** Lab leak
-
-**All 6 constraints align → Overwhelming case for lab leak**
+**The framework systematizes this** with:
+- Forced prediction before checking
+- Rigorous counting (no cherry-picking)
+- Severity weighting (not all failures equal)
+- Numerical comparison (objective ranking)
 
 ---
 
 ## Common Pitfalls
 
-### Pitfall 1: Cherry-Picking Evidence
+### 1. Cherry-Picking Evidence
 
 **What it looks like:**
 - Only listing predictions that pass
 - Ignoring failed predictions
+- Dismissing failures as "not important"
 
 **How to avoid:**
 - Generate ALL predictions before checking any
 - Force yourself to list predictions you know will fail
-- Check: "What would disprove this hypothesis?"
+- Assign severity ratings BEFORE checking evidence
 
-### Pitfall 2: Vague Predictions
+### 2. Vague Predictions
 
 **What it looks like:**
 - "Something unusual might occur"
 - "It's possible that..."
+- Predictions that can't fail
 
 **How to avoid:**
 - Force specificity: What exactly? Where? When? How much?
-- Quantify when possible
-- Make falsifiable
+- Make falsifiable predictions
+- If it can't be wrong, it doesn't help
 
-### Pitfall 3: Moving Goalposts
+### 3. Moving Goalposts
 
 **What it looks like:**
 - Prediction fails → "Well, that's not really essential"
-- Adding new hypotheses to explain away failures
+- Adding new hypotheses to explain failures
+- Redefining what counts as success
 
 **How to avoid:**
 - Write down predictions BEFORE checking
-- Commit to severity ratings upfront
+- Lock in severity ratings upfront
 - If you revise hypothesis, restart from Step 2
 
-### Pitfall 4: Unfalsifiable Hypotheses
+### 4. Unfalsifiable Hypotheses
 
 **What it looks like:**
 - "Aliens are too advanced to detect"
 - "Absence of evidence isn't evidence of absence"
+- Can't specify what would prove it wrong
 
 **How to avoid:**
 - Ask: "What observation would prove this wrong?"
 - If answer is "nothing," it's unfalsifiable
 - Unfalsifiable = untestable = not useful
 
-### Pitfall 5: False Precision
+### 5. False Precision
 
 **What it looks like:**
 - "Hypothesis is 73.4% likely to be true"
 - Over-relying on exact percentages
+- Treating scores as absolute truth
 
 **How to avoid:**
-- Use scores for COMPARISON, not absolute truth
+- Use scores for COMPARISON, not certainty claims
 - Round to confidence brackets
 - Acknowledge uncertainty
-
-### Pitfall 6: Ignoring Priors
-
-**What it looks like:**
-- Treating all hypotheses as equally likely before evidence
-- Starting with 50/50 odds regardless of plausibility
-
-**How to avoid:**
-- Consider base rates
-- Use Bayesian priors
-- Adjust evidence strength by prior probability
+- Scores show relative strength only
 
 ---
 
-## When the Framework Works vs. Doesn't Work
+## When the Framework Works vs. Doesn't
 
-### Framework Works Best When:
+### Works Best When:
 
 ✓ Physical evidence exists
 ✓ Multiple independent witnesses
 ✓ Known comparison cases
-✓ Checkable predictions
+✓ Checkable predictions possible
 ✓ Multiple competing hypotheses
 
-### Framework Struggles When:
+### Struggles When:
 
 ✗ No physical evidence
 ✗ Single witness, no corroboration
@@ -467,74 +339,39 @@ Where Likelihood Ratio = P(E|H1) / P(E|H2)
 ✗ Future predictions
 ✗ Purely philosophical questions
 
----
-
-## Epistemological Foundations
-
-### Why This Works
-
-**Core insight from Karl Popper:**
-- Theories can't be proven true
-- Theories CAN be proven false
-- Science advances by elimination
-- Strong theories risk being wrong (make bold predictions)
-
-**Our application:**
-- Good hypotheses make risky predictions
-- Failed predictions eliminate hypotheses
-- Surviving hypotheses are stronger
-- Not "proved true" but "not yet proven false"
-
-### Connection to Bayesian Reasoning
-
-- Start with prior probabilities
-- Update based on evidence
-- Each piece of evidence has likelihood ratio
-- Posterior probability = prior × likelihood ratio
-- Framework systematizes this
-
-### Epistemic Humility
-
-**What we can know:**
-- Relative strength of hypotheses
-- Which predictions pass/fail
-- Confidence levels
-
-**What we can't know:**
-- Absolute certainty (almost never achievable)
-- Future developments
-- Evidence we don't have
-
 **The framework is honest about both.**
-
----
-
-## Next Steps
-
-**Learn the scoring system:**
-<p><a href="{{ '/scoring/' | relative_url }}">Detailed scoring guide →</a></p>
-
-**See it applied:**
-<p><a href="{{ '/mysteries/' | relative_url }}">Case studies →</a></p>
-
-**Understand when to use it:**
-<p><a href="{{ '/start/' | relative_url }}">Quick-start guide →</a></p>
 
 ---
 
 ## Core Principles (Memorize These)
 
-1. **Strong hypotheses predict everything observed, predict nothing not observed**
-2. **Generate predictions before checking evidence**
-3. **Count both successes and failures**
-4. **Weight severity of failures**
-5. **Compare hypotheses numerically**
-6. **Follow evidence over preference**
-7. **State confidence honestly**
-8. **Update when new evidence emerges**
+1. **Generate predictions before checking evidence**
+2. **Count both successes and failures**
+3. **Weight severity objectively**
+4. **Compare hypotheses numerically**
+5. **Follow evidence over preference**
+6. **State confidence honestly**
+7. **Update when new evidence emerges**
 
 ---
 
 ## The One-Sentence Summary
 
 **"What does this hypothesis predict, and does reality match?"**
+
+---
+
+## Next Steps
+
+**Learn the scoring details:**
+<p><a href="{{ '/scoring/' | relative_url }}">Detailed scoring guide →</a></p>
+
+**See it applied:**
+<p><a href="{{ '/mysteries/' | relative_url }}">Case studies →</a></p>
+
+**Know when to use it:**
+<p><a href="{{ '/start/' | relative_url }}">Quick-start guide →</a></p>
+
+---
+
+*The framework doesn't make you smarter. It makes your biases visible.*
