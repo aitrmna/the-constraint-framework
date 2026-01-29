@@ -10,368 +10,194 @@ permalink: /methodology/
 **True hypotheses constrain reality. False ones don't.**
 
 If something is TRUE:
-- It predicts what we observe
-- It doesn't predict what's absent
+- Predicts what we observe
+- Doesn't predict what's absent
 
 If something is FALSE:
-- It predicts things that aren't there, OR
-- It fails to predict things that are there
+- Predicts things that aren't there, OR
+- Fails to predict things that are
 
-**Reality kills false hypotheses.** The more predictions you make, the more opportunities for reality to expose falsehood.
-
----
-
-## The Operational Form
-
-Ask two questions about every hypothesis:
-
-1. **"What would we HAVE to see if this were true?"** → Check if present
-2. **"What would we NEVER see if this were true?"** → Check if absent
-
-If reality contradicts either answer, the hypothesis is damaged or eliminated.
-
-**This is falsifiability weaponized.**
+Reality kills false hypotheses. The more predictions, the more chances for reality to expose falsehood.
 
 ---
 
-## The 7-Step Process
+## The Process
 
-### STEP 1: Define the Mystery
+### 1. List Competing Hypotheses
 
-Identify the core observation requiring explanation.
-
-**Good examples:**
-- "What did Navy pilots observe on November 14, 2004?"
-- "Why did SARS-CoV-2 emerge in Wuhan in late 2019?"
-- "How did JonBenét Ramsey die and who is responsible?"
-
-**Key criterion:** Observable facts that can differentiate between explanations.
-
----
-
-### STEP 2: List All Serious Hypotheses
-
-**Include:**
-- Conventional wisdom
-- Minority expert opinions
-- Unpopular but logical possibilities
-- Your "preferred" answer (to test it fairly)
-
-**Exclude:**
-- Logically impossible explanations
-- Explanations making identical predictions (combine them)
-- Purely ad-hoc explanations with no predictive power
+All serious explanations for the phenomenon.
 
 **Example (JonBenét):**
-- H1: Stranger intruder
-- H2: Patsy rage killing
-- H3: John sexual abuse
-- H4: Failed kidnapping attempt
-- H5: Burke accident + parent cover-up
+- Stranger intruder
+- Parent rage killing  
+- Parent sexual abuse
+- Burke accident + cover-up
+- Failed kidnapping
 
----
+### 2. For Each Hypothesis: What Must Be True?
 
-### STEP 3: Generate Predictions for Each Hypothesis
+**Ask:**
+- "What would we HAVE to see if this were correct?"
+- "What would we NEVER see if this were correct?"
 
-**For each hypothesis, ask: "If this were true, what would we EXPECT to observe?"**
+**Example (Intruder hypothesis):**
+- MUST see: Signs of forced entry, unknown DNA, stranger behavior patterns
+- NEVER see: Ransom note on victim's notepad, amount matching father's bonus, hours-long staging
 
-**Prediction categories:**
-- Physical evidence: What materials? What absent? What patterns?
-- Witness behavior: How many? Consistency? Changes over time?
-- Timeline: What sequence? What timing? What correlations?
-- Comparative benchmarks: How does this compare to known similar cases?
-- Perpetrator behavior: What actions? What avoided? What capabilities needed?
-- Follow-up consequences: What happens next? What evidence emerges later?
+Make predictions **before** checking evidence. Otherwise you're rationalizing, not testing.
 
-**Rules for good predictions:**
-
-✓ **Specific:** "Ransom note written on materials from house" not "there might be a note"
-✓ **Checkable:** Can verify yes/no against evidence
-✓ **Risky:** If wrong, you can tell
-✓ **Non-circular:** Can't use the hypothesis to predict itself
-
-✗ **Avoid:**
-- Vague predictions ("something unusual might occur")
-- Unfalsifiable claims ("absence of evidence isn't evidence of absence")
-- Circular reasoning ("it's aliens because it's unexplained")
-
-**CRITICAL:** Generate predictions BEFORE checking evidence. This prevents post-hoc rationalization.
-
----
-
-### STEP 4: Check Predictions Against Reality
+### 3. Check Reality
 
 For each prediction:
 
-**PASS (✓):** Prediction confirmed
-- Evidence directly supports this prediction
-- Multiple independent sources confirm
-- No contradicting evidence
+**✓ PASS** — Evidence confirms
+**✗ FAIL** — Evidence contradicts
+**⚠️ UNCLEAR** — Insufficient data
 
-**FAIL (✗):** Prediction contradicted
-- Evidence directly contradicts prediction
-- Multiple sources show opposite
-- Contradiction is clear and unambiguous
+**Weight failures by severity:**
 
-**UNCLEAR (⚠️):** Insufficient evidence
-- No data available
-- Conflicting reports
-- Interpretation disputed
-
-**Classify failure severity:**
-
-**MINOR failure (-):** 10% penalty
-- Prediction was weak ("possibly" or "might")
-- Failure doesn't fundamentally undermine hypothesis
-- Other factors could explain
+**MINOR (-)** — "Might" predictions, 10% penalty
+- Doesn't fundamentally damage hypothesis
 - Example: "Might find fingerprints" → None found
 
-**MAJOR failure (--):** 30% penalty
-- Strong prediction that failed
-- Central to hypothesis but alternatives exist
-- Hard to explain away
+**MAJOR (--)** — Strong predictions, 30% penalty  
+- Central to hypothesis, hard to explain
 - Example: "Should find animal reservoir within year" → None after 5 years
 
-**CRITICAL failure (---):** 60% penalty
-- Prediction was absolute necessity
-- No alternative explanation
-- Failure essentially proves hypothesis false
-- Example: "Radar tracked actual objects" → Radar tracked F-16s tracking each other
+**CRITICAL (---)** — Absolute necessities, 60% penalty
+- No alternative explanation, proves it false
+- Example: "Radar tracked objects" → Radar tracked F-16s tracking each other
 
----
+### 4. Score and Compare
 
-### STEP 5: Score Each Hypothesis
-
-**Success Rate:**
+**Scoring:**
 ```
-Success Rate = Confirmed Predictions / Total Predictions
-```
-
-**Severity Penalty:**
-```
-Severity Penalty = (Minor × 0.1) + (Major × 0.3) + (Critical × 0.6)
-                   ─────────────────────────────────────────────────
-                                 Total Predictions
-```
-
-**Overall Fit:**
-```
+Success Rate = Passes / Total
+Severity Penalty = (Minor×0.1 + Major×0.3 + Critical×0.6) / Total  
 Overall Fit = Success Rate × (1 - Severity Penalty)
 ```
 
-**Interpretation:**
-- 90-100%: Overwhelming support
-- 70-89%: Strong support
-- 50-69%: Moderate support
-- 30-49%: Weak support
-- 10-29%: Very weak support
-- 0-9%: Essentially disproven
-
----
-
-### STEP 6: Compare Hypotheses
-
-**Advantage Ratio:**
+**Compare:**
 ```
-Advantage Ratio = Best Hypothesis Overall Fit / Next Best Overall Fit
+Advantage = Best Fit / Next Best Fit
 ```
 
 **Interpretation:**
-- **100:1+** — Alternative essentially impossible
-- **20:1 to 99:1** — Alternative highly improbable
-- **10:1 to 19:1** — Alternative unlikely
-- **5:1 to 9:1** — Alternative possible but less likely
-- **2:1 to 4:1** — Alternative remains plausible
-- **<2:1** — Too close to call
+- 100:1+ — Alternative essentially impossible
+- 20:1 to 99:1 — Alternative highly improbable  
+- 10:1 to 19:1 — Alternative unlikely
+- 5:1 to 9:1 — Alternative possible but less likely
+- 2:1 to 4:1 — Too close to call
 
 **Example:**
-- Lab Leak: 100% vs Natural Origin: 0.75% = **133:1 for lab leak**
-- Burke+Cover-up: 100% vs Intruder: 0.5% = **200:1 for Burke**
+- Burke scenario: 100% fit (zero failures)
+- Intruder: 0.5% fit (multiple critical failures)
+- Ratio: 200:1 for Burke
 
 ---
 
-### STEP 7: State Confidence Honestly
+## Worked Example: Belgian UFO Wave
 
-Scores show **relative strength**, not absolute truth.
-
-**Report:**
-- Which hypothesis fits evidence best
-- By what margin
-- What uncertainties remain
-- What new evidence would change the conclusion
-
-**Don't claim:**
-- Absolute certainty (almost never achievable)
-- Future developments
-- Knowledge you don't have
-
----
-
-## Worked Example
-
-### Belgian UFO Wave (Extraordinary Craft Hypothesis)
+**Claim:** Extraordinary craft observed over Belgium
 
 **Predictions:**
-
 1. Radar tracked real objects → **CRITICAL FAIL** (tracked F-16s tracking each other)
-2. Visual confirmation by pilots → **CRITICAL FAIL** (pilots saw nothing during radar locks)
-3. Photos/videos exist → **CRITICAL FAIL** (one hoax photo only, admitted 2011)
-4. Contemporary media footage → **MAJOR FAIL** (essentially none found online)
-5. Reports on sighting date → **CRITICAL FAIL** (zero on date, 143 after publicity)
+2. Pilots visually confirmed → **CRITICAL FAIL** (saw nothing during locks)
+3. Photos/video exist → **CRITICAL FAIL** (one hoax photo, no video)
+4. Contemporary media footage → **MAJOR FAIL** (none found online)
+5. Reports on date of sightings → **CRITICAL FAIL** (zero on date, 143 after publicity)
 
-**Scoring:**
-- Total predictions: 5
-- Confirmed: 0
+**Score:**
+- Passes: 0/5
 - Critical failures: 4
 - Major failures: 1
+- Overall fit: 0%
 
-Success Rate: 0/5 = 0%
-Severity Penalty: (0.3 + 2.4)/5 = 54%
-Overall Fit: 0% × (1 - 0.54) = **0%**
-
-**Result:** Hypothesis essentially disproven. Multiple critical failures.
+**Result:** Hypothesis eliminated. Multiple critical failures.
 
 ---
 
 ## Why This Works
 
-**Foundation: Karl Popper's falsificationism**
-- Theories can't be proven true
-- Theories CAN be proven false
+**Foundation:** Karl Popper's falsification
+
+- Theories can be proven false
+- Can't be proven absolutely true
 - Science advances by elimination
-- Strong theories make risky predictions
+- Strong theories make risky predictions that could fail
 
-**Application:**
-- Good hypotheses make risky predictions
-- Failed predictions eliminate hypotheses
-- Surviving hypotheses are stronger
-- Not "proved true" but "not yet proven false"
+**This framework:**
+- Forces risky predictions (before checking)
+- Counts failures honestly (no cherry-picking)
+- Weights severity (critical vs minor)
+- Compares numerically (objective)
 
-**The framework systematizes this** with:
-- Forced prediction before checking
-- Rigorous counting (no cherry-picking)
-- Severity weighting (not all failures equal)
-- Numerical comparison (objective ranking)
+True hypotheses survive contact with reality. False ones don't.
 
 ---
 
-## Common Pitfalls
+## Common Mistakes
 
-### 1. Cherry-Picking Evidence
+**1. Checking evidence first**
+- Generates post-hoc predictions
+- Always seems to confirm your hunch
+- Solution: Write predictions, lock them in, THEN check
 
-**What it looks like:**
-- Only listing predictions that pass
-- Ignoring failed predictions
-- Dismissing failures as "not important"
+**2. Vague predictions**
+- "Something unusual might happen"
+- Can't fail = doesn't help
+- Solution: Force specificity. What exactly? Where? When?
 
-**How to avoid:**
-- Generate ALL predictions before checking any
-- Force yourself to list predictions you know will fail
-- Assign severity ratings BEFORE checking evidence
+**3. Ignoring failures**
+- "That failure doesn't really count because..."
+- Moving goalposts after the fact
+- Solution: Assign severity BEFORE checking. No revising.
 
-### 2. Vague Predictions
-
-**What it looks like:**
-- "Something unusual might occur"
-- "It's possible that..."
-- Predictions that can't fail
-
-**How to avoid:**
-- Force specificity: What exactly? Where? When? How much?
-- Make falsifiable predictions
-- If it can't be wrong, it doesn't help
-
-### 3. Moving Goalposts
-
-**What it looks like:**
-- Prediction fails → "Well, that's not really essential"
-- Adding new hypotheses to explain failures
-- Redefining what counts as success
-
-**How to avoid:**
-- Write down predictions BEFORE checking
-- Lock in severity ratings upfront
-- If you revise hypothesis, restart from Step 2
-
-### 4. Unfalsifiable Hypotheses
-
-**What it looks like:**
-- "Aliens are too advanced to detect"
+**4. Unfalsifiable claims**
+- "Too advanced to detect"
 - "Absence of evidence isn't evidence of absence"
-- Can't specify what would prove it wrong
+- Solution: If nothing could prove it wrong, it's not testable
 
-**How to avoid:**
-- Ask: "What observation would prove this wrong?"
-- If answer is "nothing," it's unfalsifiable
-- Unfalsifiable = untestable = not useful
-
-### 5. False Precision
-
-**What it looks like:**
-- "Hypothesis is 73.4% likely to be true"
-- Over-relying on exact percentages
-- Treating scores as absolute truth
-
-**How to avoid:**
-- Use scores for COMPARISON, not certainty claims
-- Round to confidence brackets
-- Acknowledge uncertainty
-- Scores show relative strength only
+**5. Treating scores as truth**
+- "85% means it's true"
+- False precision
+- Solution: Scores show relative strength only, not certainty
 
 ---
 
-## When the Framework Works vs. Doesn't
+## When It Works
 
-### Works Best When:
+**Best:**
+- Physical evidence
+- Multiple witnesses
+- Checkable predictions
+- Known comparison cases
 
-✓ Physical evidence exists
-✓ Multiple independent witnesses
-✓ Known comparison cases
-✓ Checkable predictions possible
-✓ Multiple competing hypotheses
-
-### Struggles When:
-
-✗ No physical evidence
-✗ Single witness, no corroboration
-✗ Evidence destroyed or lost
-✗ Unfalsifiable hypotheses
-✗ Future predictions
-✗ Purely philosophical questions
-
-**The framework is honest about both.**
+**Struggles:**
+- No evidence
+- Single witness
+- Evidence destroyed
+- Unfalsifiable claims
+- Pure philosophy
 
 ---
 
-## Core Principles (Memorize These)
+## Core Principles
 
-1. **Generate predictions before checking evidence**
-2. **Count both successes and failures**
-3. **Weight severity objectively**
-4. **Compare hypotheses numerically**
-5. **Follow evidence over preference**
-6. **State confidence honestly**
-7. **Update when new evidence emerges**
+1. Predictions before evidence
+2. Count failures honestly
+3. Weight severity objectively
+4. Compare numerically
+5. Follow evidence over preference
 
 ---
 
-## The One-Sentence Summary
+## The One Line
 
-**"What does this hypothesis predict, and does reality match?"**
+**"What does this predict? Does reality match?"**
 
 ---
 
-## Next Steps
-
-**Learn the scoring details:**
-<p><a href="{{ '/scoring/' | relative_url }}">Detailed scoring guide →</a></p>
-
-**See it applied:**
+<p><a href="{{ '/scoring/' | relative_url }}">Scoring details →</a></p>
 <p><a href="{{ '/mysteries/' | relative_url }}">Case studies →</a></p>
-
-**Know when to use it:**
-<p><a href="{{ '/start/' | relative_url }}">Quick-start guide →</a></p>
-
----
-
-*The framework doesn't make you smarter. It makes your biases visible.*
+<p><a href="{{ '/start/' | relative_url }}">When to use this →</a></p>
