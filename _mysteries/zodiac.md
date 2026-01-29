@@ -1,200 +1,150 @@
 ---
 layout: mystery
-title: The Zodiac Killer
+title: Zodiac Killer
 subtitle: San Francisco Bay Area, 1968-1969
-description: Five confirmed kills, four encrypted letters, never caught.
-result: Cannot eliminate — multiple suspects remain viable
+description: Five confirmed kills, encrypted letters, never caught
+result: Insufficient evidence - multiple suspects, none confirmed
 category: historical
 ---
 
-1968-1969. San Francisco Bay Area. A killer murdered at least five people, sent taunting letters to newspapers, and included cryptograms. He called himself "Zodiac."
+1968-1969. San Francisco Bay Area. A killer murdered at least five people, sent taunting letters with cryptograms to newspapers. Called himself "Zodiac."
 
-He was never caught. He may still be alive.
+Never caught. 55+ years. Still unsolved.
 
----
-
-## CONSTRAINT STACKING ANALYSIS
-
-**CLAIM:** Who was the Zodiac Killer?
-
-**STARTING SOLUTION SPACE:**
-- Arthur Leigh Allen (most investigated suspect)
-- Gary Francis Poste (2021 claim)
-- Lawrence Kane
-- Richard Gaikowski
-- Other named suspects
-- Unknown person never identified
+**The test:** Can we eliminate any suspects? Does evidence converge?
 
 ---
 
-### CONSTRAINT 1 (MOST DAMNING): No DNA/Fingerprint Match to Any Suspect
+## The Problem
 
-**Evidence:**
-- DNA extracted from letter stamps (partial, possibly contaminated)
-- Fingerprints from crime scenes
-- None have matched any named suspect definitively
-- Arthur Leigh Allen: DNA tested — no match
-- Gary Francis Poste: 2021 claim, no DNA confirmation released
+**Unlike most mysteries, Zodiac evidence doesn't eliminate alternatives.**
 
-**What this means:** Despite extensive investigation, physical evidence hasn't identified the killer.
+Physical evidence (DNA, fingerprints) exists but:
+- Matches no named suspect
+- May be contaminated/degraded
+- Could be from wrong person (letter handler, not killer)
 
-**For any specific suspect:**
-- Must explain why DNA/prints don't match
-
-**Assessment:** Either the physical evidence is too degraded, contaminated, or the real killer hasn't been tested
-
-**ELIMINATES:**
-- Nothing definitively — but casts doubt on all named suspects
+Circumstantial evidence points to multiple suspects but confirms none.
 
 ---
 
-### CONSTRAINT 2: Witness Descriptions — Inconsistent
+## Top Suspects
 
-**Evidence:**
-- Surviving victim (Bryan Hartnell) at Lake Berryessa: Described man in executioner-style hood
-- Stine murder witnesses (teenagers): Saw man leaving cab, produced composite sketch
-- Composite shows: White male, heavy-set, glasses, crew cut
-- Description partially matches Allen, partially matches others
-
-**What this means:** Witness accounts exist but aren't precise enough to eliminate suspects.
-
-**For Allen:**
-- Friends noted resemblance to composite
-- Similar build and appearance
-
-**Against Allen:**
-- Witnesses later couldn't pick him from lineup (but decades had passed)
-
-**Assessment:** Witness descriptions narrow but don't identify
-
-**ELIMINATES:**
-- Anyone who drastically differs from composite
+1. **Arthur Leigh Allen** (died 1992) - Most investigated
+2. **Gary Francis Poste** (died 2018) - 2021 claim by "Case Breakers"
+3. **Unknown person** never identified
 
 ---
 
-### CONSTRAINT 3: The Ciphers — What They Tell Us
+## Testing Arthur Leigh Allen
 
-**Evidence:**
-- Four ciphers sent to newspapers
-- Z408: Cracked in 1969 by amateur codebreakers. Message about killing being fun. No identification.
-- Z340: Cracked in 2020 after 51 years. Message about collecting "slaves" for afterlife. No identification.
-- Z13 and Z32: Still unsolved (short, may be meaningless or names)
+**What would confirm him:**
+- DNA/fingerprint match
+- Definitive handwriting match
+- Confession or witness testimony
 
-**What this means:** Zodiac was literate, interested in puzzles, had morbid philosophy. Ciphers haven't identified him.
+**Reality check:**
 
-**For investigation:**
-- Cipher content doesn't name the killer
-- Style doesn't uniquely match any suspect's known writings
+**DNA matches?** → ✗ FAIL
+- DNA from letter stamps tested
+- No match to Allen
 
-**ELIMINATES:**
-- Nothing — ciphers are clues about personality, not identity
+**Fingerprints match?** → ✗ FAIL
+- Prints from crime scenes tested
+- No match to Allen
 
----
+**Handwriting matches?** → ⚠️ UNCLEAR
+- Experts inconclusive or excluded
+- Not definitive either way
 
-### CONSTRAINT 4: Arthur Leigh Allen — The Primary Suspect
+**Circumstantial evidence:**
+- Owned Zodiac-brand watch → ✓ (Zodiac referenced in letters)
+- Friend reported Allen said he wanted to kill and call himself Zodiac → ✓ (before murders)
+- Lived near Lake Berryessa → ✓
+- Wore Wing Walker boots → ✓ (matching print at scene)
+- Resembled composite sketch → ⚠️ (witnesses couldn't pick from lineup decades later)
 
-**Evidence FOR Allen:**
-- Owned Zodiac-brand watch (Zodiac referenced in letters)
-- Friend reported Allen said he wanted to kill people and call himself Zodiac (before murders)
-- Lived near Lake Berryessa
-- Wore Wing Walker boots (matching print at Berryessa scene)
-- Was reported to police by multiple people independently
+**Score:** Strong circumstantial case. Physical evidence doesn't confirm.
 
-**Evidence AGAINST Allen:**
-- DNA from stamps doesn't match (could be contaminated, could be someone else licked stamps)
-- Fingerprints don't match
-- Handwriting experts: Inconclusive/excluded
-- Was interviewed repeatedly — never confessed, passed polygraph (unreliable)
-- Died 1992, never charged
-
-**Assessment:** Strongest circumstantial suspect. Physical evidence doesn't confirm. Cannot eliminate.
+**Result:** Cannot eliminate, cannot confirm.
 
 ---
 
-### CONSTRAINT 5: Gary Francis Poste — The 2021 Claim
+## Testing Gary Francis Poste
 
-**Evidence FOR Poste:**
-- "Case Breakers" group claimed match in 2021
-- Claimed scars on forehead match composite sketch lines
-- Claimed anagram of name in Z340 cipher
-- Poste died 2018
+**"Case Breakers" 2021 claim:**
+- Forehead scars match composite sketch
+- Anagram of name in Z340 cipher
+- Other circumstantial links
 
-**Evidence AGAINST Poste:**
-- FBI and local agencies did not confirm
+**Reality check:**
+
+**FBI/authorities confirm?** → ✗ CRITICAL FAIL
+- FBI didn't confirm claim
+- Local agencies didn't confirm
+- Not official conclusion
+
+**DNA confirmed?** → ✗ FAIL
 - No DNA match announced
-- "Forehead scar" evidence disputed
-- Anagram claims are easy to manufacture
+- If matched, would have been headline
 
-**Assessment:** Claim not substantiated by authorities. Cannot confirm or eliminate definitively.
+**Forehead scars?** → ⚠️ UNCLEAR
+- Disputed by others
+- Composite sketch interpretation subjective
 
----
+**Anagram?** → ⚠️ UNCLEAR
+- Easy to find patterns in text
+- No independent verification
 
-### CONSTRAINT 6: The Killings Stopped
+**Score:** Unsubstantiated claim by private group.
 
-**Evidence:**
-- Last confirmed Zodiac murder: October 1969 (Paul Stine)
-- Last confirmed letter: January 1974
-- Possible reasons for stopping:
-  - Died
-  - Imprisoned for other crime
-  - Moved away
-  - Simply stopped
-
-**What this means:** Something caused the Zodiac to cease activity.
-
-**For Allen:**
-- Arrested for child molestation in 1974 — timing fits
-- But murders stopped in 1969, letters continued until 1974
-
-**For other suspects:**
-- Need to explain 1969 stop or show they could continue letters from elsewhere
-
-**Assessment:** Timing doesn't eliminate any top suspect
+**Result:** Cannot eliminate, cannot confirm. Weaker case than Allen.
 
 ---
 
-### CONSTRAINT 7: Multiple Victims Survived Attacks
+## Why This Case Won't Resolve
 
-**Evidence:**
-- Bryan Hartnell: Survived Lake Berryessa stabbing
-- Mike Mageau: Survived Blue Rock Springs shooting
-- Both provided descriptions
+**Physical evidence exists but:**
+- DNA may be contaminated (envelope licker might not be killer)
+- Fingerprints may be from innocent handlers
+- 50+ years of degradation
 
-**What this means:** Unlike many serial killers, Zodiac didn't ensure kills. Either overconfident or not as competent as projected.
+**Circumstantial evidence points to Allen but:**
+- Physical evidence doesn't match
+- Never confessed
+- Passed polygraph (unreliable but worth noting)
+- Died 1992
 
-**Assessment:** Personality insight but doesn't identify
-
----
-
-## THE PROBLEM: CONSTRAINTS DON'T CONVERGE
-
-Unlike cases where one suspect survives and others are eliminated, the Zodiac case has:
-- Physical evidence that excludes top suspects (but may be unreliable)
-- Circumstantial evidence pointing to Allen (but not conclusive)
-- No confession, no definitive proof
-- Case officially open
+**The constraints don't converge.**
 
 ---
 
-## RESULT
+## Comparison
 
-| Hypothesis | Status |
-|------------|--------|
-| Arthur Leigh Allen | **Cannot eliminate** — strongest circumstantial case, DNA mismatch unexplained |
-| Gary Francis Poste | **Cannot eliminate** — claim unverified but not disproven |
-| Lawrence Kane | **Cannot eliminate** — some circumstantial links |
-| Unknown person | **Cannot eliminate** — physical evidence matches no one tested |
+| Suspect | Circumstantial | Physical Evidence | Status |
+|---------|---------------|-------------------|--------|
+| Arthur Leigh Allen | Strong | Doesn't match | Cannot eliminate or confirm |
+| Gary Francis Poste | Weak | Not tested | Cannot confirm claim |
+| Unknown person | N/A | Matches no one | Possible |
 
 ---
 
 ## What This Means
 
-We are not saying "the Zodiac Killer was Arthur Leigh Allen" or anyone else.
+**Some mysteries don't resolve.**
 
-We are saying: "Multiple suspects have circumstantial evidence. No suspect has been confirmed by physical evidence. The constraints narrow the field but don't identify the killer. Either the physical evidence is flawed, or the real killer was never seriously investigated."
+The evidence narrows the field but doesn't identify the killer. Either:
+- Physical evidence is flawed/contaminated
+- Real killer never seriously investigated
+- Killer is one of named suspects but evidence insufficient
 
-55+ years. Still unsolved.
+**Zodiac case shows framework's limits:** When evidence is insufficient or contradictory, you get "cannot eliminate multiple hypotheses."
 
-**Some mysteries don't resolve because the evidence is insufficient to converge.** The Zodiac case may never be solved unless new evidence emerges or someone confesses.
+That's the honest answer.
 
-This is what genuine investigative uncertainty looks like.
+---
+
+**Status:** Officially unsolved
+**Strongest suspect:** Arthur Leigh Allen (circumstantial only)
+**Confidence:** Low (insufficient evidence to conclude)
+**Resolution:** May never happen unless new evidence emerges

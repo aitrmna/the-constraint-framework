@@ -1,192 +1,210 @@
 ---
 layout: mystery
-title: The Mary Celeste
-subtitle: A ship found sailing with no one aboard
-description: December 1872. Crew vanished. Cargo intact. No signs of struggle.
-result: Cannot eliminate — crew abandoned ship (reason uncertain)
+title: Mary Celeste
+subtitle: December 1872, Atlantic Ocean
+description: Ship found sailing. No crew aboard. Lifeboat gone.
+result: Abandoned due to perceived danger - only hypothesis without failures
 category: historical
 ---
 
-December 4, 1872. The brigantine Dei Gratia spotted the Mary Celeste drifting in the Atlantic, about 400 miles east of the Azores. The ship was seaworthy, sails partially set, cargo intact.
+December 4, 1872. The Dei Gratia found the Mary Celeste drifting 400 miles east of the Azores. The ship was seaworthy, cargo intact.
 
-No one was aboard. The lifeboat was gone. The crew of ten — including Captain Briggs, his wife, and two-year-old daughter — were never seen again.
+No crew. Captain Briggs, his wife, two-year-old daughter, and seven crew members vanished. Lifeboat gone.
 
----
-
-## CONSTRAINT STACKING ANALYSIS
-
-**CLAIM:** What happened to the crew of the Mary Celeste?
-
-**STARTING SOLUTION SPACE:**
-- Piracy
-- Mutiny
-- Murder by Dei Gratia crew (insurance fraud)
-- Waterspout / rogue wave swept them overboard
-- Alcohol fumes explosion fear
-- Seaquake
-- Supernatural/unknown
+**The test:** What must be true for each explanation? Does reality match?
 
 ---
 
-### CONSTRAINT 1 (MOST DAMNING): The Lifeboat Was Gone
+## Competing Hypotheses
 
-**Evidence:**
-- Ship's yawl (lifeboat) was missing
-- Launching a lifeboat is deliberate — takes time and effort
-- Rope trailing from ship (possibly used to tow lifeboat)
-
-**What this means:** The crew chose to leave. They weren't swept overboard or taken. They got in the lifeboat intentionally.
-
-**ELIMINATES:**
-- ❌ Swept overboard by wave/waterspout (lifeboat wouldn't also be gone)
-- ❌ Instantaneous catastrophe (they had time to launch boat)
-- ❌ Supernatural vanishing (they left by normal means)
-
-**Remaining:** Piracy, mutiny, fraud, deliberate abandonment for perceived danger
+1. Piracy
+2. Mutiny
+3. Murder/fraud by Dei Gratia crew
+4. Waterspout swept them overboard
+5. Crew abandoned ship due to perceived danger
 
 ---
 
-### CONSTRAINT 2: Cargo and Valuables Intact
+## H1: Piracy
 
-**Evidence:**
-- 1,701 barrels of commercial alcohol — untouched
-- Captain's chest with money — present
-- Crew's personal belongings — present
-- No cargo missing
-- Ship was valuable and seaworthy
+**What must be true:**
+- Pirates would take cargo
+- Money and valuables stolen
+- Ship likely damaged or scuttled
 
-**What this means:** Whoever left wasn't motivated by theft.
+**Reality check:**
 
-**ELIMINATES:**
-- ❌ Piracy (pirates take cargo and valuables)
-- ❌ Mutiny for profit (mutineers would take money/goods)
+**Cargo taken?** → ✗ CRITICAL FAIL
+- 1,701 barrels of alcohol untouched
+- Ship was valuable - not scuttled
+- Pirates take cargo - this is the point
 
-**Remaining:** Fraud, abandonment for perceived danger
+**Money stolen?** → ✗ CRITICAL FAIL
+- Captain's chest with money present
+- Crew personal belongings present
+
+**Score:** 0/2 passes, 2 critical fails
+**Result:** Dead. Pirates don't leave cargo and money.
 
 ---
 
-### CONSTRAINT 3: No Signs of Violence
+## H2: Mutiny
 
-**Evidence:**
-- No blood found (later claims of blood were debunked)
-- No damage from weapons
+**What must be true:**
+- Mutineers would take money/goods
+- Evidence of violence
+- Mutiny motivated by profit or grievance
+
+**Reality check:**
+
+**Would take valuables?** → ✗ CRITICAL FAIL
+- Money left behind
+- Cargo left behind
+- No profit motive served
+
+**Evidence of violence?** → ✗ CRITICAL FAIL
+- No blood (later claims debunked)
+- No weapon damage
 - No signs of struggle
-- Ship structurally sound
 
-**What this means:** Nobody was killed aboard.
-
-**ELIMINATES:**
-- ❌ Murder by Dei Gratia crew (no evidence of violence)
-- ❌ Violent mutiny (no struggle)
-
-**Remaining:** Deliberate abandonment for perceived danger
+**Score:** 0/2 passes, 2 critical fails
+**Result:** Dead. No violence, no theft.
 
 ---
 
-### CONSTRAINT 4: Ship Was Seaworthy
+## H3: Murder/Fraud by Dei Gratia
 
-**Evidence:**
-- Dei Gratia crew sailed Mary Celeste to Gibraltar — no major problems
-- Some water in hold (3.5 feet) but pumps operational
-- Hull intact
-- Sails damaged but functional
+**What must be true:**
+- Signs of violence
+- Suspicion from investigation
+- Financial motive
 
-**What this means:** Whatever the crew feared, it wasn't the ship sinking immediately. They abandoned a functional vessel.
+**Reality check:**
 
-**For abandonment to make sense:**
-- They perceived imminent danger that turned out to be wrong, OR
-- They planned to stay attached by rope and something went wrong
+**Signs of violence?** → ✗ CRITICAL FAIL
+- No blood found
+- No struggle
+- Ship intact
 
-**Remaining:** Perceived danger causing premature abandonment
-
----
-
-### CONSTRAINT 5: The Alcohol Cargo
-
-**Evidence:**
-- 1,701 barrels of commercial alcohol
-- Nine barrels later found empty
-- Alcohol expands with temperature changes, can release fumes
-- Fumes in enclosed hold could seem explosive
-- No actual explosion occurred
-
-**The theory:**
-- Temperature changes caused alcohol to off-gas
-- Captain opened hatch, saw/smelled fumes
-- Feared imminent explosion
-- Ordered crew into lifeboat, tied rope to ship to wait at safe distance
-- Rope broke or lifeboat swamped
-- Ship sailed on without them
-
-**Assessment:**
-- Explains why they'd abandon seaworthy ship
-- Explains why they'd take lifeboat but stay near
-- Explains why they were never found (open ocean in small boat = death)
-- Nine empty barrels suggests pressure release did occur
-
-**Remaining:** This is most consistent explanation
-
----
-
-### CONSTRAINT 6: The Trailing Rope
-
-**Evidence:**
-- A rope or line was found trailing behind the ship
-- Consistent with lifeboat being towed
-- If rope broke, lifeboat would drift away quickly
-- Ship under partial sail would outpace small boat
-
-**What this means:** They probably didn't intend permanent abandonment. They meant to wait at safe distance. Something went wrong.
-
----
-
-### CONSTRAINT 7: Court of Inquiry
-
-**Evidence:**
-- Vice-Admiralty Court in Gibraltar investigated
-- Considered fraud and foul play — rejected
+**Investigation suspicious?** → ✗ FAIL
+- Vice-Admiralty Court investigated thoroughly
+- Considered fraud - rejected
 - No charges filed
-- Dei Gratia crew received salvage payment (reduced, due to suspicions)
+- Dei Gratia crew paid salvage (reduced due to suspicions, but paid)
 
-**What this means:** Official investigation found no evidence of crime.
-
-**ELIMINATES:**
-- ❌ Insurance fraud conspiracy (officially investigated and rejected)
+**Score:** 0/2 passes, 1 critical + 1 fail
+**Result:** Dead. Investigated and rejected.
 
 ---
 
-## ANOMALIES
+## H4: Waterspout Swept Them Overboard
 
-**"Why would an experienced captain abandon ship for fumes?"**
-→ Commercial alcohol (denatured) can produce alarming fumes. A cautious captain with his wife and baby aboard might prioritize evacuation over risk assessment. The fumes were real; the explosion risk was overestimated.
+**What must be true:**
+- Instant event (no time to launch boat)
+- Lifeboat still aboard
+- Damage from wave/spout
 
-**"Why wasn't the lifeboat found?"**
-→ Open Atlantic in December. Small boat. No one searching in the right area quickly enough. They almost certainly died at sea within days.
+**Reality check:**
 
-**"Why the enduring mystery?"**
-→ Early sensationalized accounts (including fiction by Arthur Conan Doyle) created mythology. The actual facts point to a straightforward tragedy.
+**Instant event?** → ✗ CRITICAL FAIL
+- Lifeboat was gone
+- Launching lifeboat takes time and effort
+- They chose to leave
 
-All anomalies fit within remaining solution space.
+**Lifeboat aboard?** → ✗ CRITICAL FAIL
+- Ship's yawl (lifeboat) missing
+- Rope trailing from ship (possibly towing lifeboat)
+- Deliberate launch, not swept away
 
----
-
-## RESULT
-
-| Hypothesis | Status |
-|------------|--------|
-| Piracy | ❌ Eliminated |
-| Mutiny | ❌ Eliminated |
-| Murder/fraud | ❌ Eliminated |
-| Waterspout | ❌ Eliminated |
-| Supernatural | ❌ Eliminated |
-| **Abandoned due to perceived explosion risk** | **Cannot eliminate** |
+**Score:** 0/2 passes, 2 critical fails
+**Result:** Dead. Lifeboat gone = deliberate departure.
 
 ---
 
-## What This Means
+## H5: Abandoned Due to Perceived Danger
 
-We are not saying "the crew definitely abandoned ship due to alcohol fumes."
+**What must be true:**
+- Deliberate launch of lifeboat
+- Ship functional but crew feared something
+- No theft (emergency evacuation)
+- Plausible danger source
+- Crew planned to wait nearby (explains rope)
+- Separation from ship fatal (explains no survivors)
 
-We are saying: "The crew deliberately took the lifeboat. Nothing was stolen. No one was killed. The ship was seaworthy. The cargo was volatile alcohol with evidence of off-gassing. The most consistent explanation is that Captain Briggs, with his family aboard, ordered abandonment due to perceived explosion risk, intended to wait at safe distance, and was lost when the connection to the ship failed."
+**Reality check:**
 
-Not a mystery. A tragedy of reasonable caution gone wrong.
+**Deliberate launch?** → ✓ PASS
+- Lifeboat missing
+- Takes time to launch
+- Intentional departure
+
+**Ship functional?** → ✓ PASS
+- Dei Gratia sailed it to Gibraltar successfully
+- 3.5 feet water in hold but pumps working
+- Hull intact, sails damaged but functional
+- They abandoned a seaworthy ship
+
+**No theft?** → ✓ PASS
+- Cargo intact
+- Money present
+- Personal belongings present
+- Emergency mindset, not criminal
+
+**Plausible danger?** → ✓ PASS
+- 1,701 barrels commercial alcohol aboard
+- Nine barrels found empty
+- Alcohol expands with temperature, releases fumes
+- Captain may have feared explosion
+- Fumes in enclosed hold can seem explosive
+- No actual explosion occurred (fear was wrong)
+
+**Planned to wait nearby?** → ✓ PASS
+- Trailing rope suggests towed lifeboat
+- Wouldn't permanently abandon valuable ship
+- Plan: wait at safe distance, return when safe
+
+**Fatal separation?** → ✓ PASS
+- Rope broke or lifeboat swamped
+- Ship under partial sail outpaced small boat
+- Open Atlantic in December
+- Small lifeboat = death within days
+- No search in right area fast enough
+
+**Score:** 6/6 passes
+Calculation: 100% × (1 - 0) = **100%**
+
+---
+
+## Comparison
+
+| Hypothesis | Score | Critical Failures |
+|-----------|-------|-------------------|
+| **Abandoned (perceived danger)** | **100%** | **0** |
+| Piracy | 0% | 2 |
+| Mutiny | 0% | 2 |
+| Murder/fraud | 0% | 1 |
+| Waterspout | 0% | 2 |
+
+**Winner:** Abandonment by elimination. Only hypothesis with zero failures.
+
+---
+
+## What Likely Happened
+
+1. Temperature changes caused alcohol to off-gas
+2. Captain opened hatch, saw/smelled alarming fumes
+3. With wife and baby aboard, prioritized caution
+4. Ordered crew into lifeboat
+5. Tied rope to ship, planned to wait at safe distance
+6. Rope broke or lifeboat swamped
+7. Ship sailed on under partial sail
+8. Crew died in open Atlantic in small boat
+
+**The explosion never happened. The caution was reasonable. The outcome was tragic.**
+
+---
+
+**Not a mystery. A tragedy of reasonable caution gone wrong.**
+
+**Confidence:** High (only explanation without critical failures)
+**Status:** Deliberate abandonment due to perceived (but incorrect) danger

@@ -1,287 +1,244 @@
 ---
 layout: mystery
-title: The Dyatlov Pass
-subtitle: Nine hikers dead. What actually happened?
-description: Ural Mountains, 1959. The most debated wilderness death.
-result: Cannot eliminate — natural causes (wind + avalanche)
+title: Dyatlov Pass
+subtitle: February 1959, Ural Mountains
+description: Nine hikers dead. 65 years of speculation. What survives?
+result: Natural causes (wind + avalanche) only hypothesis without failures
 category: historical
 ---
 
-February 1959. Nine experienced hikers died on Kholat Syakhl in the Ural Mountains. They cut their way out of their tent in the middle of the night, fled into -30°C temperatures without proper clothing, and scattered. Some had strange injuries. Soviet investigators concluded "compelling natural force."
+February 1959. Nine experienced hikers died on Kholat Syakhl in the Ural Mountains. They cut their way out of their tent at night, fled into -30°C without proper clothing, scattered. Some had severe internal injuries.
 
-For 65 years, people have proposed: secret military tests, Yeti, UFOs, infrasound-induced panic, murder.
+65 years of theories: military tests, Yeti, UFOs, infrasound, murder.
 
-What survives constraint stacking?
-
----
-
-## EVIDENCE CONVERGENCE ANALYSIS
-
-This case demonstrates how convergence analysis identifies **LOW-convergence mysteries that resolve to mundane explanations**.
-
-### Axioms Applied
-
-**⚠️ Boundary Conservation (WEAK)**
-- Crime scene had boundaries (tent area, footprints)
-- But boundaries were compromised: 3 weeks of weather, 65 years of time
-- Evidence density dissipated over time
-- Verdict: Boundaries existed but were porous
-
-**✓ Irreversibility (MODERATE)**
-- Footprints preserved in photos (permanent)
-- Tent cuts preserved (permanent)
-- Injuries documented in autopsy (permanent)
-- But: Many reversible traces lost (exact weather conditions, precise sequence)
-- Verdict: Some irreversible signatures, many lost
-
-**❌ Convergence Supremacy (FAILS)**
-- No independent witness streams (all dead)
-- Single investigation team (Soviet, potentially biased)
-- Autopsy reports (one source)
-- Later analyses rely on same original evidence
-- Verdict: No genuine independent verification possible
-
-**⚠️ Gradient Navigation (WEAK)**
-- Clear transition: alive → dead
-- But no observation of the transition itself
-- Gradient is steep but unobserved
-- Verdict: Event occurred but wasn't witnessed
-
-**❌ Bottleneck Traceability (FAILS)**
-- No mandatory checkpoint for evidence to pass through
-- Multiple possible causal paths (avalanche, wind, panic, etc.)
-- No way to trace back definitively
-- Verdict: Too many pathways, bottleneck doesn't exist
-
-**⚠️ State-Change Amplification (MODERATE)**
-- Deaths are high-energy events (should leave signatures)
-- Injuries documented
-- But: Weather erased many signatures over 3 weeks
-- Verdict: Signatures existed but degraded
-
-### Evidence Nodes (scored 0-10)
-
-1. **Tent cuts from inside** — 7/10
-   - Physical evidence, photographed, clear direction
-   - But: Some degradation over 3 weeks before discovery
-
-2. **Footprints to tree line** — 6/10
-   - Documented in investigation
-   - But: Only one investigative team, some bias possible
-
-3. **Autopsy results (injuries)** — 6/10
-   - Medical examination, documented
-   - But: Soviet-era documentation, limited by 1959 forensics
-
-4. **2020 slab avalanche simulation** — 7/10
-   - Peer-reviewed, modern analysis
-   - Shows mechanism is plausible
-   - But: Simulation, not direct observation
-
-5. **Katabatic wind documentation** — 5/10
-   - Known phenomenon in the region
-   - But: No specific measurement from that night
-
-6. **No external tracks** — 5/10
-   - Investigation photos
-   - But: 3 weeks elapsed, weather could have covered tracks
-
-### Independence Check
-
-- Tent cuts ↔ Autopsy: Different evidence types ✓
-- Footprints ↔ Injuries: Different domains ✓
-- 2020 simulation ↔ Original investigation: Separated by 60 years ✓
-
-**But:** All derive from same initial investigation. True independence is limited.
-
-### Convergence Score
-
-**6 nodes × 6.0 average = 36/100**
-
-**Confidence bracket:** Weak-to-moderate (20-40 range)
-
-**Interpretation:** Evidence quality is moderate, but lack of independent verification and time-degraded boundaries keep convergence LOW. This is exactly what we expect for historical mysteries with no witnesses and compromised crime scenes.
-
-### What Low Convergence Means Here
-
-**This is NOT a high-convergence case.**
-
-Why?
-- Single investigation source (Soviet team)
-- 3-week delay before discovery (boundary degradation)
-- No witnesses to the event
-- 65 years of speculation layered on limited data
-
-**The 2020 avalanche simulation doesn't make convergence high** — it shows a plausible mechanism, but it's a model, not independent observation.
-
-**Critical insight:** The exotic theories (UFO, Yeti, military) have EVEN LOWER convergence (0-5 range) because they have zero supporting evidence. Natural causes wins by default, not by overwhelming proof.
-
-**This demonstrates:** Not all "cannot eliminate" conclusions are equal. Tic Tac (62/100) vs Dyatlov (36/100) — very different confidence levels.
+**The test:** What must be true for each explanation? Does reality match?
 
 ---
 
-## CONSTRAINT STACKING ANALYSIS
+## Competing Hypotheses
 
-**CLAIM:** What killed the Dyatlov group?
-
-**STARTING SOLUTION SPACE:**
-- Avalanche
-- Katabatic wind event
-- Hypothermia (simple exposure)
-- Murder (by humans)
-- Military weapons test
-- Animal attack
-- Infrasound panic
-- Unknown phenomenon
+1. Murder by outsiders
+2. Military weapons test
+3. Animal attack
+4. Infrasound-induced panic
+5. Natural causes (wind event + avalanche)
 
 ---
 
-### CONSTRAINT 1 (MOST DAMNING): They Cut Out From Inside
+## H1: Murder by Outsiders
 
-**Evidence:**
-- Tent was cut from inside (knife cuts slope inward)
-- Multiple cuts made hastily
-- Footprints show orderly departure (not chaotic scramble)
+**What must be true:**
+- Attackers present at scene
+- Tracks from other people
+- Signs of struggle
+- Theft or clear motive
 
-**What this means:** Whatever happened, they chose to leave. Quickly. Through the tent wall rather than the entrance.
+**Reality check:**
 
-**ELIMINATES:**
-- ❌ Murder by outsiders (attackers don't wait inside while victims cut their way out)
-- ❌ Animal inside tent (would have torn tent, not knife cuts)
-- ❌ Simple hypothermia (doesn't explain urgent exit)
-
-**Remaining:** Avalanche, katabatic wind, military test, infrasound, unknown phenomenon
-
----
-
-### CONSTRAINT 2: No External Attackers
-
-**Evidence:**
+**Attackers present?** → ✗ CRITICAL FAIL
 - Only group's footprints in snow
 - No other tracks for miles
-- No signs of struggle with outsiders
+- They cut tent from *inside* (knife cuts slope inward)
+- Attackers don't wait inside while victims cut their way out
+
+**Signs of struggle?** → ✗ CRITICAL FAIL
+- Footprints show orderly departure
+- Not chaotic scramble
+- No defensive wounds
+
+**Theft?** → ✗ FAIL
 - Nothing stolen from camp
+- Money and valuables left behind
 
-**ELIMINATES:**
-- ❌ Murder by other humans
-- ❌ Military personnel on scene
-- ❌ Any external agent requiring physical presence
-
-**Remaining:** Avalanche, katabatic wind, military test (remote), infrasound, unknown phenomenon
+**Score:** 0/3 passes, 2 critical fails
+**Result:** Dead. No evidence of other humans present.
 
 ---
 
-### CONSTRAINT 3: The Injuries Pattern
+## H2: Military Weapons Test
 
-**Evidence:**
-- Two had major chest fractures (force comparable to car crash)
-- One missing tongue (post-mortem, in stream)
-- Others died of hypothermia with minor injuries
-- Fractures showed no external wounds (crushing force, not blunt impact)
+**What must be true:**
+- Military personnel or equipment at scene
+- Tracks or evidence of military presence
+- Weapon-specific injuries
+- Soviet cover-up protecting military secret
 
-**What this means:** Massive internal pressure without surface damage = compression force. Consistent with snow mass or fall into ravine.
+**Reality check:**
 
-**ELIMINATES:**
-- ❌ Beating/attack (would show external wounds)
-- ❌ Weapons (would show penetration or surface damage)
-- ❌ Simple exposure (doesn't explain compression fractures)
+**Military present?** → ✗ CRITICAL FAIL
+- Only group's footprints
+- No tracks from personnel or vehicles
+- No equipment fragments
 
-**Remaining:** Avalanche, katabatic wind + secondary injury, unknown phenomenon
+**Weapon injuries?** → ✗ CRITICAL FAIL
+- Chest fractures from compression (not blast/projectile)
+- No burns, no shrapnel, no radiation beyond normal
+- Pattern doesn't match any weapon
 
----
+**Cover-up protecting secret?** → ✗ FAIL
+- Soviet investigation vague but consistent with incompetence, not cover-up
+- Files partially classified (normal for USSR)
+- No evidence of actual military involvement
 
-### CONSTRAINT 4: The Timeline and Behavior
-
-**Evidence:**
-- Fled tent urgently (cut through wall)
-- Walked 1.5km downhill in orderly fashion
-- Split into groups
-- Some built fire, some built snow shelter
-- Those in ravine had worst injuries
-- Injuries consistent with snow shelter collapse
-
-**What this means:** They weren't panicked mindlessly — they executed survival procedures. Something forced them from tent, but didn't chase them.
-
-**ELIMINATES:**
-- ❌ Infrasound panic (they behaved rationally after leaving)
-- ❌ Continuous threat (would have killed them at tent)
-
-**Remaining:** Avalanche/wind event that threatened tent but didn't pursue
+**Score:** 0/3 passes, 2 critical + 1 fail
+**Result:** Dead. No weapon signatures.
 
 ---
 
-### CONSTRAINT 5: 2020 Research — Slab Avalanche Model
+## H3: Animal Attack
 
-**Evidence:**
-- Puzrin & Gaume (Nature, 2020) demonstrated:
-  - Delayed slab avalanche possible at low slope angle
-  - Triggered by cut made for tent + subsequent wind loading
-  - Would produce impact forces matching observed fractures
-  - Explains delay between setting camp and event
-- Katabatic winds documented in area
+**What must be true:**
+- Animal tracks at scene
+- Tent torn (not cut)
+- Bite marks or claw wounds
+- Pattern consistent with attack
 
-**What this means:** Known physics produces exactly what was observed.
+**Reality check:**
 
-**ELIMINATES:**
-- ❌ Need for exotic explanation (known physics explains it)
+**Animal tracks?** → ✗ CRITICAL FAIL
+- No tracks except human
+- Animal large enough to scare 9 people would leave tracks
 
-**Remaining:** Slab avalanche + katabatic wind
+**Tent torn?** → ✗ CRITICAL FAIL
+- Tent cut from *inside* with knife
+- Clean cuts, not tears
+- Animal doesn't explain this
 
----
+**Bite/claw wounds?** → ✗ CRITICAL FAIL
+- Chest fractures from compression
+- No bites, no claw marks
+- Injury pattern wrong
 
-### CONSTRAINT 6: Soviet Investigation Limitations
-
-**Evidence:**
-- Investigation closed quickly with vague conclusion
-- Some files classified (normal for USSR)
-- Radiation found on clothing (consistent with thorium camping lanterns)
-- "Orange skin" (normal decomposition)
-
-**What this means:** Soviet secrecy was procedural. "Mysterious" details have mundane explanations.
-
-**ELIMINATES:**
-- ❌ Military cover-up (no evidence of actual military involvement)
-- ❌ Secret weapons (no weapons effects found)
-
-**Remaining:** Natural causes
+**Score:** 0/3 passes, 3 critical fails
+**Result:** Dead. Evidence completely contradicts.
 
 ---
 
-## ANOMALIES
+## H4: Infrasound-Induced Panic
 
-**"Why were some better dressed than others?"**
-→ Those who died first gave clothing to others. Documented survival behavior.
+**What must be true:**
+- Chaotic, irrational flee
+- No organized survival behavior
+- Continuous panic state
+- No rational decisions
 
-**"Why didn't they return to tent?"**
-→ In whiteout conditions at night, they couldn't find it. 1.5km in darkness = lost.
+**Reality check:**
 
-**"Why the missing tongue?"**
-→ Body face-down in running water for months. Soft tissue decomposition.
+**Chaotic flee?** → ✗ CRITICAL FAIL
+- Footprints show orderly descent
+- Not running wildly
+- Walked 1.5km in organized fashion
 
-**"Why the radiation?"**
-→ Thorium mantles in camping lanterns. Common at the time.
+**No survival behavior?** → ✗ CRITICAL FAIL
+- They built fire
+- They built snow shelter
+- They gave clothing from dead to living
+- Textbook survival procedures executed
 
-All anomalies fit within remaining solution space.
+**Continuous panic?** → ✗ CRITICAL FAIL
+- Rational behavior after leaving tent
+- Something forced them out, but didn't chase
+- They calmed enough to try surviving
+
+**Score:** 0/3 passes, 3 critical fails
+**Result:** Dead. They behaved rationally, not panicked.
 
 ---
 
-## RESULT
+## H5: Natural Causes (Wind + Avalanche)
 
-| Hypothesis | Status |
-|------------|--------|
-| Murder | ❌ Eliminated |
-| Military test | ❌ Eliminated |
-| Animal attack | ❌ Eliminated |
-| Infrasound panic | ❌ Eliminated |
-| UFO/Yeti/Unknown | ❌ Eliminated |
-| **Katabatic wind + slab avalanche** | **Cannot eliminate** |
+**What must be true:**
+- Event forces urgent tent evacuation
+- Doesn't pursue them (they survive initial event)
+- Causes compression injuries consistent with snow/fall
+- Rational survival attempts after
+- Known physics can explain
+
+**Reality check:**
+
+**Forces evacuation?** → ✓ PASS
+- Katabatic winds documented in area (extreme, sudden)
+- Would threaten tent integrity
+- Explains urgent exit (cut through tent wall, fastest route)
+
+**Doesn't pursue?** → ✓ PASS
+- They walked 1.5km down slope orderly
+- Built fire, built shelter
+- Event was localized to tent area
+
+**Compression injuries?** → ✓ PASS
+- 2020 study (Puzrin & Gaume, Nature): slab avalanche model
+- Delayed slab possible at low angle
+- Produces forces matching observed fractures
+- Ravine collapse explains worst injuries
+- No external wounds (internal compression) matches avalanche
+
+**Survival attempts?** → ✓ PASS
+- Fire building
+- Snow shelter construction
+- Clothing transfer from dead to living
+- All standard procedures
+
+**Known physics?** → ✓ PASS
+- Katabatic wind: documented phenomenon
+- Delayed slab avalanche: demonstrated possible in 2020 study
+- Hypothermia progression: well-understood
+- No exotic physics needed
+
+**Explains anomalies?** → ✓ PASS
+- "Why different clothing?" → Shared from dead
+- "Why not return?" → Whiteout, darkness, 1.5km = lost
+- "Missing tongue?" → Face-down in water, months of decomposition
+- "Radiation?" → Thorium camping lanterns (common then)
+
+**Score:** 6/6 passes
+Calculation: 100% × (1 - 0) = **100%**
+
+---
+
+## Comparison
+
+| Hypothesis | Score | Critical Failures |
+|-----------|-------|-------------------|
+| **Natural causes** | **100%** | **0** |
+| Murder | 0% | 2 |
+| Military test | 0% | 2 |
+| Animal attack | 0% | 3 |
+| Infrasound | 0% | 3 |
+
+**Winner:** Natural causes by elimination. Only hypothesis with zero failures.
 
 ---
 
 ## What This Means
 
-We are not saying "the Dyatlov group definitely died from natural causes."
+**The exotic theories are appealing.** But they all have critical failures.
 
-We are saying: "We eliminated every exotic explanation. Natural causes — wind event forcing evacuation, followed by exposure and secondary injuries — is the only hypothesis that survives the constraints."
+**Reality constraints:**
+- Only their footprints (no attackers, no military, no animal)
+- Tent cut from inside (they chose to leave)
+- Orderly departure and survival behavior (not panic)
+- Compression injuries from snow mass (not weapons)
+- 2020 study shows slab avalanche physically possible
 
-Tragic, but mundane.
+**Every exotic explanation fails. Natural causes survives intact.**
+
+---
+
+**The likely sequence:**
+1. Katabatic wind event threatens tent (sudden, extreme)
+2. Fear of tent collapse or burial → urgent evacuation
+3. Cut through tent wall (fastest exit)
+4. Walk down slope to treeline (standard procedure)
+5. Build fire, build shelter (survival protocol)
+6. Some caught in ravine/shelter collapse → compression injuries
+7. Hypothermia claims those without shelter
+8. Whiteout prevents return to tent
+
+Tragic. Mundane. Survivable if weather had been better.
+
+---
+
+**Confidence:** High (no competing hypothesis survives)
+**Status:** Natural causes only explanation without critical failures
+**Note:** Not overwhelming proof, but elimination of alternatives
