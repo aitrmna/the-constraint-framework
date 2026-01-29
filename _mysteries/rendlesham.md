@@ -3,178 +3,153 @@ layout: mystery
 title: Rendlesham Forest
 subtitle: RAF Woodbridge, UK, 1980
 description: Three nights, military witnesses, physical traces
-result: Ambiguous - competing explanations both viable
+result: Too close to call - evidence splits 1.4:1
 category: uap
 ---
 
-December 26-28, 1980. RAF Woodbridge, Suffolk, England. US Air Force personnel encountered lights and phenomena in Rendlesham Forest over three nights. Deputy Base Commander Lt. Col. Charles Halt made real-time audio recording during investigation. Radiation readings taken, ground traces documented. Known as "Britain's Roswell."
+December 26-28, 1980. RAF Woodbridge, Suffolk. US Air Force personnel encountered lights in Rendlesham Forest over three nights. Deputy Base Commander Lt. Col. Charles Halt made real-time audio recording. Radiation readings taken, ground traces documented.
 
 **A case where evidence genuinely splits.**
 
----
-
-## THE MYSTERY
-
-**Core Question:** What occurred in Rendlesham Forest, December 1980?
-
-**Key Evidence:**
-- Multiple military witnesses (5+)
-- Real-time audio recording (Lt. Col. Halt)
-- Radiation readings (0.1 milliroentgens above background)
-- Ground depressions (triangular pattern)
-- Broken tree branches
-- Orford Ness lighthouse visible 5 miles away
-- Meteor reported night one
+**The test:** What must be true for each explanation? Does reality match?
 
 ---
 
-## COMPETING HYPOTHESES
+## Competing Hypotheses
 
-**H1: Lighthouse + Misidentification**
-- Orford Ness lighthouse caused confusion
-- Meteor night one added to excitement
-- Unfamiliar personnel misinterpreted
-
-**H2: Unknown Technology**
-- Actual craft landed
-- Physical traces from event
-- Multiple credible witnesses
+1. Lighthouse + misidentification
+2. Unknown technology
 
 ---
 
-## PREDICTIONS & TESTING
+## H1: Lighthouse + Misidentification
 
-### H1: Lighthouse Misidentification
+**What must be true:**
+- Orford Ness lighthouse visible from forest
+- Personnel unfamiliar with area
+- Physical traces explainable by mundane causes
+- Halt audio shows confusion/uncertainty
 
-**Predictions:**
+**Reality check:**
 
-1. **Lighthouse visible from forest** → ✓ **PASS**
-   - Orford Ness lighthouse 5 miles away
-   - Rotating beam every 5 seconds
-   - Visible through trees
+**Lighthouse visible?** → ✓ PASS
+- Orford Ness lighthouse 5 miles away
+- Rotating beam every 5 seconds
+- Visible through trees
 
-2. **Witnesses unfamiliar with area** → ✓ **PASS**
-   - US personnel recently stationed
-   - Not local to Suffolk
+**Unfamiliar personnel?** → ✓ PASS
+- US personnel recently stationed
+- Not local to Suffolk area
 
-3. **Radiation readings background level** → ⚠️ **UNCLEAR**
-   - 0.1 milliroentgens above background
-   - Slight elevation, but within noise
+**Physical traces mundane?** → ⚠️ UNCLEAR
+- Depressions photographed (triangular pattern)
+- Could be animal activity OR landing marks
+- Radiation 0.1 milliroentgens above background (marginal)
+- Genuinely ambiguous
 
-4. **Physical traces explainable** → ⚠️ **UNCLEAR**
-   - Depressions could be animal activity
-   - OR could be landing marks
-   - Ambiguous
+**Audio shows confusion?** → ✓ PASS
+- Recording shows searching for explanation
+- Excitement, uncertainty evident
+- Consistent with misidentification
 
-5. **Halt audio shows confusion** → ✓ **PASS**
-   - Recording shows searching for explanation
-   - Excitement, uncertainty
-   - Consistent with misidentification
+**Score:** 3/4 passes, 1 unclear
+Calculation: 75% × (1 - 0) = **75%**
 
-**Score:** 3/5 with 2 unclear = ~60%
-**Overall Fit:** **~50%** (accounting for ambiguity)
-
----
-
-### H2: Unknown Technology
-
-**Predictions:**
-
-1. **Multiple independent witnesses** → ✓ **PASS**
-   - 5+ military personnel
-   - Over three nights
-   - Consistent core details
-
-2. **Physical traces** → ⚠️ **UNCLEAR**
-   - Depressions photographed
-   - Radiation slightly elevated
-   - Could be mundane OR anomalous
-
-3. **Audio recording captures anomaly** → ⚠️ **UNCLEAR**
-   - Halt describes lights
-   - Excitement evident
-   - Could be lighthouse OR unknown
-
-4. **Deputy Base Commander credibility** → ✓ **PASS**
-   - Halt was high-ranking officer
-   - Made real-time recording
-   - Stood by account for decades
-
-5. **No obvious mundane match** → ✗ **FAIL**
-   - Lighthouse is obvious candidate
-   - Meteor explains night one
-   - Mundane explanations exist
-
-**Score:** 2/5 with 2 unclear = ~40%
-**Overall Fit:** **~35%** (lighthouse is strong alternative)
+Adjusted for ambiguity: **~50%** (unclear evidence weakens confidence)
 
 ---
 
-## COMPARATIVE ANALYSIS
+## H2: Unknown Technology
 
-| Hypothesis | Overall Fit |
-|-----------|-------------|
+**What must be true:**
+- Multiple independent witnesses
+- Physical evidence of landing
+- Audio captures genuine anomaly
+- High-ranking credible witness
+- No obvious mundane explanation
+
+**Reality check:**
+
+**Multiple witnesses?** → ✓ PASS
+- 5+ military personnel
+- Over three nights
+- Consistent core details
+
+**Physical evidence?** → ⚠️ UNCLEAR
+- Depressions and radiation readings exist
+- Could be mundane OR anomalous
+- Ambiguous interpretation
+
+**Audio captures anomaly?** → ⚠️ UNCLEAR
+- Halt describes lights and excitement
+- Could be lighthouse OR unknown
+- Unclear from recording alone
+
+**Credible witness?** → ✓ PASS
+- Lt. Col. Halt (Deputy Base Commander)
+- Made contemporaneous recording
+- Stood by account for decades
+
+**No mundane explanation?** → ✗ FAIL
+- Lighthouse is obvious candidate
+- Meteor on night one
+- Mundane alternatives exist
+
+**Score:** 2/5 passes, 2 unclear, 1 fail
+Calculation: 40% × (1 - 0) = **40%**
+
+Adjusted for unclear: **~35%**
+
+---
+
+## Comparison
+
+| Hypothesis | Score |
+|-----------|-------|
 | Lighthouse + Misidentification | ~50% |
 | Unknown Technology | ~35% |
 
-**Advantage Ratio:** 1.4:1
+**Advantage:** 1.4:1 for lighthouse
 
 **Interpretation:** Too close to call. Evidence genuinely ambiguous.
 
 ---
 
-## WHY THIS CASE IS AMBIGUOUS
+## Why This Is Ambiguous
 
-**Evidence pointing to lighthouse:**
-- Lighthouse exists, was visible
+**For lighthouse:**
+- Lighthouse exists and was visible
 - Timing matches rotating beam
 - Personnel unfamiliar with area
-- Excitement/confusion evident in audio
+- Confusion evident in audio
 
-**Evidence pointing to anomaly:**
-- Multiple nights (lighthouse always there - why only notice then?)
+**For unknown:**
+- Multiple nights (lighthouse always there—why notice only then?)
 - Multiple trained observers
 - Physical traces (though weak)
 - High-ranking officer witness
 
-**Neither explanation is overwhelming.**
+**Neither explanation dominates.**
 
 ---
 
-## WHAT THIS SHOWS
+## What This Shows
 
 **The framework handling genuine ambiguity:**
 
-Not every case has clear answer. Sometimes evidence splits.
+Not every case has a clear answer. Sometimes evidence splits.
 
-**Compare to:**
-- **Tic Tac:** 12:1 advantage, clear winner
-- **Belgian Wave:** Infinite ratio, clear debunk
-- **Rendlesham:** 1.4:1, genuinely unclear
+**Compare:**
+- **Tic Tac:** 15:1 advantage (clear winner)
+- **Belgian Wave:** Infinite ratio (clear debunk)
+- **Rendlesham:** 1.4:1 (genuinely unclear)
 
 **This is honest assessment.**
 
-**What would resolve it:**
-- More physical evidence from 1980 (lost to time)
-- Additional witnesses coming forward
-- Better understanding of lighthouse visibility patterns
-- Radiation readings from control samples
-
-**Without these:** Case remains ambiguous.
-
 ---
-
-## HONEST CONCLUSION
 
 **Most likely:** Lighthouse misidentification (slight edge)
-
-**But:** Cannot confidently eliminate unknown technology
-
+**Cannot eliminate:** Unknown technology
 **Confidence:** Low (evidence too ambiguous)
 
-**This case shows framework's limits:**
-When evidence is genuinely split, framework says "split." That's the right answer.
-
----
-
-<p><a href="{{ '/mysteries/uap/' | relative_url }}">← All UAP cases</a></p>
+When evidence splits, framework says "split." That's the correct answer.

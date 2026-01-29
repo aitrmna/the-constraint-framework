@@ -1,203 +1,202 @@
 ---
 layout: mystery
-title: Tehran 1976 Incident
+title: Tehran 1976
 subtitle: Iran, September 1976
-description: Military jets scrambled, weapons interference, radar confirmation
+description: Military jets, weapons interference, radar confirmation
 result: Strong case - 8:1 for unknown technology
 category: uap
 ---
 
-September 19, 1976. Tehran, Iran. Object reported by multiple citizens, confirmed on radar. Iranian Air Force scrambled two F-4 Phantom jets. Pilots experienced weapons systems failures when attempting lock. Object demonstrated extreme maneuvers. Documented in US Defense Intelligence Agency report.
+September 19, 1976. Tehran, Iran. Object reported by citizens, confirmed on radar. Iranian Air Force scrambled two F-4 Phantom jets. Pilots experienced weapons systems failures when attempting lock. Object demonstrated extreme maneuvers. Documented in US Defense Intelligence Agency report.
 
 **One of the best-documented military encounters.**
 
----
-
-## THE MYSTERY
-
-**Core Question:** What did Iranian Air Force jets encounter over Tehran?
-
-**Key Evidence:**
-- Civilian reports from ground
-- Air traffic control radar confirmation
-- Two F-4 jets scrambled
-- Weapons system interference (both jets)
-- Second object detached from first
-- Extreme acceleration observed
-- DIA report (declassified)
+**The test:** What must be true for each explanation? Does reality match?
 
 ---
 
-## COMPETING HYPOTHESES
+## Competing Hypotheses
 
-**H1: Astronomical Misidentification (Jupiter)**
-- Planet Jupiter was visible
-- Pilots misidentified bright object
-
-**H2: Aircraft Malfunction**
-- F-4 systems failed independently
-- No actual object
-
-**H3: Secret US Technology**
-- Testing near Iran during Cold War
-- Weapons interference was deliberate
-
-**H4: Unknown Technology**
-- Performance beyond known capability
-- Weapons interference unexplained
+1. Jupiter misidentification
+2. Aircraft malfunction
+3. Secret US technology
+4. Unknown technology
 
 ---
 
-## PREDICTIONS & TESTING
+## H1: Jupiter Misidentification
 
-### H1: Jupiter Misidentification
+**What must be true:**
+- Stationary or very slow movement
+- No radar confirmation
+- No weapons interference
 
-**Predictions:**
+**Reality check:**
 
-1. **Stationary or slow movement** → ✗ **CRITICAL FAIL**
-   - Jupiter doesn't move rapidly
-   - Object demonstrated extreme acceleration
+**Stationary?** → ✗ CRITICAL FAIL
+- Jupiter doesn't move rapidly
+- Object demonstrated extreme acceleration
+- Kills hypothesis
 
-2. **No radar confirmation** → ✗ **CRITICAL FAIL**
-   - Planets don't show on air traffic radar
-   - Object confirmed on radar
+**No radar?** → ✗ CRITICAL FAIL
+- Planets don't show on air traffic radar
+- Object confirmed on radar
 
-3. **No weapons interference** → ✗ **CRITICAL FAIL**
-   - Planets don't affect aircraft systems
-   - Both F-4s experienced failures
+**No weapons effect?** → ✗ CRITICAL FAIL
+- Planets don't affect aircraft systems
+- Both F-4s experienced failures during lock attempt
 
-**Score:** 0/3 **= 0%**
+**Score:** 0/3 passes, 3 critical fails
+Calculation: 0% × (1 - 0.6) = **0%**
 
----
-
-### H2: Aircraft Malfunction
-
-**Predictions:**
-
-1. **Independent failures unlikely** → ✗ **CRITICAL FAIL**
-   - Two separate F-4s, same failures
-   - During attempted weapon lock
-
-2. **No radar object** → ✗ **CRITICAL FAIL**
-   - Ground radar confirmed object
-   - Not just pilot error
-
-3. **Failures random** → ✗ **MAJOR FAIL**
-   - Failures occurred during lock attempt
-   - Systems recovered after breaking off
-   - Too coincidental
-
-**Score:** 0/3 **= 0%**
+**Result:** Dead. Three critical failures.
 
 ---
 
-### H3: Secret US Technology
+## H2: Aircraft Malfunction
 
-**Predictions:**
+**What must be true:**
+- Independent failures possible
+- No radar object
+- Failures random timing
 
-1. **US wouldn't test over hostile nation** → ✗ **MAJOR FAIL**
-   - Iran potentially hostile 1976
-   - International incident risk
+**Reality check:**
 
-2. **Technology exists today** → ✗ **MAJOR FAIL**
-   - 1976 event
-   - No deployment of similar tech since
+**Independent failures?** → ✗ CRITICAL FAIL
+- Two separate F-4s, same failures
+- Both during attempted weapon lock
+- Too coincidental
 
-3. **DIA report wouldn't exist** → ✗ **MAJOR FAIL**
-   - DIA documented as unknown
-   - Wouldn't file report on own tech
+**No radar?** → ✗ CRITICAL FAIL
+- Ground radar confirmed object
+- Not just pilot error
 
-**Score:** 0/3 **= ~10%** (possible but implausible)
+**Random timing?** → ✗ MAJOR FAIL
+- Failures occurred during lock attempt
+- Systems recovered after breaking off
+- Suggests directed effect, not random
 
----
+**Score:** 0/3 passes, 2 critical + 1 major fails
+Calculation: 0% × (1 - 0.7) = **0%**
 
-### H4: Unknown Technology
-
-**Predictions:**
-
-1. **Radar + visual confirmation** → ✓ **PASS**
-   - Both confirmed
-
-2. **Extreme performance** → ✓ **PASS**
-   - Rapid acceleration observed
-   - Beyond known 1976 aircraft
-
-3. **Systems interference** → ✓ **PASS**
-   - Weapons failed during lock attempt
-   - Recovered when disengaging
-   - Suggests directed effect
-
-4. **Multiple independent witnesses** → ✓ **PASS**
-   - Ground observers
-   - Air traffic control
-   - Two F-4 crews
-
-5. **DIA takes seriously** → ✓ **PASS**
-   - Detailed report filed
-   - Classified then declassified
-
-6. **Never identified** → ✓ **PASS**
-   - 47 years later, still unknown
-
-**Score:** 6/6 **= 100%**
-**Overall Fit:** **80%** (slight reduction for limited data release)
+**Result:** Dead. Pattern suggests directed interference.
 
 ---
 
-## COMPARATIVE ANALYSIS
+## H3: Secret US Technology
 
-| Hypothesis | Overall Fit |
-|-----------|-------------|
-| **Unknown Technology** | **80%** |
-| Secret US Tech | 10% |
-| Jupiter | 0% |
-| Malfunction | 0% |
+**What must be true:**
+- US would test over hostile nation
+- Technology deployed in 47 years since
+- DIA wouldn't document as unknown
 
-**Advantage Ratio:** 80% / 10% = **8:1**
+**Reality check:**
 
-**Interpretation:** Unknown technology strongly favored.
+**Would test over Iran?** → ✗ MAJOR FAIL
+- Iran potentially hostile in 1976
+- International incident risk
+- Unlikely test location
+
+**Technology deployed?** → ✗ MAJOR FAIL
+- 1976 event
+- No similar tech deployed anywhere since
+- 47 years without deployment implausible
+
+**DIA wouldn't document?** → ✗ MAJOR FAIL
+- DIA filed report as unknown
+- Wouldn't document own secret tech this way
+
+**Score:** 0/3 passes, 3 major fails
+Calculation: 0% × (1 - 0.3) = **0%**
+
+Adjusted: **~10%** (possible but very implausible)
+
+**Result:** Major failures on all predictions. Highly unlikely.
 
 ---
 
-## CONSTRAINT STACKING
+## H4: Unknown Technology
 
-**CONSTRAINT 1: Weapons Interference**
-- Both F-4s experienced failure during lock attempt
-- Systems recovered when disengaging
-- **Eliminates:** Jupiter, simple malfunction
-- **Suggests:** Directed effect
+**What must be true:**
+- Radar + visual confirmation
+- Extreme performance beyond 1976 aircraft
+- Systems interference (directed effect)
+- Multiple independent witnesses
+- DIA takes seriously
+- Never identified despite investigation
 
-**CONSTRAINT 2: Radar + Visual**
+**Reality check:**
+
+**Radar + visual?** → ✓ PASS
 - Ground radar confirmed
 - Multiple pilots witnessed
-- **Eliminates:** Misidentification, hallucination
 
-**CONSTRAINT 3: Extreme Performance**
-- Rapid acceleration beyond 1976 aircraft
-- **Eliminates:** Known technology
+**Extreme performance?** → ✓ PASS
+- Rapid acceleration observed
+- Beyond known 1976 aircraft capability
 
-**CONSTRAINT 4: DIA Documentation**
-- US intelligence took seriously
-- Filed as unknown
-- **Eliminates:** US secret program
+**Systems interference?** → ✓ PASS
+- Weapons failed during lock attempt
+- Recovered when disengaging
+- Both F-4s affected
+- Suggests directed effect
 
-**All constraints converge: Unknown technology**
+**Multiple witnesses?** → ✓ PASS
+- Ground observers
+- Air traffic control
+- Two F-4 crews
+
+**DIA took seriously?** → ✓ PASS
+- Detailed report filed
+- Classified then declassified
+- No dismissal as error
+
+**Never identified?** → ✓ PASS
+- 47 years later, still unknown
+- No mundane explanation found
+
+**Score:** 6/6 passes
+Calculation: 100% × (1 - 0) = **100%**
+
+Adjusted for limited data release: **~80%**
 
 ---
 
-## WHAT THIS CASE SHOWS
+## Comparison
 
-**Strong evidence pattern:**
-- Multi-sensor confirmation
-- Weapons system interference (unique feature)
+| Hypothesis | Score | Critical Failures |
+|-----------|-------|-------------------|
+| **Unknown technology** | **80%** | **0** |
+| Secret US tech | 10% | 0 (but 3 major) |
+| Jupiter | 0% | 3 |
+| Malfunction | 0% | 2 |
+
+**Advantage:** 80% / 10% = **8:1**
+
+---
+
+## What Makes This Strong
+
+**Unique feature: Weapons interference**
+- Both F-4s experienced failures during lock
+- Systems recovered when disengaging
+- Suggests directed effect
+- No mundane explanation
+
+**Plus standard strong evidence:**
+- Multi-sensor confirmation (radar + visual)
 - Multiple witnesses
-- Official documentation
-- No mundane explanation fits
+- Extreme performance
+- Official DIA documentation
 
-**Similar to Tic Tac in quality, different in details.**
+**Similar quality to Tic Tac, different details:**
+- Tic Tac: 15:1, physics violations, multi-sensor
+- Tehran: 8:1, weapons interference, DIA report
+
+Both are high-quality cases with strong evidence.
+
+---
 
 **Confidence:** High (8:1 advantage)
-
----
-
-<p><a href="{{ '/mysteries/uap/' | relative_url }}">← All UAP cases</a></p>
+**Status:** Cannot eliminate unknown technology
+**Distinguishing feature:** Weapons system interference during lock attempt
