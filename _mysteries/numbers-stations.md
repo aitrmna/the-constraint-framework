@@ -2,179 +2,214 @@
 layout: mystery
 title: Numbers Stations
 subtitle: Shortwave voices reading numbers into the void
-description: Cold War relics still broadcasting. Who's listening?
-result: Cannot eliminate — spy communication (virtually certain)
+description: Cold War broadcasts. Still operating. Who's listening?
+result: Spy communication - proven in court (Atención case)
 category: signals
 ---
 
-Tune a shortwave radio to the right frequency and you might hear a voice — usually female, sometimes synthesized — reading strings of numbers. Sometimes music plays. Then numbers. Then silence.
+Shortwave radio: A voice reads strings of numbers. Sometimes music plays. Then numbers. Then silence.
 
-These "numbers stations" have broadcast since the Cold War. Some still operate today.
+"Numbers stations" broadcast since the Cold War. Some still operate.
 
-No government has officially acknowledged them.
+No government officially acknowledges them.
 
----
-
-## CONSTRAINT STACKING ANALYSIS
-
-**CLAIM:** What are numbers stations?
-
-**STARTING SOLUTION SPACE:**
-- Spy communication (one-time pad encrypted messages)
-- Military communication
-- Weather/scientific data
-- Hoax/art project
-- Unknown purpose
+**The test:** What must be true for each explanation? Does reality match?
 
 ---
 
-### CONSTRAINT 1 (MOST DAMNING): Cold War Timing and Locations
+## Competing Hypotheses
 
-**Evidence:**
-- Most identified stations trace to: US, Russia, Cuba, China, Israel, UK, Germany
+1. Hoax or art project
+2. Weather/scientific data
+3. Military tactical communication
+4. Spy communication (one-time pad encrypted)
+
+---
+
+## H1: Hoax or Art Project
+
+**What must be true:**
+- Single source or small group
+- Limited duration (art projects end)
+- No coordination across hostile nations
+- No classified treatment by governments
+
+**Reality check:**
+
+**Single source?** → ✗ CRITICAL FAIL
+- Stations traced to: US, Russia, Cuba, China, Israel, UK, Germany
+- Multiple hostile nations operating similar systems
+- Too coordinated for independent hoaxes
+
+**Limited duration?** → ✗ CRITICAL FAIL
+- Operating since Cold War (50+ years)
+- Some still broadcast today
+- Too long and expensive for art project
+
+**No coordination?** → ✗ CRITICAL FAIL
+- Multiple countries with intelligence agencies
+- Similar formats and purposes
+- Correlation with spy agencies near-perfect
+
+**Not classified?** → ✗ FAIL
+- Governments decline to comment (treat as classified)
+- No acknowledgment or denial
+
+**Score:** 0/4 passes, 3 critical + 1 fail
+**Result:** Dead. Not hoax - too many countries, too long, too classified.
+
+---
+
+## H2: Weather/Scientific Data
+
+**What must be true:**
+- Public acknowledgment (legitimate science isn't secret)
+- Format appropriate for data transmission
+- No need for encryption
+- Countries would coordinate standards
+
+**Reality check:**
+
+**Public?** → ✗ CRITICAL FAIL
+- No acknowledgment
+- Treated as classified
+- Science data isn't secret
+
+**Format appropriate?** → ✗ FAIL
+- 5-digit number groups
+- One-time pad format (unneeded for weather)
+- Inefficient for legitimate data
+
+**No encryption needed?** → ✗ FAIL
+- Weather data is public
+- Why encrypt?
+
+**Score:** 0/3 passes, 1 critical + 2 fails
+**Result:** Dead. Weather data isn't classified.
+
+---
+
+## H3: Military Tactical Communication
+
+**What must be true:**
+- Military has dedicated encrypted channels
+- Wouldn't use public broadcasts for tactics
+- Format would match military protocols
+
+**Reality check:**
+
+**Dedicated channels?** → ✗ CRITICAL FAIL
+- Military has satellites, encrypted radios, secure comms
+- No need for public shortwave broadcasts
+- Tactically inefficient
+
+**Wouldn't broadcast publicly?** → ✗ CRITICAL FAIL
+- Military ops require security
+- Shortwave is public (anyone can listen)
+- Reveals activity
+
+**Score:** 0/2 passes, 2 critical fails
+**Result:** Dead. Military doesn't use public broadcasts for tactics.
+
+---
+
+## H4: Spy Communication (One-Time Pad)
+
+**What must be true:**
+- Format matches one-time pad encryption
+- Countries with intelligence agencies operate them
+- Broadcast timing consistent with spy tradecraft
+- One-way communication (can't trace listener)
+- Direct proof exists (caught spies using them)
+- Governments treat as classified
+
+**Reality check:**
+
+**Format matches?** → ✓ PASS
+- 5-digit number groups = classic one-time pad format
+- Agent receives numbers over radio
+- Decrypts with pre-shared pad
+- Unbreakable if used correctly
+- Perfect for agents in hostile territory
+
+**Intel agencies operate?** → ✓ PASS
+- Stations traced to countries with spy agencies
+- US, Russia, Cuba, China, Israel, UK, Germany
+- Location correlation near-perfect
+
+**Timing/tradecraft?** → ✓ PASS
 - Proliferated during Cold War
-- Many broadcast from areas near intelligence facilities
-- Some stations went silent when Cold War ended; others persist
+- Some went silent when Cold War ended
+- Others persist (spying continues)
+- Regular schedules (agents know when to listen)
 
-**What this means:** Countries with intelligence agencies operate these stations. Correlation is near-perfect.
+**One-way?** → ✓ PASS
+- Broadcast only (no response required)
+- Can't trace who's listening
+- Operational security perfect for covert comms
 
-**ELIMINATES:**
-- ❌ Random hoax (too coordinated, too expensive, too many countries)
-- ❌ Art project (spans decades, multiple hostile nations)
+**Direct proof exists?** → ✓ PASS - **CRITICAL**
+- **1998: FBI arrested Cuban Wasp Network spy ring**
+- Evidence: Shortwave radio + one-time pads + instructions to listen to "Atención" station
+- Messages decoded matched spy instructions
+- **Proven in court that "Atención" is spy communication**
+- If one station proven, others operating same way likely same purpose
 
-**Remaining:** Government communication (spy or military)
+**Treated as classified?** → ✓ PASS
+- No government acknowledges
+- No government denies
+- All decline to comment
+- US acknowledged "Atención" only during prosecution
 
----
+**Score:** 6/6 passes
+Calculation: 100% × (1 - 0) = **100%**
 
-### CONSTRAINT 2: One-Time Pad Compatibility
-
-**Evidence:**
-- Numbers stations broadcast groups of numbers (5-digit groups common)
-- One-time pad encryption: Unbreakable if used correctly
-- Agent receives numbers over radio, decrypts with pre-shared pad
-- No physical evidence links agent to handler (nothing to intercept)
-- Perfect for communicating with agents in hostile territory
-
-**What this means:** Numbers station format is EXACTLY what you'd design for one-time pad spy communication.
-
-**For spy communication:**
-- Explains why unbreakable encryption (one-time pad)
-- Explains why broadcast openly (can't trace who's listening)
-- Explains why no official acknowledgment (spy tradecraft)
-
-**ELIMINATES:**
-- ❌ Weather data (wouldn't need one-time pad format)
-- ❌ Military tactical (military has dedicated encrypted channels)
-
-**Remaining:** Spy communication
+**This is proven, not theorized.**
 
 ---
 
-### CONSTRAINT 3: The Atención Case — Direct Proof
+## Comparison
 
-**Evidence:**
-- 1998: FBI arrested Cuban spy ring (the "Wasp Network")
-- Evidence included: Shortwave radio, one-time pads, instructions to listen to specific station
-- Station: "Atención" (operated by Cuba)
-- Messages decoded matched instructions given to spies
-- **This is direct proof that at least some numbers stations are spy communication**
+| Hypothesis | Score | Critical Failures |
+|-----------|-------|-------------------|
+| **Spy communication** | **100%** | **0** (+ court proof) |
+| Military tactical | 0% | 2 |
+| Weather/science | 0% | 1 |
+| Hoax/art | 0% | 3 |
 
-**What this means:** We have courtroom evidence proving the spy hypothesis for at least one station.
-
-**ELIMINATES:**
-- ❌ All non-spy explanations for "Atención" (proven in court)
-
-**Remaining:** If one station is confirmed spy comms, others operating same way likely are too
+**Winner:** Spy communication. Proven in court.
 
 ---
 
-### CONSTRAINT 4: Government Non-Denial
+## Identified Stations
 
-**Evidence:**
-- No government has officially acknowledged operating numbers stations
-- No government has denied operating them either
-- When asked, intelligence agencies decline to comment
-- The US government acknowledged existence of "Atención" only during prosecution
-
-**What this means:** Governments treat these as classified. Non-denial is tacit confirmation.
-
-**For spy communication:**
-- You don't acknowledge spy channels
-- You don't deny them (draws more attention)
-- You decline to comment
-
-**ELIMINATES:**
-- ❌ Legitimate public purpose (would be acknowledged)
-
----
-
-### CONSTRAINT 5: Operational Security Features
-
-**Evidence:**
-- Most stations don't identify themselves by name (just music or identifier)
-- Broadcasts are one-way (no response, can't trace listener)
-- Scheduling is regular (agents know when to listen)
-- Signal strength is strong (reaches target countries reliably)
-
-**What this means:** Design is optimized for covert one-way communication.
-
-**For spy communication:**
-- One-way = can't trace recipient
-- Regular schedule = reliability
-- No identification = plausible deniability
-
----
-
-### CONSTRAINT 6: Content Patterns
-
-**Evidence:**
-- Some messages repeat on schedule (scheduled broadcast even if no new intel)
-- Some messages are unique (actual intelligence)
-- Some stations broadcast 24/7; others on schedule
-- Different stations use different formats (voice, Morse, digital modes)
-
-**What this means:** Variety suggests multiple agencies with different protocols.
-
-**For spy communication:**
-- Different countries = different formats
-- Scheduled repeats = keep agents listening, mask when real messages come
-
----
-
-## THE ONLY REMAINING QUESTION
-
-Not "what are they?" — that's answered: Spy communication.
-
-The remaining question is: Who operates which station?
-
-**Identified with high confidence:**
-- Atención / HM01: Cuba (proven in court)
-- UVB-76 "The Buzzer": Russia (location traced)
-- Lincolnshire Poacher: UK/MI6 (ceased 2008)
-- Yosemite Sam: US? (unconfirmed)
-- Various "Mossad" stations: Israel (suspected)
-
----
-
-## RESULT
-
-| Hypothesis | Status |
-|------------|--------|
-| Hoax/art | ❌ Eliminated |
-| Weather/science | ❌ Eliminated |
-| Unknown purpose | ❌ Eliminated |
-| **Spy communication (one-time pad)** | **Cannot eliminate — virtually proven** |
+**High confidence:**
+- **Atención / HM01:** Cuba (proven in court)
+- **UVB-76 "The Buzzer":** Russia (location traced)
+- **Lincolnshire Poacher:** UK/MI6 (ceased 2008)
+- **Yosemite Sam:** US? (suspected, unconfirmed)
+- **Various "Mossad" stations:** Israel (suspected)
 
 ---
 
 ## What This Means
 
-We are not saying "all numbers stations are spy communication."
+This isn't a mystery. **The Atención case proved it.**
 
-Actually, we kind of are.
+Numbers stations are spy communication using one-time pad encryption. The format is exactly what you'd design for this purpose. The operational characteristics match. Caught spies had the equipment and instructions.
 
-The Atención case proved it for Cuban stations. The operational characteristics match spy tradecraft exactly. No alternative explanation survives the constraints. Governments won't confirm because that's what you do with spy infrastructure.
+**Only remaining question:** Which agency operates which station?
 
-**This is a "mystery" with a known answer.** Numbers stations are spy communication. The remaining questions are details: which agency, which country, still active?
+But what they ARE is answered.
+
+---
+
+**This is a "mystery" with a known answer.**
 
 Some mysteries are only mysterious because the answer is classified.
+
+---
+
+**Confidence:** Absolute (proven in court)
+**Status:** Spy communication confirmed
+**Function:** One-time pad encrypted messages to agents

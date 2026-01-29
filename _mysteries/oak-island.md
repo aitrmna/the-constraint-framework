@@ -1,161 +1,159 @@
 ---
 layout: mystery
 title: Oak Island
-subtitle: 230 years of digging. Is anything there?
-description: The Money Pit. The world's longest treasure hunt.
-result: Cannot eliminate — no significant treasure
+subtitle: Nova Scotia, 1795-present
+description: 230 years of digging. Millions spent. Is anything there?
+result: No significant treasure - industrial site only hypothesis without failures
 category: historical
 ---
 
-Since 1795, people have been digging on Oak Island, Nova Scotia. Six people have died. Millions of dollars spent. Multiple TV series.
+Since 1795, people have been digging on Oak Island, Nova Scotia. Six dead. Millions spent. Multiple TV series.
 
-Is there actually anything there?
+Is there actually treasure there?
 
----
-
-## CONSTRAINT STACKING ANALYSIS
-
-**CLAIM:** Is there significant buried treasure on Oak Island?
-
-**STARTING SOLUTION SPACE:**
-- Pirate treasure
-- Knights Templar artifacts
-- British military payroll
-- French naval treasure
-- Shakespeare manuscripts
-- Natural sinkhole (no treasure)
-- 18th century industrial site (no treasure)
-- Hoax/salted site (no treasure)
+**The test:** What must be true if treasure exists? Does reality match?
 
 ---
 
-### CONSTRAINT 1 (MOST DAMNING): 230 Years of Searching Found Nothing
+## Competing Hypotheses
 
-**Evidence:**
-- Continuous treasure hunting since 1795
-- Modern technology: ground-penetrating radar, drilling, sonar
+1. Pirate treasure
+2. Knights Templar artifacts
+3. Military/government treasure
+4. Major treasure of any kind
+5. Natural sinkhole + minor 18th century activity (no treasure)
+
+---
+
+## H1-H4: Any Significant Treasure Exists
+
+**What must be true:**
+- 230 years of motivated searching would find it
+- Historical records would document the deposit
+- Something valuable would have been found
+- Modern technology would detect it
+
+**Reality check:**
+
+**Would be found?** → ✗ CRITICAL FAIL
+- Continuous searching since 1795
+- Modern tech: ground-penetrating radar, drilling, sonar
 - Millions of dollars invested
-- Multiple professional excavations
-- **Result: No treasure found. Ever.**
+- Professional excavations
+- **Result: Nothing found. Ever.**
+- If treasure existed, 230 years should have found it
 
-**What this means:** If significant treasure existed, 230 years of motivated searching with increasingly sophisticated technology should have found it.
-
-**ELIMINATES:**
-- ❌ Large treasure hoard (would have been found)
-- ❌ Easily accessible cache (would have been found)
-- ❌ Anything where treasure hunters have dug (they dug everywhere)
-
-**Remaining:** Treasure in undiscovered location, no treasure at all
-
----
-
-### CONSTRAINT 2: No Historical Documentation
-
-**Evidence:**
-- No historical record links any treasure to Oak Island
-- No pirate records mention it
-- No Templar documents reference North America
+**Historical documentation?** → ✗ CRITICAL FAIL
+- No pirate records mention Oak Island
+- No Templar documents reference North America (Templars dissolved 1312, structures date 1700s)
 - No military payroll reported missing
-- No French records of relocated treasure
-- **Zero primary sources for any treasure hypothesis**
+- No French treasure records (Louisbourg valuables documented as shipped to France)
+- Zero primary sources for any treasure hypothesis
 
-**What this means:** Every treasure theory is invented from the "mystery" backward. No independent evidence any treasure was ever buried there.
-
-**ELIMINATES:**
-- ❌ Pirate treasure (no pirate records)
-- ❌ Templar artifacts (Templars dissolved 1312, structures date to 1700s)
-- ❌ Military payroll (no missing payroll documented)
-- ❌ Shakespeare manuscripts (no Bacon-Nova Scotia connection)
-- ❌ French treasure (Louisbourg valuables documented as shipped to France)
-
-**Remaining:** Unknown depositor (no evidence), natural formation, industrial site, hoax
-
----
-
-### CONSTRAINT 3: What's Actually Been Found
-
-**Evidence:**
-- Old wooden structures (dated 1700s-1800s)
-- Coconut fiber (not native)
+**Something valuable found?** → ✗ CRITICAL FAIL
+- Old wooden structures (1700s-1800s)
+- Coconut fiber (used in rope-making)
 - Old coins (small value, 17th-18th century)
-- Bone fragments
-- Metal objects (tools, chains, nails)
-- Water channels to shore
+- Bone fragments, tools, chains, nails
+- **Nothing suggests treasure**
+- Consistent with industrial activity (salt works, tar kiln, ship repair)
 
-**What this means:** Consistent with 18th century industrial activity (salt works, tar kiln, ship repair). Coconut fiber was used in rope-making. Nothing found suggests treasure.
+**Modern tech detects?** → ✗ CRITICAL FAIL
+- If treasure existed, technology would locate it
+- Nothing detected
 
-**SUPPORTS:**
-- ✓ Industrial site hypothesis
-- ✓ Natural sinkhole with some human activity
+**Score:** 0/4 passes, 4 critical fails
+Calculation: 0% × (1 - 0.6) = **0%**
 
-**ELIMINATES:**
-- ❌ Untouched treasure vault (would have found something valuable)
-
-**Remaining:** Industrial site, natural sinkhole, minor historical activity
+**Result:** Dead. No treasure exists.
 
 ---
 
-### CONSTRAINT 4: The "Evidence" Pattern
+## H5: Natural Sinkhole + Industrial Activity
 
-**Evidence:**
-- Original inscribed stone: disappeared, only drawings remain
-- "Booby trap" flood tunnels: might be natural water table
-- Each generation finds just enough to keep digging
-- Finds are always tantalizing, never conclusive
+**What must be true:**
+- Geological features consistent with natural sinkhole
+- Artifacts consistent with 18th century activity
+- Water intrusion explainable by hydrology
+- No valuable items necessary
+- Economic incentive for perpetual mystery (TV, tourism)
 
-**What this means:** Pattern consistent with confirmation bias, possible salting, natural features misinterpreted.
+**Reality check:**
 
-**SUPPORTS:**
-- ✓ Hoax/salted site hypothesis
-- ✓ Natural formation misinterpreted
+**Natural features?** → ✓ PASS
+- "Flood tunnels" possibly natural karst hydrology
+- Water table intersection with excavation
+- Limestone area prone to sinkholes
 
----
+**18th century artifacts?** → ✓ PASS
+- Wooden structures dated 1700s-1800s
+- Coconut fiber (maritime rope-making material)
+- Tools, chains, nails
+- All consistent with industrial site
 
-### CONSTRAINT 5: Economic Logic
+**Water explainable?** → ✓ PASS
+- Natural water table
+- Connection to shore via permeable ground
+- No "booby trap" necessary
 
-**Evidence:**
+**No treasure needed?** → ✓ PASS
+- Everything found fits industrial activity
+- Salt works, ship repair, or tar production
+- Common coastal operations
+
+**Economic incentive for mystery?** → ✓ PASS
 - 230 years = massive sunk cost
-- Modern treasure hunters need investors/TV revenue
+- Modern hunters need TV revenue/investors
 - Finding nothing but staying "close" is profitable
-- Finding treasure or proving nothing would end the business
+- Finding treasure OR proving nothing ends the business
+- **Perpetual mystery is the business model**
 
-**What this means:** Incentive structure rewards perpetual mystery, not resolution.
-
----
-
-## ANOMALIES
-
-**"But what about the coconut fiber?"**
-→ Used in rope-making. Consistent with maritime industrial activity.
-
-**"What about the flood tunnels?"**
-→ Possibly natural karst hydrology. Water management ≠ treasure.
-
-**"Why would people dig for 230 years if nothing's there?"**
-→ Sunk cost fallacy. Confirmation bias. The digging became the industry.
-
-All anomalies fit within remaining solution space.
+**Score:** 5/5 passes
+Calculation: 100% × (1 - 0) = **100%**
 
 ---
 
-## RESULT
+## Comparison
 
-| Hypothesis | Status |
-|------------|--------|
-| Pirate treasure | ❌ Eliminated |
-| Templar artifacts | ❌ Eliminated |
-| Military payroll | ❌ Eliminated |
-| French treasure | ❌ Eliminated |
-| Shakespeare manuscripts | ❌ Eliminated |
-| Major treasure of any kind | ❌ Eliminated |
-| **Industrial site / natural formation** | **Cannot eliminate** |
+| Hypothesis | Score | Critical Failures |
+|-----------|-------|-------------------|
+| **Natural + industrial** | **100%** | **0** |
+| Any significant treasure | 0% | 4 |
+
+**Winner:** No treasure. Only explanation without failures.
+
+---
+
+## The Pattern
+
+**"Evidence" always follows same pattern:**
+- Original inscribed stone: disappeared, only drawings remain
+- "Flood tunnels": might be natural water table
+- Each generation finds just enough to keep digging
+- Finds are tantalizing, never conclusive
+
+**This is confirmation bias + sunk cost fallacy.**
 
 ---
 
 ## What This Means
 
-We are not saying "there's definitely no treasure on Oak Island."
+230 years of nothing found confirms nothing is there.
 
-We are saying: "We eliminated every specific treasure hypothesis. The only explanation that survives the constraints is mundane — natural sinkhole plus minor 18th century activity, misinterpreted as treasure pit. 230 years of nothing found confirms nothing is there."
+**Every treasure hypothesis eliminated:**
+- No pirate records
+- No Templar connection (wrong dates)
+- No military documentation
+- No French records
 
-Sometimes the answer is: nothing's there.
+**Only explanation that survives:** Natural sinkhole with minor 18th century maritime/industrial activity, misinterpreted as treasure pit.
+
+**The digging IS the industry now.** TV shows, tourism, investment schemes. Finding treasure or proving nothing would end it.
+
+Sometimes the answer is: **nothing's there.**
+
+---
+
+**Confidence:** Very high (100% vs 0%)
+**Status:** No significant treasure exists
+**Economic reality:** Mystery is more profitable than resolution
